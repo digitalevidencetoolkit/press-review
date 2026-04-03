@@ -1,0 +1,23 @@
+{
+  "topic": "Censorship, content moderation, and suppression of digital speech in Europe",
+  "articles": [
+    {
+      "headline_en": "EU staff banned from using AI-generated content in official communications",
+      "source": "POLITICO (Belgium)",
+      "summary_en": "The European Commission, European Parliament, and Council of the EU have prohibited staff from using AI-generated images and videos in official documents and communications to protect credibility amid rising deepfake concerns. This policy contrasts with the US Trump administration's use of such content. AI may still be used for optimization like improving image quality.",
+      "significance": "This measure underscores the EU's prioritization of trust in official online communications, potentially setting a precedent for institutional content policies in the face of AI-driven misinformation."
+    },
+    {
+      "headline_en": "Are journalists liable for social media comments? An Italian court is poised to decide",
+      "source": "EUobserver (Belgium)",
+      "summary_en": "Italian journalist Fabio Butera faces liability for defamatory comments by others under his Facebook post criticizing a news report, despite the post being accurate and of public interest; lower courts ordered him to pay €33,000. The Court of Cassation will rule next week on whether journalists must monitor and delete user comments. Critics argue this imposes platform-level moderation duties on individuals, clashing with EU intermediary liability standards.",
+      "significance": "The ruling could redefine social media responsibilities for journalists across Italy and Europe, potentially chilling public discourse by making posting risky without constant moderation."
+    }
+  ],
+  "editorial_overview": "Recent European developments highlight tensions in digital speech regulation, from the EU institutions' ban on AI-generated content to maintain official communication integrity to Italy's courts potentially holding journalists liable for user comments. These cases reflect broader efforts to combat misinformation and defamation online but risk overreach into individual expression. The outcomes could influence platform moderation norms and free speech standards continent-wide.",
+  "date": "2026-04-03",
+  "citations": [
+    "https://gigazine.net/gsc_news/en/20260402-eu-ban-deepfakes-ai-generation-official/",
+    "https://euobserver.com/209378/are-journalists-liable-for-social-media-comments-an-italian-court-is-poised-to-decide/"
+  ]
+}
