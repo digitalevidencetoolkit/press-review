@@ -3,18 +3,18 @@
   "articles": [
     {
       "headline_en": "EU staff banned from using AI-generated content in official communications",
-      "source": "Gigazine (Japan) citing POLITICO (Belgium)",
-      "summary_en": "The European Commission, European Parliament, and Council of the EU have prohibited staff from using AI-generated images and videos in official documents and communications to protect credibility amid rising deepfake concerns. This policy contrasts with the US Trump administration's use of such content. AI may still be used for optimization like image quality improvement.",
-      "significance": "This government-imposed restriction on AI content in official EU communications underscores efforts to combat misinformation and maintain public trust in digital outputs."
+      "source": "POLITICO (Belgium)",
+      "summary_en": "The European Commission, European Parliament, and Council of the EU have prohibited staff from using AI-generated images and videos in official documents and communications to protect credibility amid rising deepfake concerns. This policy contrasts with the US Trump administration's use of such content. AI may still be used for optimization like improving image quality.",
+      "significance": "This measure underscores the EU's prioritization of trust in official online communications, potentially setting a precedent for institutional content policies in the face of AI-driven misinformation."
     },
     {
       "headline_en": "Are journalists liable for social media comments? An Italian court is poised to decide",
       "source": "EUobserver (Belgium)",
-      "summary_en": "Italian journalist Fabio Butera faces liability for defamatory comments by others under his 2018 Facebook post criticizing a news report, despite the post's accuracy; lower courts ordered him to pay €33,000, holding him responsible for not deleting the comments. Italy's Court of Cassation will soon rule on whether journalists are legally accountable for strangers' comments on their social media. The case raises concerns over free speech, as courts expect journalists to moderate comments like platforms.",
-      "significance": "A ruling imposing platform-like moderation duties on individual journalists could chill online public discourse and force self-censorship across Europe."
+      "summary_en": "Italian journalist Fabio Butera faces liability for defamatory comments by others under his Facebook post criticizing a news report, despite the post being accurate and of public interest; lower courts ordered him to pay €33,000. The Court of Cassation will rule next week on whether journalists must monitor and delete user comments. Critics argue this imposes platform-level moderation duties on individuals, clashing with EU intermediary liability standards.",
+      "significance": "The ruling could redefine social media responsibilities for journalists across Italy and Europe, potentially chilling public discourse by making posting risky without constant moderation."
     }
   ],
-  "editorial_overview": "Recent European developments highlight growing tensions around digital speech, with the EU institutions banning AI-generated content in official communications to safeguard credibility against deepfakes. In Italy, courts have held a journalist liable for unmoderated comments under his social media post, prompting a pivotal Court of Cassation review that could redefine personal accountability online. These cases reflect broader efforts by governments and courts to regulate online content, potentially impacting free expression by pressuring public figures to self-censor or moderate extensively.",
+  "editorial_overview": "Recent European developments highlight tensions in digital speech regulation, from the EU institutions' ban on AI-generated content to maintain official communication integrity to Italy's courts potentially holding journalists liable for user comments. These cases reflect broader efforts to combat misinformation and defamation online but risk overreach into individual expression. The outcomes could influence platform moderation norms and free speech standards continent-wide.",
   "date": "2026-04-03",
   "citations": [
     "https://gigazine.net/gsc_news/en/20260402-eu-ban-deepfakes-ai-generation-official/",
