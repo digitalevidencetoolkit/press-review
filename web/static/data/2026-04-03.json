@@ -1,23 +1,33 @@
 {
-  "topic": "Censorship, content moderation, and suppression of digital speech in Europe",
+  "topic": "Censorship, content moderation, and suppression of political speech online in Europe",
   "articles": [
     {
-      "headline_en": "EU staff banned from using AI-generated content in official communications",
-      "source": "POLITICO (Belgium)",
-      "summary_en": "The European Commission, European Parliament, and Council of the EU have prohibited staff from using AI-generated images and videos in official documents and communications to protect credibility amid rising deepfake concerns. This policy contrasts with the US Trump administration's use of such content. AI may still be used for optimization like improving image quality.",
-      "significance": "This measure underscores the EU's prioritization of trust in official online communications, potentially setting a precedent for institutional content policies in the face of AI-driven misinformation."
+      "headline_en": "Platforms remove millions of posts, but few decisions are challenged",
+      "source": "EU Perspectives, EU",
+      "summary_en": "EU transparency reports under the Digital Services Act reveal platforms like TikTok, Meta, X, LinkedIn, and Snapchat removed millions of content pieces in late 2025, mostly via automated systems, with appeals below 1% and varying reversal rates. Government requests for user data outnumbered content removal orders, raising overreach concerns from digital rights groups. The data highlights heavy reliance on algorithms and low user challenges to moderation.",
+      "significance": "This underscores the massive scale of platform moderation in Europe and potential risks of unchecked algorithmic enforcement and government surveillance under the DSA."
     },
     {
-      "headline_en": "Are journalists liable for social media comments? An Italian court is poised to decide",
-      "source": "EUobserver (Belgium)",
-      "summary_en": "Italian journalist Fabio Butera faces liability for defamatory comments by others under his Facebook post criticizing a news report, despite the post being accurate and of public interest; lower courts ordered him to pay €33,000. The Court of Cassation will rule next week on whether journalists must monitor and delete user comments. Critics argue this imposes platform-level moderation duties on individuals, clashing with EU intermediary liability standards.",
-      "significance": "The ruling could redefine social media responsibilities for journalists across Italy and Europe, potentially chilling public discourse by making posting risky without constant moderation."
+      "headline_en": "French far-left MEP Rima Hassan to be tried in July over post on X",
+      "source": "Ground News, International (reporting on France)",
+      "summary_en": "French police detained European Parliament Member Rima Hassan over a deleted X post from March 26 referencing Kozo Okamoto, convicted for the 1972 Lod Airport attack, on suspicion of 'apology for terrorism.' She faces trial in July. The case involves a now-deleted social media message by a political figure.",
+      "significance": "It exemplifies legal action against a politician's online speech in France, highlighting tensions between free expression and anti-terrorism laws in digital spaces."
+    },
+    {
+      "headline_en": "EU staff banned from using AI-generated content in official communications",
+      "source": "Gigazine (reporting POLITICO), Japan (EU focus)",
+      "summary_en": "The European Commission, Parliament, and Council have prohibited staff from using AI-generated images and videos in official documents to protect message credibility amid deepfake concerns. This policy contrasts with U.S. practices and prioritizes trust in communications, allowing AI only for optimization. POLITICO reports it as a response to rising online AI misuse.",
+      "significance": "The ban represents EU efforts to combat disinformation in official political messaging, potentially setting a precedent for regulated online content by public institutions."
     }
   ],
-  "editorial_overview": "Recent European developments highlight tensions in digital speech regulation, from the EU institutions' ban on AI-generated content to maintain official communication integrity to Italy's courts potentially holding journalists liable for user comments. These cases reflect broader efforts to combat misinformation and defamation online but risk overreach into individual expression. The outcomes could influence platform moderation norms and free speech standards continent-wide.",
+  "editorial_overview": "Recent European developments reveal intensified scrutiny on online content moderation, with DSA reports showing platforms' massive automated removals and rare appeals, alongside concerns over government data requests. Legal actions, such as the detention of French MEP Rima Hassan over a deleted X post, illustrate direct suppression of political speech. EU bans on AI-generated content in official communications further signal proactive measures against digital disinformation, painting a picture of tightening controls across the region.",
   "date": "2026-04-03",
   "citations": [
+    "https://euperspectives.eu/2026/04/social-media-content-moderation-eu-dsa/",
     "https://gigazine.net/gsc_news/en/20260402-eu-ban-deepfakes-ai-generation-official/",
-    "https://euobserver.com/209378/are-journalists-liable-for-social-media-comments-an-italian-court-is-poised-to-decide/"
+    "https://www.techradar.com/pro/european-union-wants-to-ban-ai-created-images-and-video-in-official-messaging",
+    "https://ground.news/article/french-far-left-mep-rima-hassan-to-be-tried-in-july-over-post-on-x_4a5e66",
+    "https://www.commondreams.org/news/rima-hassan-arrest",
+    "https://www.socialmediatoday.com/news/eu-regulators-propose-banning-ai-nudification-apps/816051/"
   ]
 }
