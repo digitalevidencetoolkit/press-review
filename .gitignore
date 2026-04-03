@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+web/node_modules/
+web/package-lock.json
+web/.svelte-kit/
+web/build/
+
+# Local env files — never commit secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
