@@ -5,10 +5,12 @@ export const ssr = false
 export async function load({ fetch }) {
   try {
     const index = await fetch(`${base}/data/index.json`).then(r => r.json())
-    if (!index.dates?.length) return { digest: null, dates: [] }
-    const digest = await fetch(`${base}/data/${index.dates[0]}.json`).then(r => r.json())
-    return { digest, dates: index.dates }
+    if (!index.dates?.length) return { digests: [] }
+    const digests = await Promise.all(
+      index.dates.map(d => fetch(`${base}/data/${d}.json`).then(r => r.json()))
+    )
+    return { digests }
   } catch {
-    return { digest: null, dates: [] }
+    return { digests: [] }
   }
 }

@@ -1,9 +1,12 @@
 <script>
-  let { article } = $props()
+  let { article, date } = $props()
 </script>
 
 <article>
-  <div class="source">{article.source}</div>
+  <div class="meta">
+    <span class="source">{article.source}</span>
+    {#if date}<span class="date">{date}</span>{/if}
+  </div>
   <h2>{article.headline_en}</h2>
   <p class="summary">{article.summary_en}</p>
   <div class="sig">{article.significance}</div>
@@ -21,13 +24,28 @@
   article:hover {
     box-shadow: 0 4px 24px rgba(28, 6, 46, 0.07);
   }
+  .meta {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+  }
+  .date {
+    font-size: 0.65rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    color: #8b8ba9;
+    background: #ededf5;
+    border-radius: 999px;
+    padding: 0.15rem 0.6rem;
+  }
   .source {
     font-size: 0.68rem;
     font-weight: 600;
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: #5b56b9;
-    margin-bottom: 0.5rem;
   }
   h2 {
     font-family: 'Playfair Display', serif;
