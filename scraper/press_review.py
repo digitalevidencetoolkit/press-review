@@ -10,15 +10,15 @@ OUTPUT_DIR = os.getenv("OUTPUT_DIR", "web/static/data")
 SYSTEM_PROMPT = """You are an editorial assistant producing a daily press review.
 Always write in English. Be concise, factual, and neutral in tone. Do not editorialise."""
 
-USER_PROMPT = """Search news from across the world published in the last months covering any of the following:
+USER_PROMPT = """Search news from Europe published in the last week covering any of the following:
 - Politicians or public figures deleting social media posts, tweets, or messages
-- Politicians or public figures Having said something controversial or infuriating on social media
+- Politicians or public figures having said something controversial or infuriating on social media
 - Online content removal ordered or pressured by governments or political actors
 - Censorship or suppression of digital public speech
 - Platform moderation controversies involving political figures
 - Court or regulatory orders to remove political speech online
 
-Include sources in any language. Prioritise established news outlets. Do not invent or paraphrase sources — only report what you find.
+Include sources in any European language. Prioritise established news outlets. Do not invent or paraphrase sources — only report what you find.
 
 For each relevant article, extract:
 - The headline translated into English
@@ -80,23 +80,36 @@ def main():
             {"role": "user", "content": USER_PROMPT},
         ],
         response_format=RESPONSE_FORMAT,
-        extra_body={"search_recency_filter": "month"},
+        extra_body={"search_recency_filter": "week"},
     )
 
     digest = json.loads(response.choices[0].message.content)
     digest["date"] = str(date.today())
-    digest["citations"] = getattr(response, "citations", [])
+    new_citations = getattr(response, "citations", [])
 
     if not digest["articles"]:
         print("Warning: no articles found.", file=sys.stderr)
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     out_path = f"{OUTPUT_DIR}/{digest['date']}.json"
+
+    if os.path.exists(out_path):
+        with open(out_path, encoding="utf-8") as f:
+            existing = json.load(f)
+        existing_headlines = {a["headline_en"] for a in existing["articles"]}
+        new_articles = [a for a in digest["articles"] if a["headline_en"] not in existing_headlines]
+        existing["articles"].extend(new_articles)
+        existing["citations"] = list(dict.fromkeys(existing.get("citations", []) + new_citations))
+        digest = existing
+        print(f"Merged {len(new_articles)} new articles into existing file")
+    else:
+        digest["citations"] = new_citations
+
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(digest, f, indent=2, ensure_ascii=False)
 
     update_index(OUTPUT_DIR)
-    print(f"Saved {len(digest['articles'])} articles → {out_path}")
+    print(f"Saved {len(digest['articles'])} articles total → {out_path}")
 
 
 if __name__ == "__main__":
