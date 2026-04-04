@@ -10,14 +10,15 @@ OUTPUT_DIR = os.getenv("OUTPUT_DIR", "web/static/data")
 SYSTEM_PROMPT = """You are an editorial assistant producing a daily press review.
 Always write in English. Be concise, factual, and neutral in tone. Do not editorialise."""
 
-USER_PROMPT = """Search news from across Europe published in the last week covering any of the following:
+USER_PROMPT = """Search news from across the world published in the last months covering any of the following:
 - Politicians or public figures deleting social media posts, tweets, or messages
+- Politicians or public figures Having said something controversial or infuriating on social media
 - Online content removal ordered or pressured by governments or political actors
 - Censorship or suppression of digital public speech
 - Platform moderation controversies involving political figures
 - Court or regulatory orders to remove political speech online
 
-Include sources in any European language. Prioritise established news outlets. Do not invent or paraphrase sources — only report what you find.
+Include sources in any language. Prioritise established news outlets. Do not invent or paraphrase sources — only report what you find.
 
 For each relevant article, extract:
 - The headline translated into English
@@ -25,7 +26,7 @@ For each relevant article, extract:
 - A 2-3 sentence English summary
 - One sentence on why it matters
 
-Then write a short editorial overview (3-5 sentences) summarising the overall picture across Europe.
+Then write a short editorial overview (3-5 sentences) summarising the overall picture.
 
 Return a JSON object matching the schema provided."""
 
@@ -79,7 +80,7 @@ def main():
             {"role": "user", "content": USER_PROMPT},
         ],
         response_format=RESPONSE_FORMAT,
-        extra_body={"search_recency_filter": "week"},
+        extra_body={"search_recency_filter": "month"},
     )
 
     digest = json.loads(response.choices[0].message.content)
