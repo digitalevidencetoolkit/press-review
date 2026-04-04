@@ -18,6 +18,18 @@
       "source": "CEDMO Hub, EU",
       "summary_en": "A survey shows 60% of Europeans think Chat Control 2.0 will enhance online safety, but 28.1% worry it threatens freedom of speech, with the highest concerns in certain demographics. The regulation involves scanning private messages for child abuse material, sparking debates on privacy and censorship.",
       "significance": "Public division on Chat Control highlights tensions between safety and speech freedoms, potentially influencing EU regulatory pushes for mass surveillance of digital communications."
+    },
+    {
+      "headline_en": "EU member states pursue social media bans, outpacing Brussels",
+      "source": "The Parliament Magazine, Belgium",
+      "summary_en": "EU member states are rapidly proposing social media bans for minors, pressuring the European Commission to enact unified rules and avoid legal conflicts. France approved a ban for under-15s, Spain proposed a similar measure, and 10 countries were advancing such restrictions as of March 30. These national actions risk clashing with the EU's Digital Services Act.",
+      "significance": "This trend highlights governments pressuring platforms to remove or restrict access to content for minors, potentially fragmenting EU digital regulation."
+    },
+    {
+      "headline_en": "France moves closer to banning children under 15 from social media",
+      "source": "Euronews, Europe",
+      "summary_en": "France's Senate approved restricting social media for under-15s, aligning with President Macron's pledge, though details differ between parliamentary houses. Platforms would need to delete accounts of children under 15 and ban phones in high schools. A prior 2023 law failed due to conflicts with the EU's Digital Services Act.",
+      "significance": "French lawmakers are ordering platforms to remove minors' content, exemplifying regulatory mandates on online speech moderation."
     }
   ],
   "editorial_overview": "Recent European developments reveal growing government and judicial interventions in online speech, from Spain's HODIO AI monitoring political discourse to Italy's courts potentially holding journalists liable for user comments. These cases, alongside public concerns over the EU's Chat Control 2.0, signal a trend toward increased platform pressures and content oversight. While aimed at curbing hate or harm, they risk undermining free expression and democratic debate across the continent.",
@@ -25,6 +37,8 @@
   "citations": [
     "https://www.realclearworld.com/articles/2026/03/30/spains_new_hodio_speech_monitor_is_the_latest_assault_on_free_expression_in_europe_1173467.html",
     "https://euobserver.com/209378/are-journalists-liable-for-social-media-comments-an-italian-court-is-poised-to-decide/",
-    "https://cedmohub.eu/chat-control-2-0-six-out-of-ten-europeans-believe-it-will-improve-online-safety-while-one-fifth-are-willing-to-protest-against-this-regulation/"
+    "https://cedmohub.eu/chat-control-2-0-six-out-of-ten-europeans-believe-it-will-improve-online-safety-while-one-fifth-are-willing-to-protest-against-this-regulation/",
+    "https://www.theparliamentmagazine.eu/news/article/capitals-social-media-bans-outpace-brussels",
+    "https://www.euronews.com/next/2026/04/01/france-moves-closer-to-social-media-ban-for-children-under-15-but-houses-divided-on-detail"
   ]
 }
