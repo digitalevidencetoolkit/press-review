@@ -1,0 +1,87 @@
+{
+  "date": "2026-04-05",
+  "articles": [
+    {
+      "headline_en": "Finnish Supreme Court fines politician for hate speech over religious pamphlet",
+      "source": "Foundation for Individual Rights and Expression (FIRE), USA",
+      "source_url": "https://www.fire.org/news/blogs/free-speech-dispatch/finnish-supreme-court-fines-politician-hate-speech-over-religious",
+      "summary_en": "The Finnish Supreme Court convicted politician Päivi Räsänen on one hate speech charge related to a pamphlet posted online, acquitting her on a separate tweet charge. The ruling followed a seven-year legal battle. Räsänen is considering an appeal to the European Court of Human Rights.",
+      "significance": "Establishes precedent for criminalizing online religious expression under hate speech laws, impacting free speech across Europe.",
+      "topic": "Court and regulatory orders"
+    },
+    {
+      "headline_en": "Why Finland's Conviction Of Päivi Räsänen Reverberates Beyond Europe",
+      "source": "Religion Unplugged, USA",
+      "source_url": "https://religionunplugged.com/news/2026/3/31/a-turning-point-for-free-speech-finlands-conviction-of-pivi-rsnen-reverberates-beyond-europe",
+      "summary_en": "Finland's Supreme Court on March 26 convicted Päivi Räsänen and Bishop Juhana Pohjola over a 2004 booklet on homosexuality, ordering its removal from public access and destruction of copies. The decision leverages the EU Digital Services Act to potentially enforce removal across Europe. Platforms may face pressure to comply beyond EU borders.",
+      "significance": "Direct court order to remove and destroy specific online content, with EU-wide implications under the Digital Services Act for political and religious speech.",
+      "topic": "Court and regulatory orders"
+    },
+    {
+      "headline_en": "Spain's New 'HODIO' Speech Monitor Is the Latest Assault on Free Expression in Europe",
+      "source": "RealClearWorld (US-based, covering Europe)",
+      "source_url": "https://www.realclearworld.com/articles/2026/03/30/spains_new_hodio_speech_monitor_is_the_latest_assault_on_free_expression_in_europe_1173467.html",
+      "summary_en": "Spain's government under Prime Minister Pedro Sánchez has launched HODIO, an AI system to monitor social media for hate speech and polarization. Critics argue it enables political monitoring and over-censorship, targeting conservative viewpoints on issues like immigration. It ranks platforms on problematic speech, extending beyond existing laws like Germany's Network Enforcement Act and the EU's Digital Services Act.",
+      "significance": "HODIO represents a new government tool for supervising online political discourse, raising concerns over free speech and democratic accountability in Europe.",
+      "topic": "Platform moderation controversies"
+    },
+    {
+      "headline_en": "Inside the far-right network targeting Europe's digital rules",
+      "source": "Multinationales.org (France)",
+      "source_url": "https://multinationales.org/en/investigations/the-reactionary-international-285/inside-the-far-right-network-targeting-europe-s-digital-rules",
+      "summary_en": "A far-right network, including Trump allies and figures like Elon Musk, is attacking the EU's Digital Services Act on content moderation. Events like a February 2026 summit hosted by Patriots for Europe MEP Jordan Bardella in the European Parliament criticized DSA as censorship. This follows EU fines on X and involves conservative groups close to Hungary's government.",
+      "significance": "Highlights transatlantic pushback against EU platform moderation rules by political figures, involving European far-right MEPs and US influencers.",
+      "topic": "Platform moderation controversies"
+    },
+    {
+      "headline_en": "WATCH: Rima Hassan Held for 15 Hours Over Controversial X Post",
+      "source": "YouTube (French news coverage)",
+      "source_url": "https://www.youtube.com/watch?v=b5DYr_OofOA",
+      "summary_en": "French far-left MEP Rima Hassan was detained for 15 hours over a now-deleted X post quoting a controversial statement on the 1972 Lod airport attack. She faces charges of online terrorism apology, potentially leading to a seven-year prison sentence and €100,000 fine. Hassan denounces it as political harassment targeting her pro-Palestinian activism ahead of presidential elections.",
+      "significance": "The case highlights tensions between free speech, pro-Palestinian activism, and judicial actions against politicians in France.",
+      "topic": "Controversial statements online"
+    },
+    {
+      "headline_en": "WATCH NOW: French MEP Rima Hassan Faces Police Detention Over Social Media Post",
+      "source": "YouTube (French news coverage)",
+      "source_url": "https://www.youtube.com/watch?v=K6JByJGtPEk",
+      "summary_en": "French MEP Rima Hassan, from France Unbowed, was held for 15 hours due to a deleted social media post on the 1972 Lod airport attack, charged with apologising for terrorism. Her lawyer claims procedural misuse to bypass immunity amid her pro-Palestinian stance. She frames it as repression ahead of elections, with trial set for July 2026.",
+      "significance": "It underscores debates on parliamentary immunity, expression limits, and political targeting in Europe.",
+      "topic": "Controversial statements online"
+    },
+    {
+      "headline_en": "Hungary leads the far-right charge on free speech",
+      "source": "Eurozine, Austria",
+      "source_url": "https://www.eurozine.com/hungary-leads-the-far-right-charge-on-free-speech/",
+      "summary_en": "Hungary's MCC Brussels accuses the EU's Digital Services Act and Democracy Shield of forming a 'censorship operating system' to suppress right-wing speech, aligning with US investigations. Viktor Orbán's network portrays EU anti-disinformation efforts as stifling dissent ahead of Hungarian elections. Critics like EU Commissioner Michael McGrath defend these initiatives as protecting robust debate.",
+      "significance": "Illustrates Hungary's role in far-right opposition to EU speech regulations amid upcoming elections.",
+      "topic": "Censorship of digital speech"
+    }
+  ],
+  "citations": [
+    "https://www.lawfaremedia.org/article/the-state-department-s-x-directive-and-the-end-of-platform-independence",
+    "https://cepis.org/eu-parliament-rejects-chat-control-major-victory-for-digital-rights-and-cepis/",
+    "https://www.amnesty.org/en/latest/news/2026/04/eu-simplification-laws/",
+    "https://www.brusselstimes.com/2061150/local-leaders-warn-ai-and-migration-strain-public-services-across-europe",
+    "https://news.ycombinator.com/item?id=47625244",
+    "https://www.techradar.com/pro/european-union-wants-to-ban-ai-created-images-and-video-in-official-messaging",
+    "https://www.fire.org/news/blogs/free-speech-dispatch/finnish-supreme-court-fines-politician-hate-speech-over-religious",
+    "https://religionunplugged.com/news/2026/3/31/a-turning-point-for-free-speech-finlands-conviction-of-pivi-rsnen-reverberates-beyond-europe",
+    "https://euobserver.com/209378/are-journalists-liable-for-social-media-comments-an-italian-court-is-poised-to-decide/",
+    "https://www.article19.org/resources/italy-journalist-must-not-be-liable-for-third-party-social-media-comments/",
+    "https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/brazil-part-iii-report-final.pdf",
+    "https://www.realclearworld.com/articles/2026/03/30/spains_new_hodio_speech_monitor_is_the_latest_assault_on_free_expression_in_europe_1173467.html",
+    "https://multinationales.org/en/investigations/the-reactionary-international-285/inside-the-far-right-network-targeting-europe-s-digital-rules",
+    "https://euperspectives.eu/2026/04/social-media-content-moderation-eu-dsa/",
+    "https://ordoiuris.pl/en/comments/the-eu-democracy-shield-is-the-end-of-freedom/",
+    "https://www.ui.se/globalassets/ui.se-eng/publications/other-publications/still-holding-on-amidst-growing-digital-repression.pdf",
+    "https://table.media/en/europe/professional-briefing/1159-shein-and-temu-to-face-fines-meloni-reshuffles-her-cabinet",
+    "https://www.youtube.com/watch?v=b5DYr_OofOA",
+    "https://www.youtube.com/watch?v=K6JByJGtPEk",
+    "https://www.euronews.com/video/2026/03/24/impersonating-euronews-pro-kremlin-disinformation-network-takes-aim-at-hungarys-elections",
+    "https://knews.kathimerini.com.cy/en/news/three-months-zero-answers-controversial-political-video-still-under-investigation",
+    "https://www.eurozine.com/hungary-leads-the-far-right-charge-on-free-speech/",
+    "https://cepr.org/voxeu/columns/content-moderators-dilemma-how-removing-toxic-speech-distorts-online-discourse",
+    "https://www.indexoncensorship.org/2026/04/the-monster-unleashed-how-hungarys-illiberal-vision-is-seducing-the-western-world/"
+  ]
+}

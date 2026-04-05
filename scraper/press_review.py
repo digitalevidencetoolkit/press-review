@@ -17,7 +17,7 @@ For each relevant article, extract:
 - The source publication name and country
 - The direct URL to the article
 - A 2-3 sentence English summary
-- One sentence on why it matters
+- One sentence on why it matters for investigators and journalists who need to preserve and authenticate disappearing digital content as evidence — focusing on what is at risk of being deleted, suppressed, or disputed, and why that creates an evidentiary challenge
 
 Return a JSON object matching the schema provided."""
 

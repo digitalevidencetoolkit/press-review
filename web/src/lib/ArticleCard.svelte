@@ -15,6 +15,9 @@
   <h2>{article.headline_en}</h2>
   <p class="summary">{article.summary_en}</p>
   <div class="sig">{article.significance}</div>
+  {#if article.source_url}
+    <a class="read-more" href={article.source_url} target="_blank" rel="noopener noreferrer">Read article →</a>
+  {/if}
 </article>
 
 <style>
@@ -79,6 +82,15 @@
     line-height: 1.7;
     margin-bottom: 0.75rem;
   }
+  .read-more {
+    display: inline-block;
+    margin-top: 0.75rem;
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: #5b56b9;
+    text-decoration: none;
+  }
+  .read-more:hover { text-decoration: underline; }
   .sig {
     font-size: 0.8rem;
     font-weight: 500;
