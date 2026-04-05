@@ -9,6 +9,7 @@
     {:else}
       <span class="source">{article.source}</span>
     {/if}
+    {#if article.topic}<span class="topic">{article.topic}</span>{/if}
     {#if date}<span class="date">{date}</span>{/if}
   </div>
   <h2>{article.headline_en}</h2>
@@ -41,6 +42,15 @@
     letter-spacing: 0.06em;
     color: #8b8ba9;
     background: #ededf5;
+    border-radius: 999px;
+    padding: 0.15rem 0.6rem;
+  }
+  .topic {
+    font-size: 0.65rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    color: #5b56b9;
+    background: rgba(91, 86, 185, 0.1);
     border-radius: 999px;
     padding: 0.15rem 0.6rem;
   }
