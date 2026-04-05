@@ -4,7 +4,11 @@
 
 <article>
   <div class="meta">
-    <span class="source">{article.source}</span>
+    {#if article.source_url}
+      <a class="source" href={article.source_url} target="_blank" rel="noopener noreferrer">{article.source}</a>
+    {:else}
+      <span class="source">{article.source}</span>
+    {/if}
     {#if date}<span class="date">{date}</span>{/if}
   </div>
   <h2>{article.headline_en}</h2>
@@ -46,6 +50,10 @@
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: #5b56b9;
+    text-decoration: none;
+  }
+  a.source:hover {
+    text-decoration: underline;
   }
   h2 {
     font-family: 'Playfair Display', serif;

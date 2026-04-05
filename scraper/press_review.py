@@ -23,6 +23,7 @@ Include sources in any European language. Prioritise established news outlets. D
 For each relevant article, extract:
 - The headline translated into English
 - The source publication name and country
+- The direct URL to the article
 - A 2-3 sentence English summary
 - One sentence on why it matters
 
@@ -46,10 +47,11 @@ RESPONSE_FORMAT = {
                         "properties": {
                             "headline_en": {"type": "string"},
                             "source": {"type": "string"},
+                            "source_url": {"type": "string"},
                             "summary_en": {"type": "string"},
                             "significance": {"type": "string"},
                         },
-                        "required": ["headline_en", "source", "summary_en", "significance"],
+                        "required": ["headline_en", "source", "source_url", "summary_en", "significance"],
                     },
                 },
                 "editorial_overview": {"type": "string"},
