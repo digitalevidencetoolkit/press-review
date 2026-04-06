@@ -1,0 +1,23 @@
+{
+  "topic": "European news on politicians deleting social media posts, controversial statements, content removal, censorship, or platform moderation",
+  "articles": [
+    {
+      "headline_en": "WATCH: Rima Hassan Held for 15 Hours Over Controversial X Post",
+      "source": "DRM News, France",
+      "summary_en": "French far-left MEP Rima Hassan was detained for 15 hours over a now-deleted social media post quoting a statement on the 1972 Lod airport attack, facing charges of online terrorism apology with a potential seven-year sentence. She denounces it as political and judicial harassment targeting her pro-Palestinian activism ahead of presidential elections. Her lawyer challenges the arrest's legality, bypassing parliamentary immunity, with trial set for July 7, 2026.",
+      "significance": "This case highlights tensions between free speech, political activism, and anti-terrorism laws in France, potentially setting a precedent for prosecuting lawmakers' online statements."
+    },
+    {
+      "headline_en": "For Stability! threatened with suspension, makes U-turn on social media",
+      "source": "LSM.lv, Latvia",
+      "summary_en": "The Latvian For Stability! party deleted social media entries after the Prosecutor General's Office threatened to petition the court for the party's suspension based on that content. This action followed warnings over the posts' implications. The party reversed its stance to avoid legal repercussions.",
+      "significance": "It demonstrates how prosecutorial pressure can lead to self-censorship by political parties on social media, raising concerns about political expression in Latvia."
+    }
+  ],
+  "editorial_overview": "Recent incidents in France and Latvia illustrate growing scrutiny of politicians' social media activity, with legal actions prompting deletions and detentions. French MEP Rima Hassan's case involves direct judicial intervention over a deleted post, while Latvia's For Stability! party self-censored to evade suspension. These events signal a broader European trend of using legal tools to moderate political online speech, potentially chilling public discourse.",
+  "date": "2026-04-06",
+  "citations": [
+    "https://www.youtube.com/watch?v=b5DYr_OofOA",
+    "https://eng.lsm.lv/article/politics/politics/26.03.2026-for-stability-threatened-with-suspension-makes-u-turn-on-social-media.a640542/"
+  ]
+}
