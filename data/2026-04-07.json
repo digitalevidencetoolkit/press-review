@@ -1,0 +1,23 @@
+{
+  "topic": "European news on politicians' social media controversies and censorship",
+  "articles": [
+    {
+      "headline_en": "Meta allegedly censors Hungary ruling party posts",
+      "source": "The News International, Pakistan (covering Hungary)",
+      "summary_en": "Hungary's Fidesz party and supporters, including Prime Minister Viktor Orbán, accuse Meta of censoring their social media posts ahead of the April 12 elections, claiming electoral interference. Fact-checkers found no evidence of restrictions, with Meta denying any deletions and confirming Orbán’s posts remain active. The allegations stem from a video by opposition MEP Dóra Dávid on reporting hate speech, aligned with EU Digital Services Act standards.",
+      "significance": "This highlights ongoing tensions between European governments and social media platforms over content moderation during elections, questioning the balance between free speech and combating misinformation."
+    },
+    {
+      "headline_en": "For Stability! threatened with suspension, makes U-turn on social media",
+      "source": "LSM.lv, Latvia",
+      "summary_en": "Latvia's For Stability! party deleted social media posts after the Prosecutor General's Office threatened to petition a court for the party's suspension based on that content. The deletions followed a warning over the posts' implications for party stability. This incident underscores legal pressures on political speech online in the Baltic region.",
+      "significance": "It demonstrates how European authorities can compel political parties to remove online content, raising concerns about the suppression of digital public speech through judicial threats."
+    }
+  ],
+  "editorial_overview": "Recent European news reveals heightened scrutiny on social media activity by politicians, with Hungary's Fidesz accusing Meta of censorship ahead of elections—claims debunked by fact-checkers—and Latvia's For Stability! party deleting posts to avoid suspension. These cases illustrate platform moderation disputes and governmental pressures on online political expression. They signal broader debates on balancing electoral integrity, free speech, and regulatory oversight in the EU digital space.",
+  "date": "2026-04-07",
+  "citations": [
+    "https://www.thenews.com.pk/latest/1397968-facebook-allegedly-censors-hungary-ruling-party-posts",
+    "https://eng.lsm.lv/article/politics/politics/26.03.2026-for-stability-threatened-with-suspension-makes-u-turn-on-social-media.a640542/"
+  ]
+}
