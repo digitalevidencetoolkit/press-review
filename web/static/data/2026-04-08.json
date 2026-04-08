@@ -1,0 +1,23 @@
+{
+  "topic": "European Digital Speech and Political Content Moderation",
+  "articles": [
+    {
+      "headline_en": "Meta Allegedly Censors Hungary Ruling Party Posts",
+      "source": "The News (Pakistan)",
+      "summary_en": "Hungary's Fidesz party and supporters accused Meta of electoral interference ahead of the April 12 elections, claiming the platform restricted their content. Meta denied the allegations, confirming that Prime Minister Viktor Orbán's posts remain active, while fact-checkers found no evidence supporting the censorship claims.",
+      "significance": "The dispute highlights tensions between social media platforms and ruling political parties over content moderation practices during critical electoral periods in Europe."
+    },
+    {
+      "headline_en": "For Stability! Party Makes U-turn on Social Media Following Suspension Threat",
+      "source": "LSM (Latvia)",
+      "summary_en": "Latvia's For Stability! party deleted social media entries after the Prosecutor General's Office threatened to petition the court for the party's suspension based on those posts. The party's removal of the content represents a reversal of its previous online messaging.",
+      "significance": "The case demonstrates how legal pressure from government authorities can prompt political parties to self-censor and alter their digital communications in Baltic Europe."
+    }
+  ],
+  "editorial_overview": "Recent developments across Europe reveal recurring tensions between political actors and digital platforms or regulatory authorities over online speech. In Hungary, the ruling Fidesz party's unsubstantiated censorship allegations against Meta reflect broader concerns about platform moderation during elections, while Latvia's For Stability! party's deletion of flagged posts under government legal pressure illustrates the direct impact of state intervention on political digital communication. These incidents underscore the complex interplay between platform policies, regulatory oversight, and political speech in contemporary European democracies.",
+  "date": "2026-04-08",
+  "citations": [
+    "https://www.thenews.com.pk/latest/1397968-facebook-allegedly-censors-hungary-ruling-party-posts",
+    "https://eng.lsm.lv/article/politics/politics/26.03.2026-for-stability-threatened-with-suspension-makes-u-turn-on-social-media.a640542/"
+  ]
+}
