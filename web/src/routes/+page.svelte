@@ -36,7 +36,7 @@
 
   <main>
     <div class="container">
-      {#each allArticles as article (article.headline_en)}
+      {#each allArticles as article (`${article._date}-${article.headline_en}`)}
         <ArticleCard {article} date={article._date} />
       {/each}
     </div>
