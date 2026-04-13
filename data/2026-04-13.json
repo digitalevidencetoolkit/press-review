@@ -1,0 +1,31 @@
+{
+  "topic": "European Political Speech and Platform Moderation (April 6-12, 2026)",
+  "articles": [
+    {
+      "headline_en": "Meta Allegedly Censors Hungary Ruling Party Posts",
+      "source": "The News (Pakistan)",
+      "summary_en": "The Fidesz party and supporters of Hungarian Prime Minister Viktor Orbán accused Meta of electoral interference ahead of April 12 elections, claiming posts were restricted. However, fact-checkers found no evidence supporting these allegations, and Meta confirmed that none of Orbán's posts were deleted and that rules apply equally to all users.",
+      "significance": "Highlights the tension between political actors' censorship claims and platform companies' actual moderation practices during election periods, while underscoring the spread of unsubstantiated interference allegations."
+    },
+    {
+      "headline_en": "Pro-Orbán Actors Accuse Meta of Interference in Hungarian Elections Despite Lack of Evidence",
+      "source": "Euronews (EU)",
+      "summary_en": "Pro-Orbán social media accounts claimed Meta restricted Fidesz-related content, including allegations that users could not like Fidesz posts. Euronews' fact-checking team found no valid evidence to support these claims, and Meta stated there were no restrictions on the Prime Minister's accounts.",
+      "significance": "Demonstrates how election campaigns can become flashpoints for contested claims about platform moderation, with fact-checkers playing a key role in verifying allegations of political censorship."
+    },
+    {
+      "headline_en": "TikTok Removes Covert Networks Ahead of Hungary Vote",
+      "source": "The Record (US)",
+      "summary_en": "TikTok removed coordinated inauthentic networks that used fake accounts to amplify political content targeting Hungarian users, including material critical of opposition parties. The action represents platform enforcement against manipulation operations during the election period.",
+      "significance": "Illustrates how platforms address organized disinformation campaigns separate from individual political censorship claims, focusing on network-based rather than content-based moderation."
+    }
+  ],
+  "editorial_overview": "Hungary's April 2026 elections became a focal point for platform moderation controversies, with pro-government actors leveling unsubstantiated censorship allegations against Meta while fact-checkers found no supporting evidence. The situation reflects broader tensions over platform neutrality during elections, with companies emphasizing equal application of rules and third-party fact-checking processes. Simultaneously, platforms took action against coordinated inauthentic behavior, such as TikTok's removal of fake networks, distinguishing between legitimate moderation disputes and documented manipulation campaigns. The episode underscores the challenge for platforms in maintaining credibility during politically charged periods when actors may weaponize censorship narratives.",
+  "date": "2026-04-13",
+  "citations": [
+    "https://www.thenews.com.pk/latest/1397968-facebook-allegedly-censors-hungary-ruling-party-posts",
+    "https://www.euronews.com/my-europe/2026/04/06/pro-orban-actors-accuse-meta-of-interference-in-hungarian-elections-despite-lack-of-eviden",
+    "https://therecord.media/tiktok-removes-covert-networks-hungary-vote",
+    "https://www.the-independent.com/news/uk/home-news/social-media-rules-reform-labour-ofcom-online-b2955077.html"
+  ]
+}
