@@ -1,0 +1,25 @@
+{
+  "topic": "European news on politicians, public figures, and online speech controversies",
+  "articles": [
+    {
+      "headline_en": "EU Leaders Unite for Social Media Regulation",
+      "source": "Devdiscourse (India)",
+      "summary_en": "French President Emmanuel Macron is hosting a video call with EU leaders, including Ursula von der der Leyen, to discuss coordinated measures banning social media for minors. Leaders from Spain, Italy, the Netherlands, and Ireland will participate to harmonize efforts across EU states. The meeting aims to push the European Commission for unified action on the issue.[1]",
+      "significance": "This reflects growing governmental pressure on social media platforms through age restrictions, aligning with trends in content regulation and access control.[1]"
+    },
+    {
+      "headline_en": "'EU's dangerous censorship': House exposes Europe's threat to US free speech",
+      "source": "The Economic Times (India)",
+      "summary_en": "A US Republican lawmakers' report accuses the European Commission of a decade-long campaign to censor political speech globally. The allegations highlight Europe's regulatory actions as a threat to free speech, particularly impacting US platforms. The report was presented at a US House hearing.[4]",
+      "significance": "It underscores transatlantic tensions over EU regulatory pressures on online political speech, potentially influencing platform moderation and global content policies.[4]"
+    }
+  ],
+  "editorial_overview": "Recent European developments show EU leaders, led by Macron, pushing for unified social media restrictions targeting minors, indicating heightened governmental intervention in platform access.[1] Concurrently, a US report criticizes the EU for alleged censorship of political speech, spotlighting conflicts between European regulation and free expression.[4] These events highlight ongoing debates over government roles in digital content moderation without direct cases of post deletions or court-ordered removals this week.",
+  "date": "2026-04-17",
+  "citations": [
+    "https://www.devdiscourse.com/article/politics/3873980-eu-leaders-unite-for-social-media-regulation",
+    "https://www.wantedinrome.com/news/italy-meloni-government-minister-piantedosi-relationship-claudia-conte.html",
+    "https://www.youtube.com/watch?v=mtqugY8KlO4",
+    "https://economictimes.com/news/international/world-news/eus-dangerous-censorship-house-exposes-europes-threat-to-us-free-speech-at-explosive-hearing/videoshow/130211508.cms"
+  ]
+}
