@@ -1,0 +1,18 @@
+{
+  "topic": "European news on politicians deleting social media posts, controversial statements, content removal, censorship, or platform moderation controversies (April 13-20, 2026)",
+  "articles": [
+    {
+      "headline_en": "Orbán has been defeated, but what comes next?",
+      "source": "EDMO (European Digital Media Observatory), EU",
+      "summary_en": "During Hungary's 2026 election campaign, pro-government actors used fake Facebook profiles with AI-generated videos and coordinated inauthentic TikTok networks to promote content and flood Prime Minister Viktor Orbán's live sessions with automated comments, displacing authentic discourse. Platforms like TikTok removed accounts, but networks quickly regenerated using new profiles. The article highlights bypasses of platform moderation via AI, paid promotion, and automation.",
+      "significance": "This demonstrates vulnerabilities in platform moderation during elections, enabling political actors to manipulate public debate and undermine transparency in Hungary's democratic process."
+    }
+  ],
+  "editorial_overview": "Recent European reporting spotlights platform moderation failures in Hungary's 2026 elections, where pro-government networks evaded restrictions using AI-generated content, fake profiles, and automated commenting to control social media narratives. Despite platform removals, rapid regeneration of accounts allowed influence operations to persist, raising alarms over digital transparency and electoral integrity. No other major stories on deletions, controversies, or censorship orders by politicians emerged in the past week from established outlets.",
+  "date": "2026-04-20",
+  "citations": [
+    "https://edmo.eu/publications/orban-has-been-defeated-but-what-comes-next/",
+    "https://www.independent.co.uk/news/world/americas/us-politics/trump-posts-ai-truth-social-rants-b2957649.html",
+    "https://www.1news.co.nz/2026/04/14/trump-deletes-social-media-post-i-thought-it-was-me-as-a-doctor/"
+  ]
+}
