@@ -1,0 +1,30 @@
+{
+  "topic": "Censorship and suppression of digital public speech in Europe",
+  "articles": [
+    {
+      "headline_en": "Cyprus Mail content removed from Facebook amid 'cyber-attacks' on journalists",
+      "source": "Cyprus Mail, Cyprus",
+      "summary_en": "A post on the Cyprus Mail's Facebook account was removed on Thursday due to a third-party copyright infringement notice amid a wave of cyber-attacks targeting journalists and news outlets. Facebook acted on the notice as part of its standard processes. This incident is part of broader attacks involving account closures and post deletions.",
+      "significance": "It highlights the vulnerability of independent media to coordinated online suppression tactics using platform moderation mechanisms in Cyprus."
+    },
+    {
+      "headline_en": "Ustel's close personal associate denies links to 'cyber-attacks' on journalists",
+      "source": "Cyprus Mail, Cyprus",
+      "summary_en": "A close associate of Turkish Cypriot 'prime minister' Unal Ustel denied involvement in cyber-attacks causing social media account closures and post deletions targeting journalists and outlets. Officials claim platforms handled removals through their operational processes. Attackers reportedly used bots to mass-report content as copyright violations, triggering automated takedowns.",
+      "significance": "This reveals politically motivated digital attacks exploiting platform algorithms to silence critical voices in the Turkish Cypriot community."
+    },
+    {
+      "headline_en": "A dystopian electoral campaign will be over soon in Hungary, but disinformation's damages are here to stay",
+      "source": "EDMO, EU",
+      "summary_en": "Hungary's electoral campaign features AI-driven pro-government messaging ecosystems on social media that circumvent platform rules on political ads. Viral false videos, such as claims of investigations into Romania's election, spread unchecked. These tactics contribute to a dystopian information environment.",
+      "significance": "It underscores ongoing platform moderation failures in curbing state-backed disinformation during elections in Hungary."
+    }
+  ],
+  "editorial_overview": "Recent incidents in Cyprus demonstrate coordinated cyber-attacks using mass reporting to trigger platform removals of journalistic content, potentially linked to political figures. In Hungary, AI-fueled pro-government disinformation evades social media rules, exacerbating electoral manipulation. These cases illustrate rising pressures on digital speech through exploitation of moderation systems and suppression tactics across Europe.",
+  "date": "2026-04-21",
+  "citations": [
+    "https://cyprus-mail.com/2026/04/16/cyprus-mail-content-removed-from-facebook-amid-cyber-attacks-on-journalists",
+    "https://cyprus-mail.com/2026/04/15/ustels-close-personal-associate-denies-links-to-cyber-attacks-on-journalists",
+    "https://edmo.eu/publications/a-dystopian-electoral-campaign-will-be-over-soon-in-hungary-but-disinformations-damages-are-here-to-stay/"
+  ]
+}
