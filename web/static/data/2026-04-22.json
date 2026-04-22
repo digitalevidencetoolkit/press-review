@@ -1,0 +1,18 @@
+{
+  "topic": "European news on politicians/public figures' social media controversies, content removal, and censorship (last week)",
+  "articles": [
+    {
+      "headline_en": "Cyprus Mail content removed from Facebook amid 'cyber-attacks' on journalists",
+      "source": "Cyprus Mail, Cyprus",
+      "summary_en": "A post on the Cyprus Mail's Facebook account was removed on Thursday after Facebook received a third-party notice claiming copyright infringement. This incident occurred amid a wave of cyber-attacks targeting journalists and news outlets on the island. The removal highlights pressures on media content online.",
+      "significance": "It underscores growing challenges to press freedom through platform content moderation and cyber threats in Cyprus."
+    }
+  ],
+  "editorial_overview": "Recent European news features limited but notable incidents of online content suppression, particularly affecting journalism. The Cyprus Mail case illustrates how third-party complaints can lead to swift content removal on major platforms amid broader cyber pressures on media. This points to ongoing tensions between digital platforms, external actors, and free speech in the region, though no direct involvement of politicians or court orders was reported in the past week.",
+  "date": "2026-04-22",
+  "citations": [
+    "https://cyprus-mail.com/2026/04/16/cyprus-mail-content-removed-from-facebook-amid-cyber-attacks-on-journalists",
+    "https://www.independent.co.uk/news/world/americas/us-politics/trump-posts-ai-truth-social-rants-b2957649.html",
+    "https://www.taxresearch.org.uk/Blog/2026/04/22/the-tedium-of-our-politics/"
+  ]
+}
