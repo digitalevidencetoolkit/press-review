@@ -1,0 +1,30 @@
+{
+  "topic": "European Political Figures and Social Media Controversies",
+  "articles": [
+    {
+      "headline_en": "Board to Address AI-Generated Video of Politician Posted Before Hungarian Election",
+      "source": "Meta Oversight Board",
+      "summary_en": "Meta's Oversight Board is examining a case involving an AI-generated video of Hungarian politician Peter Magyar that was posted before the April 2026 elections. Meta ruled that the content did not violate its misinformation policy and did not require an AI label, despite hundreds of user reports. The Board will assess content governance challenges posed by AI tools in electoral contexts and their impact on electoral integrity.",
+      "significance": "This case highlights tensions between platform moderation policies and electoral integrity in Europe, particularly regarding the treatment of AI-generated political content during critical election periods."
+    },
+    {
+      "headline_en": "Greens Candidate Criticized After Posting Now-Deleted Joke About Charlie Kirk",
+      "source": "NZ Herald",
+      "summary_en": "A New Zealand Green Party candidate for Māngere faced criticism from Act for a now-deleted Instagram post featuring a meme depicting right-wing speaker Charlie Kirk with a cartoon bleeding neck. The post was presented as a joke but drew condemnation for making light of violence.",
+      "significance": "The incident demonstrates how politicians' deleted social media posts can generate political backlash and controversy, particularly when involving violent imagery presented as humor."
+    },
+    {
+      "headline_en": "Online Abuse of Politicians is a Profitable Business",
+      "source": "Irish Examiner",
+      "summary_en": "Senator Eileen Flynn from Ireland has faced sustained online abuse following her comments on far-right use of the tricolour and her stance against racism and nationalist propaganda. The article examines how viral hatred targeting politicians has become economically incentivized on social media platforms.",
+      "significance": "The case illustrates systemic issues with online harassment of European politicians and the structural economic incentives that drive and perpetuate coordinated digital abuse campaigns."
+    }
+  ],
+  "editorial_overview": "Recent European cases reveal persistent tensions in digital platform governance affecting political figures. From Hungary's electoral context involving AI-generated content to Ireland's online harassment of anti-racism advocates, European politicians face escalating challenges related to misinformation, deleted posts, and coordinated abuse. Platform moderation decisions continue to generate controversy, particularly when policies appear inadequate to address emerging threats to electoral integrity and political discourse. These incidents underscore the need for clearer governance frameworks balancing free speech with protection against malicious content in politically sensitive contexts.",
+  "date": "2026-04-24",
+  "citations": [
+    "https://www.oversightboard.com/news/board-to-address-ai-generated-video-of-politician-posted-before-hungarian-election/",
+    "https://www.nzherald.co.nz/nz/politics/greens-candidate-cops-criticism-after-posting-now-deleted-joke-about-charlie-kirk-assassination/6WWNOKWWHRBLZDEK6TWMKPWRHE/",
+    "https://www.irishexaminer.com/opinion/commentanalysis/arid-41830742.html"
+  ]
+}
