@@ -1,0 +1,23 @@
+{
+  "topic": "European news on politicians, public figures, and controversies involving social media posts, deletions, abuse, and moderation (last week)",
+  "articles": [
+    {
+      "headline_en": "London Conservative candidate suspended over 'racist social media posts'",
+      "source": "Evening Standard, UK",
+      "summary_en": "Will Jackson, the Conservative candidate for North Harrow in the May 7 local elections, has been suspended by the party pending investigation into racist posts from an associated X (Twitter) account. The posts included offensive comments telling MP Adnan Hussain to 'go back to Pakistan' and suggesting deportation of 'Islamist scum'. The account has since been deleted, and party support for his campaign has been withdrawn.",
+      "significance": "This incident highlights the consequences of inflammatory social media activity by political candidates, leading to swift party action and potential impact on local elections."
+    },
+    {
+      "headline_en": "Online abuse of politicians is a profitable business",
+      "source": "Irish Examiner, Ireland",
+      "summary_en": "Senator Eileen Flynn has faced intense online abuse after speaking out against racism and far-right nationalist propaganda, particularly regarding their use of the Irish tricolour. The article argues that such viral hatred targeting politicians is highly profitable for those amplifying it online. This reflects a broader pattern of digital harassment against public figures.",
+      "significance": "It underscores how online abuse against politicians is incentivized by profitability, exacerbating divisions and threatening democratic discourse in Ireland."
+    }
+  ],
+  "editorial_overview": "Recent European news reveals ongoing issues with social media controversies involving politicians, including a UK Conservative candidate's suspension over deleted racist posts and severe online abuse targeting an Irish senator. These cases illustrate the rapid repercussions of offensive digital speech and the profitability-driven nature of targeted harassment. They point to a tense environment where platforms struggle with moderation amid political sensitivities, potentially influencing elections and public trust.",
+  "date": "2026-04-27",
+  "citations": [
+    "https://www.standard.co.uk/news/politics/conservative-candidate-racist-posts-harrow-council-b1279494.html",
+    "https://www.irishexaminer.com/opinion/commentanalysis/arid-41830742.html"
+  ]
+}
