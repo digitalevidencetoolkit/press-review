@@ -1,0 +1,16 @@
+{
+  "topic": "European news on political social media controversies, content removal, and censorship (last week)",
+  "articles": [
+    {
+      "headline_en": "Board to Address AI-Generated Video of Politician Posted Before Hungarian Election",
+      "source": "Oversight Board (Meta), International",
+      "summary_en": "The Oversight Board is reviewing a case involving an AI-generated video of Hungarian politician Peter Magyar, posted before the April 2026 elections and reported by hundreds of users for violating Meta’s policies. Meta decided the content did not breach its Misinformation policy and did not require an AI label, as it was posted well in advance of the elections. The Board aims to assess AI content governance challenges in electoral contexts and their impact on electoral integrity.",
+      "significance": "This case highlights emerging tensions between AI-generated political content moderation and platform policies, potentially influencing how social media platforms handle synthetic media that could distort elections in Europe."
+    }
+  ],
+  "editorial_overview": "Recent Oversight Board announcements spotlight controversies over AI-generated videos impersonating politicians on Meta platforms ahead of Hungary's April 2026 elections. This reflects growing concerns about platform moderation of synthetic media in electoral settings, where decisions not to label or remove such content have sparked user backlash. The case underscores broader European challenges in balancing free speech with preventing AI-driven misinformation that could undermine democratic processes.",
+  "date": "2026-04-30",
+  "citations": [
+    "https://www.oversightboard.com/news/board-to-address-ai-generated-video-of-politician-posted-before-hungarian-election/"
+  ]
+}
