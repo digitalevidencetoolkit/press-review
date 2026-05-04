@@ -1,0 +1,24 @@
+{
+  "topic": "European news on politicians/public figures' social media controversies, content removal, censorship, or platform moderation (last week)",
+  "articles": [
+    {
+      "headline_en": "EU accuses Meta of failing to keep children off social media",
+      "source": "Washington Examiner, USA",
+      "summary_en": "The European Union alleged that Meta violated the Digital Services Act by not doing enough to prevent children under 13 from accessing Facebook and Instagram. The European Commission's two-year preliminary investigation found inadequate age verification and difficult reporting mechanisms for underage accounts. Meta could face fines up to 6% of its global annual turnover if findings are confirmed.",
+      "significance": "This highlights EU regulatory pressure on social media platforms for content moderation failures, potentially setting precedents for broader enforcement of the Digital Services Act on user protection."
+    },
+    {
+      "headline_en": "Facebook and Instagram charged by EU over failure to block under-13s",
+      "source": "TVP World, Poland",
+      "summary_en": "Meta Platforms' Facebook and Instagram were charged with breaching EU tech rules for insufficient measures to block children under 13. The charges stem from violations of the Digital Services Act identified in a preliminary investigation. Platforms must improve age restrictions to comply.",
+      "significance": "It underscores intensifying EU scrutiny on tech giants' platform moderation, which could influence global standards for protecting minors online."
+    }
+  ],
+  "editorial_overview": "Recent EU actions against Meta for failing to protect children under 13 on Facebook and Instagram exemplify regulatory enforcement of the Digital Services Act on platform moderation. These charges from the European Commission signal a push for stronger age verification and content controls. No articles were found directly addressing politicians deleting posts, controversial statements, or court-ordered removals of political speech, indicating a focus on child safety over political content issues this week.",
+  "date": "2026-05-04",
+  "citations": [
+    "https://www.washingtonexaminer.com/policy/technology/4548156/eu-accuses-meta-underage-users-social-media/",
+    "https://tvpworld.com/92987701/-metas-facebook-and-instagram-charged-under-eus-digital-service-act",
+    "https://economy.ac/review/2026/04/202604288791"
+  ]
+}
