@@ -1,0 +1,19 @@
+{
+  "topic": "European news on social media content moderation, censorship, and political speech suppression (last week)",
+  "articles": [
+    {
+      "headline_en": "Platforms remove millions of posts, but few decisions are challenged",
+      "source": "EU Perspectives, EU",
+      "summary_en": "EU transparency reports under the Digital Services Act (DSA) reveal that platforms like Meta, TikTok, X, LinkedIn, and Snapchat removed millions of policy-violating posts in the second half of 2025, with over 93% detected automatically. Appeals against moderation decisions remain extremely low, below 1% across platforms, and about one in five resolved appeals results in content restoration. The reports highlight the heavy reliance on algorithms in Europe's content moderation ecosystem.",
+      "significance": "This underscores the massive scale of automated content removal in the EU and the lack of user pushback, raising questions about transparency, accountability, and the effectiveness of DSA enforcement mechanisms."
+    }
+  ],
+  "editorial_overview": "Recent EU DSA transparency reports expose the vast scale of social media content moderation, with platforms automatically removing millions of posts amid minimal user challenges. This reflects a growing dependence on algorithms for enforcement, potentially limiting avenues for contesting decisions on political or public speech. The low appeal rates suggest either high acceptance of moderation or barriers to recourse, highlighting ongoing tensions in balancing free expression with platform rules in Europe.",
+  "date": "2026-05-05",
+  "citations": [
+    "https://euperspectives.eu/2026/04/social-media-content-moderation-eu-dsa/",
+    "https://mezha.net/eng/bukvy/03f0b781_mallory_mcmorrow_defends/",
+    "https://www.independent.co.uk/news/world/americas/us-politics/jd-vance-deletes-x-phone-b2966575.html",
+    "https://www.ncl.ac.uk"
+  ]
+}
