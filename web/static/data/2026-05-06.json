@@ -1,0 +1,18 @@
+{
+  "topic": "Social media moderation and political controversies in Europe",
+  "articles": [
+    {
+      "headline_en": "Platforms remove millions of posts, but few decisions are challenged",
+      "source": "EU Perspectives (Belgium)",
+      "summary_en": "EU transparency reports under the Digital Services Act reveal that platforms like Meta, TikTok, X, LinkedIn, and Snapchat removed millions of policy-violating posts in the second half of 2025, with over 90% handled automatically. Appeals against moderation decisions remain extremely low, below 1% across platforms. The reports highlight the heavy reliance on algorithms for content enforcement amid vast daily content volumes.",
+      "significance": "This underscores the scale of automated moderation under EU regulations and the lack of user challenges, raising questions about transparency and accountability in digital speech governance."
+    }
+  ],
+  "editorial_overview": "Recent EU DSA transparency reports expose the massive scale of automated content removals on major platforms with minimal user appeals, indicating broad acceptance or unawareness of moderation practices. While no direct government-ordered removals or political figure controversies appear in the latest European coverage, the data illustrates the evolving enforcement landscape shaped by regulation. This trend points to algorithm-driven censorship as a dominant force in Europe's digital public sphere.",
+  "date": "2026-05-06",
+  "citations": [
+    "https://euperspectives.eu/2026/04/social-media-content-moderation-eu-dsa/",
+    "https://www.news4jax.com/news/politics/2026/05/05/trump-again-assails-pope-leo-potentially-complicating-rubios-visit-to-the-vatican-this-week/",
+    "https://www.politico.com/story"
+  ]
+}
