@@ -1,0 +1,23 @@
+{
+  "topic": "EU regulatory actions on online content removal and AI-generated explicit imagery",
+  "articles": [
+    {
+      "headline_en": "Europe Today: EU Reaches Deal to Ban Nudification Apps",
+      "source": "Dailymotion (Europe Today) - France",
+      "summary_en": "The EU has reached a deal to ban nudification apps as part of an update to the AI Act, targeting tools that generate non-consensual sexually explicit photos and videos. The ban simplifies rules to be more innovation-friendly and is on a fast track, with full enforcement expected across the Union by December 2026. Victims can currently use GDPR and national privacy laws to demand removal of such fake content from platforms.",
+      "significance": "This represents a proactive EU regulatory measure to combat harmful AI-generated content through mandated removal and bans, enhancing victim protections under existing data privacy frameworks."
+    },
+    {
+      "headline_en": "The quiet MEP pushing back on Trump's trade agenda",
+      "source": "The Parliament Magazine - Belgium",
+      "summary_en": "Seventy-year-old German socialist MEP Bernd Lange is resisting U.S. pressure under Donald Trump on trade issues. He has emerged as one of the few voices in the European Parliament countering this agenda. The article highlights his role amid transatlantic trade tensions.",
+      "significance": "While focused on trade, it underscores European political figures actively engaging in public pushback against external pressures, potentially relevant to broader digital and policy resistance narratives."
+    }
+  ],
+  "editorial_overview": "Recent European news highlights regulatory efforts to control harmful online content, notably the EU's fast-tracked ban on nudification apps under the AI Act, enforcing removal of non-consensual explicit imagery. This builds on GDPR mechanisms for content erasure, prioritizing victim rights. Limited coverage appears on direct political speech suppression, with one instance of an MEP resisting external trade pressures.",
+  "date": "2026-05-11",
+  "citations": [
+    "https://www.dailymotion.com/video/xa8lcnc",
+    "https://www.theparliamentmagazine.eu/news/article/the-quiet-mep-pushing-back-on-trumps-trade-agenda"
+  ]
+}
