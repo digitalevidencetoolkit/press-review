@@ -1,0 +1,23 @@
+{
+  "topic": "European digital speech, censorship, and platform moderation – last 7 days",
+  "articles": [
+    {
+      "headline_en": "Meta deletes popular 1M follower account after Kuwaiti request",
+      "source": "Hacker News discussion of Meta action (global platform; underlying action involves Kuwait)",
+      "summary_en": "A widely followed Facebook page with around one million followers was deleted by Meta after a request from authorities in Kuwait, according to discussion and linked material on Hacker News. Commenters debate whether Meta is effectively acting as an agent of state censorship when complying with such requests, and whether platforms should adopt a more rights‑protective stance when governments seek removal of politically sensitive content. The case highlights tensions between local legal compliance and broader free‑expression concerns on global social networks.",
+      "significance": "Illustrates how government takedown requests in non‑European states can still affect European and global debates about platform responsibility, censorship, and the protection of political speech online."
+    },
+    {
+      "headline_en": "Europe's wind industry is fighting a reputational battle",
+      "source": "The Parliament Magazine (EU/Belgium)",
+      "summary_en": "The article reports on a new study describing a coordinated disinformation ecosystem targeting Europe’s wind energy sector, involving anti‑wind groups, media figures, activists and politicians across several countries. It details how misleading or false narratives about wind farms spread via social media and sympathetic outlets, and how these campaigns can influence public opinion and political decision‑making on renewable energy projects. The piece also notes concern within EU institutions and industry about the impact of such online campaigns on climate and energy policy.",
+      "significance": "Shows how organised online information campaigns, amplified by political actors, are shaping the digital public sphere around key policy issues like energy and climate in Europe, raising questions about moderation, counter‑disinformation measures, and the boundary between political speech and manipulation."
+    }
+  ],
+  "editorial_overview": "Available coverage in the last week touching on digital speech and moderation in or affecting Europe is limited but points to two distinct dynamics. First, the Meta/Kuwait case underscores how government takedown demands, even from outside Europe, fuel ongoing debates about the responsibilities of global platforms in protecting political expression versus complying with state censorship pressures. Second, the Parliament Magazine piece highlights the growing role of coordinated online campaigns, often involving politicians, in shaping perceptions of strategic sectors such as wind energy. Together, these items suggest that European discussions on digital speech are increasingly framed both by cross‑border content control disputes and by domestic concerns over disinformation and the integrity of policy debates online.",
+  "date": "2026-05-18",
+  "citations": [
+    "https://www.theparliamentmagazine.eu/news/article/europes-wind-industry-is-fighting-a-reputational-battle",
+    "https://news.ycombinator.com/item?id=48170810"
+  ]
+}
