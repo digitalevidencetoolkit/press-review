@@ -101,7 +101,7 @@ def update_feed(output_dir: str) -> None:
         items.append(
             "<item>"
             f"<title>Press Review — {d}</title>"
-            f"<link>{base}/</link>"
+            f"<link>{base}/?campaign=rss</link>"
             f'<guid isPermaLink="false">press-review-{d}</guid>'
             f"<pubDate>{format_datetime(pub_dt)}</pubDate>"
             f"<description><![CDATA[{description}]]></description>"
