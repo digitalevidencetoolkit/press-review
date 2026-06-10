@@ -1,4 +1,5 @@
 <script>
+  import { base } from '$app/paths'
   import ArticleCard from '$lib/ArticleCard.svelte'
 
   let { data } = $props()
@@ -15,6 +16,7 @@
 <svelte:head>
   <title>European Press Review</title>
   <meta name="description" content="A daily digest of European news on digital speech, content deletion, and online censorship." />
+  <link rel="alternate" type="application/rss+xml" title="European Press Review" href="{base}/feed.xml" />
 </svelte:head>
 
 <nav>

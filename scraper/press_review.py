@@ -1,8 +1,10 @@
 import glob
+import html
 import json
 import os
 import sys
-from datetime import date
+from datetime import date, datetime, timezone
+from email.utils import format_datetime
 from openai import OpenAI
 
 OUTPUT_DIR = os.getenv("OUTPUT_DIR", "web/static/data")
@@ -67,6 +69,64 @@ def update_index(output_dir: str) -> None:
         json.dump({"dates": dates}, f)
 
 
+def site_url(output_dir: str) -> str:
+    if url := os.getenv("SITE_URL"):
+        return url.rstrip("/")
+    cname_path = os.path.join(os.path.dirname(output_dir), "CNAME")
+    if os.path.exists(cname_path):
+        with open(cname_path, encoding="utf-8") as f:
+            host = f.read().strip()
+            if host:
+                return f"https://{host}"
+    return "http://localhost:5173"
+
+
+def update_feed(output_dir: str) -> None:
+    files = sorted(glob.glob(f"{output_dir}/????-??-??.json"), reverse=True)
+    base = site_url(output_dir)
+    items = []
+    for path in files:
+        with open(path, encoding="utf-8") as f:
+            digest = json.load(f)
+        d = digest.get("date") or os.path.splitext(os.path.basename(path))[0]
+        pub_dt = datetime.strptime(d, "%Y-%m-%d").replace(hour=7, tzinfo=timezone.utc)
+        headlines = "".join(
+            f"<li><strong>{html.escape(a['headline_en'])}</strong> — {html.escape(a['source'])}</li>"
+            for a in digest.get("articles", [])
+        )
+        description = (
+            f"<p>{html.escape(digest.get('editorial_overview', ''))}</p>"
+            + (f"<ul>{headlines}</ul>" if headlines else "")
+        )
+        items.append(
+            "<item>"
+            f"<title>Press Review — {d}</title>"
+            f"<link>{base}/</link>"
+            f'<guid isPermaLink="false">press-review-{d}</guid>'
+            f"<pubDate>{format_datetime(pub_dt)}</pubDate>"
+            f"<description><![CDATA[{description}]]></description>"
+            "</item>"
+        )
+
+    feed = (
+        '<?xml version="1.0" encoding="UTF-8"?>'
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">'
+        "<channel>"
+        "<title>European Press Review</title>"
+        f"<link>{base}/</link>"
+        "<description>A daily digest of European news on digital speech, content deletion, and online censorship.</description>"
+        "<language>en</language>"
+        f"<lastBuildDate>{format_datetime(datetime.now(timezone.utc))}</lastBuildDate>"
+        f'<atom:link href="{base}/feed.xml" rel="self" type="application/rss+xml" />'
+        f"{''.join(items)}"
+        "</channel></rss>"
+    )
+
+    feed_path = os.path.join(os.path.dirname(output_dir), "feed.xml")
+    with open(feed_path, "w", encoding="utf-8") as f:
+        f.write(feed)
+
+
 def main():
     client = OpenAI(
         api_key=os.environ["PERPLEXITY_API_KEY"],
@@ -109,6 +169,7 @@ def main():
         json.dump(digest, f, indent=2, ensure_ascii=False)
 
     update_index(OUTPUT_DIR)
+    update_feed(OUTPUT_DIR)
     print(f"Saved {len(digest['articles'])} articles total → {out_path}")
 
 
