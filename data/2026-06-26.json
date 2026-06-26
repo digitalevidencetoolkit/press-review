@@ -1,0 +1,18 @@
+{
+  "articles": [],
+  "editorial_overview": "Search results do not show any clearly relevant, time‑stamped news articles from established European outlets in the last week that match the requested categories (such as politicians deleting posts, governments ordering content removal, or court-ordered takedowns of online political speech).\n\nThe retrieved items largely concern broader debates on social media regulation, online hate speech, or youth protection, rather than specific, recent incidents of digital censorship or platform moderation involving political figures.\n\nBecause the prompt requires sourcing only what can be directly found and verified, without inventing or extrapolating articles, there is no compliant way to populate the requested list of recent stories from Europe for the last week.\n\nAs a result, the news picture for the specified time window cannot be reliably reconstructed from the available search results alone, and providing fabricated or speculative entries would violate the constraints set by the user.\n\nIf more targeted search tools or direct access to news databases for the last seven days were available, it would likely be possible to identify and summarise relevant cases, but that information is not visible in the current results.",
+  "topic": "Recent European news on social media deletion, content removal, and online political speech moderation (none verifiable from available results)",
+  "date": "2026-06-26",
+  "citations": [
+    "https://amp.dw.com/en/banning-social-media-for-teens-solution-or-overreaction/a-77704407",
+    "https://www.reddit.com/r/europe/comments/1udv1l1/momentum_building_for_eu_ban_on_childrens_social/",
+    "https://www.instagram.com/reel/DZ-ErpfElR8/",
+    "https://www.newyorker.com/news/global-notes/how-bad-an-idea-was-brexit",
+    "https://www.nature.com/articles/s41599-026-07944-z",
+    "https://www.bbc.com/news/topics/cvw0z7ezezkt",
+    "https://www.facebook.com/councilofeurope/posts/is-online-hate-speech-europes-biggest-threat-to-young-peoples-involvement-in-dem/1507829928052969/",
+    "https://www.facebook.com/thehelsinkitimes/posts/a-finnish-member-of-the-european-parliament-has-become-the-focus-of-a-growing-di/1474646908010763/",
+    "https://www.reddit.com/r/europe/comments/1ud9j63/uk_considers_forcing_social_media_firms_to/",
+    "https://www.instagram.com/reel/DZ4Wlyqq8Ir/"
+  ]
+}
