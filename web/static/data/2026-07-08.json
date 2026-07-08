@@ -1,0 +1,78 @@
+{
+  "articles": [
+    {
+      "headline_en": "France’s interior minister deletes tweet calling for ‘firmness’ after far-right rally clashes",
+      "significance": "Shows how quickly officials can face backlash over inflammatory social media statements and resort to deletion rather than clarification.",
+      "source": "Le Monde (France)",
+      "summary_en": "French Interior Minister Gérald Darmanin deleted a tweet in which he praised police ‘firmness’ against ‘violent agitators’ following clashes at a far-right rally in Lyon. The post drew criticism from opposition figures and civil society groups, who argued it stigmatised demonstrators and escalated tensions rather than calming them. After deletion, the ministry said the wording ‘did not reflect the intention’ of the message and promised a review of internal social media guidelines."
+    },
+    {
+      "headline_en": "German MP removes TikTok video accusing public broadcaster of ‘propaganda’ after legal warning",
+      "significance": "Highlights the growing use of platform rules and defamation law to challenge politicians’ online attacks on media independence.",
+      "source": "Der Spiegel (Germany)",
+      "summary_en": "A Bundestag member from the Alternative for Germany (AfD) party took down a TikTok video accusing ARD and ZDF of spreading ‘government propaganda’ after the broadcasters sent a legal warning. The video had quickly gained traction among the MP’s followers before being removed, with TikTok also flagging it for possible violation of its misinformation policies. The MP claims the removal is censorship, while media lawyers argue it is a legitimate defense against defamatory attacks."
+    },
+    {
+      "headline_en": "Italian regional councillor deletes Facebook post calling migrants ‘invaders’ amid hate-speech probe",
+      "significance": "Illustrates how hate-speech enforcement and reputational risk can push local politicians to retract inflammatory online rhetoric.",
+      "source": "La Repubblica (Italy)",
+      "summary_en": "An Italian regional councillor from a right-wing party deleted a Facebook post describing migrants as ‘invaders’ after prosecutors opened a preliminary investigation into possible incitement to hatred. The post had triggered strong reactions from NGOs and opposition parties, who demanded disciplinary action and platform intervention. Facebook removed several re-uploads of the text, citing its policies against dehumanising language targeting protected groups."
+    },
+    {
+      "headline_en": "Spanish election authority orders removal of party’s online ad using manipulated images of rival candidates",
+      "significance": "Shows regulatory bodies stepping directly into online campaigning to police misleading political content.",
+      "source": "El País (Spain)",
+      "summary_en": "Spain’s Central Electoral Board ordered a minor party to take down a campaign video from YouTube, X and Instagram that used digitally altered images of rival candidates in compromising situations. The authority ruled that the ad violated electoral rules against dissemination of false information that could seriously affect voters’ perception of other lists. Platforms complied with the order after being formally notified, while the party accused the Board of favouring established parties."
+    },
+    {
+      "headline_en": "Polish government pressed Meta to remove posts accusing minister of corrupt ties, watchdog report finds",
+      "significance": "Raises concerns about informal government pressure on platforms to remove critical political speech without transparent legal basis.",
+      "source": "Gazeta Wyborcza (Poland)",
+      "summary_en": "A new report by a Polish digital-rights watchdog reveals internal correspondence suggesting the government contacted Meta to request removal of Facebook posts accusing a sitting minister of corruption. While the posts were later taken down for ‘violating community standards’, Meta declined to specify which rules had been breached. Opposition parties demand an inquiry into possible abuse of state influence over platform moderation, and activists call for clearer disclosure of government-originated removal requests."
+    },
+    {
+      "headline_en": "Hungarian court orders news site to delete reader comments critical of prime minister",
+      "significance": "Demonstrates how intermediary liability rules can extend judicial control over political discussion sections and comment forums.",
+      "source": "Telex (Hungary)",
+      "summary_en": "A Budapest court ruled that an independent news portal must delete dozens of user comments considered ‘insulting’ to Prime Minister Viktor Orbán, following a lawsuit brought by a pro-government foundation. The court held that hosting the comments constituted a violation of personality rights, even though they were posted by readers, not journalists. Free-speech advocates argue the ruling will have a chilling effect on public debate in comment sections, pushing outlets to restrict or heavily moderate user interaction."
+    },
+    {
+      "headline_en": "UK election watchdog criticises X over delayed removal of paid political ads breaching campaign rules",
+      "significance": "Underlines tensions between national election regulations and global platforms’ enforcement practices.",
+      "source": "BBC News (United Kingdom)",
+      "summary_en": "The UK Electoral Commission issued a report criticising X (formerly Twitter) for taking days to remove paid political ads that failed to include legally required imprint information identifying their sponsors. Several parties had complained that non-compliant ads remained visible during a crucial campaign period despite formal notices. X says it is adapting its systems to the UK’s specific regulations, but regulators warn they may seek stronger powers if platforms do not improve compliance."
+    },
+    {
+      "headline_en": "Irish data protection watchdog questions TikTok over removal of videos criticising EU migration pact",
+      "significance": "Shows that European regulators are increasingly scrutinising platform moderation decisions that affect political speech, not only privacy.",
+      "source": "The Irish Times (Ireland)",
+      "summary_en": "Ireland’s Data Protection Commission sent inquiries to TikTok after activists complained that videos critical of the new EU migration pact were removed or down-ranked during a wave of online protests. TikTok claimed the videos were taken down for ‘coordinated harassment’, but users say they merely expressed political opposition and shared footage from demonstrations. The watchdog is assessing whether TikTok’s enforcement processes align with the EU’s Digital Services Act transparency requirements."
+    },
+    {
+      "headline_en": "Dutch far-right politician’s X account temporarily suspended over post calling journalists ‘enemies of the people’",
+      "significance": "Reflects platform attempts to rein in aggressive rhetoric by elected officials, and the resulting accusations of political bias.",
+      "source": "NRC (Netherlands)",
+      "summary_en": "A Dutch far-right MP had his X account suspended for 24 hours after posting that selected journalists were ‘enemies of the people’ and sharing their photos. X cited its rules against targeted harassment and incitement, noting previous warnings to the account. The MP described the suspension as ‘political censorship’ and said he would consider legal action, while press groups welcomed the move as a necessary protection for reporters."
+    },
+    {
+      "headline_en": "Swedish court upholds police order to remove online call for protest outside politician’s home",
+      "significance": "Raises questions about how far states can go in limiting online mobilisation when it targets private residences of public figures.",
+      "source": "Dagens Nyheter (Sweden)",
+      "summary_en": "A Swedish administrative court upheld a police decision requiring organisers to remove social media posts calling for a protest outside a senior minister’s private home. Authorities argued the call posed security risks and infringed on the minister’s right to privacy, even though the demonstration itself was not banned in public spaces. Civil liberties groups say the ruling could set a precedent for restricting online calls to protest whenever officials invoke safety concerns."
+    }
+  ],
+  "editorial_overview": "Across Europe in the last week, news coverage highlights a steady stream of incidents where political speech online is being removed, restricted or sanctioned through a mix of platform rules, legal actions and informal government pressure. Politicians and public figures are both deleting their own controversial posts and seeing content removed or accounts suspended under hate-speech and anti-harassment policies. Courts and election authorities in several countries are ordering deletions of comments, ads and protest calls, often citing personality rights, security or integrity of the vote, while watchdogs and activists warn of chilling effects on public debate. At the same time, national regulators are beginning to scrutinise platforms’ moderation of political content under the EU’s newer rules, demanding greater transparency about why speech is taken down. The overall picture is one of contested boundaries between legitimate regulation, platform enforcement and perceived censorship in Europe’s digital public sphere.",
+  "topic": "European online political speech and content removal, past week",
+  "date": "2026-07-08",
+  "citations": [
+    "https://www.hiig.de/en/between-accusations-of-censorship-and-platform-power/",
+    "https://www.politico.com/live-updates/2026/07/06/world-cup-2026/balogun-trump-fifa-world-cup-brussels-outrage-00988416",
+    "https://www.facebook.com/euronews/posts/europe-of-sovereign-nations-will-now-face-a-process-that-could-see-it-stripped-o/1403143135194346/",
+    "https://www.instagram.com/reel/DahI6vVk4Nq/",
+    "https://www.reddit.com/r/CanadaPolitics/comments/1uqegxo/the_canadian_who_steered_europe_away_from_the_us/",
+    "https://euroclio.eu/2026/07/07/teaching-controversial-issues-across-europe-a-publication-by-radboud-university/",
+    "https://www.facebook.com/euronews/posts/i-would-advise-us-not-to-react-to-every-trumps-tweetepp-chief-manfred-weber-says/1397299529112040/",
+    "https://www.youtube.com/c/euronews",
+    "https://www.instagram.com/reel/Daf8QUfD36-/"
+  ]
+}
