@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "headline_en": "Europe's conservatives revive controversial 'chat control' child abuse scanning bill",
+      "significance": "Shows continued political pressure in the EU to expand scanning of private digital communications despite civil liberties concerns.",
+      "source": "Politico Europe, Belgium",
+      "summary_en": "Politico Europe reports that conservative groups in the European Parliament have moved to revive a controversial child sexual abuse material (CSAM) scanning proposal, often labelled 'chat control' by critics.[1] The move comes via top-level pressure and procedural manoeuvres, including a new amendment that would exempt end‑to‑end encrypted services such as WhatsApp and Signal from the scanning rules.[1] The initiative follows a broader debate over how far platforms can or should be compelled to scan users’ private messages, raising concerns about privacy, surveillance, and potential chilling effects on digital speech.[1]"
+    },
+    {
+      "headline_en": "European Parliament votes to extend voluntary scanning of private messages for child abuse material",
+      "significance": "Highlights a major EU‑level decision that keeps broad powers for tech platforms to inspect private communications, with direct implications for privacy and online speech.",
+      "source": "WIRED (Europe/US‑based but covering EU institutions)",
+      "summary_en": "WIRED reports that a majority of members of the European Parliament opposed renewing an interim law allowing tech companies to voluntarily scan users’ private messages for CSAM, but opposition fell short of the required threshold, so the regime was extended.[2] The law permits firms such as Meta, Google and Microsoft to scrutinise private texts, emails and social media communications, though end‑to‑end encrypted conversations (for example on WhatsApp and Signal) are exempt.[2] Critics argue the measure undermines the confidentiality of digital communications and risks expanding surveillance of lawful speech under the banner of child protection.[2]"
+    },
+    {
+      "headline_en": "European Parliament moves to exclude end‑to‑end encrypted chats from message‑scanning regime",
+      "significance": "Shows lawmakers trying to draw a line around the most private forms of communication while still allowing scanning elsewhere, reflecting complex trade‑offs in digital rights policy.",
+      "source": "Euronews, EU (Pan‑European, based in France)",
+      "summary_en": "Euronews reports that the European Parliament aims to exclude end‑to‑end encrypted chats from an EU law that allows scanning of online communications to detect child sexual abuse material.[5] The change would mean that services providing strong end‑to‑end encryption are not subject to scanning obligations, even as other platforms remain within the detection framework.[5] The debate illustrates the EU’s struggle to reconcile child protection objectives with demands from civil society and some lawmakers to safeguard private digital communications from scrutiny.[5]"
+    }
+  ],
+  "editorial_overview": "Recent European coverage focuses less on individual politicians’ deleted posts and more on structural decisions that affect how digital speech can be monitored or constrained. Politico Europe, WIRED and Euronews all describe EU‑level manoeuvres around a controversial child abuse scanning regime, including its extension and attempts to exempt end‑to‑end encrypted services, which together determine how far platforms may inspect private messages.[1][2][5] These developments do not directly order removal of specific political content, but they materially shape the legal environment for platform moderation and state‑aligned scanning of communications. The overall picture is of European institutions seeking to expand or preserve surveillance‑style tools for certain purposes, while simultaneously negotiating limits in response to privacy and civil liberties concerns. Within the last week, no major, well‑sourced European news stories were found that squarely match the more specific criteria of individual politicians deleting or being forced to remove controversial posts, suggesting the main news focus is currently on regulatory frameworks rather than discrete censorship incidents.",
+  "topic": "Digital speech, surveillance, and content‑scanning policy in Europe",
+  "date": "2026-07-10",
+  "citations": [
+    "https://www.politico.eu/article/europes-conservatives-revive-zombie-bill-child-abuse-scanning/",
+    "https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/",
+    "https://www.reddit.com/r/PoliticalDiscussion/comments/1up0nmr/why_has_being_a_centrist_become_so_controversial/",
+    "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "https://www.euronews.com/my-europe/2026/07/09/european-parliament-aims-to-exclude-end-to-end-chats-from-message-scanning-regime",
+    "https://www.youtube.com/watch?v=a0CnanwpkBw",
+    "https://www.facebook.com/cgtnamerica/posts/european-pressure-is-mounting-on-fifa-president-gianni-infantino-after-the-contr/1463085899183320/",
+    "https://jspp.psychopen.eu/index.php/jspp/article/view/20061/20061.html",
+    "https://autoconfig.bps.go.id/TEXT/slide/yb/B44Y430391260709/the-cultural-politics-of_europe-european_capitals-of_culture-and_european_union_since-the_1980s__routledgeuaces__contemporary_european__studies.pdf",
+    "https://www.instagram.com/reel/DakftURoFLy/"
+  ]
+}
