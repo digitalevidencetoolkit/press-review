@@ -1,0 +1,31 @@
+{
+  "articles": [
+    {
+      "headline_en": "EU social media ban for children faces legal and political hurdles",
+      "significance": "This article is relevant because it covers proposed restrictions on social media access in Europe and the political pressure around online speech and platform access.",
+      "source": "Euractiv, Belgium",
+      "summary_en": "The article says a recent French draft bill proposed restricting social media access for under-15s, and that the European Commission has asked France to amend the proposal. It also reports that European Commission President Ursula von der Leyen may announce an EU-wide effective ban for minors in her State of the Union speech, while officials say the legal framework is still undecided and further proposals may follow a child safety panel report."
+    },
+    {
+      "headline_en": "Von der Leyen convinced by case for social media ban for children",
+      "significance": "This matters because it shows top EU political backing for a broader age-based restriction on social media, which could shape platform access rules across Europe.",
+      "source": "Euronews, Europe",
+      "summary_en": "The article reports that Ursula von der Leyen has called for stronger protections for children online and said the evidence from a special panel has convinced her of the case for action. It says the EU is moving toward a new proposal on children’s access to social media, but the legal and policy details remain under discussion."
+    }
+  ],
+  "editorial_overview": "The most prominent Europe-based coverage in the last week focuses on child-safety-driven restrictions on social media rather than individual politicians deleting posts or viral moderation disputes. The reporting suggests growing political momentum in the EU for tighter age-based controls, but also shows significant legal uncertainty about how such measures would be designed and implemented. No strong established-news results in the provided set clearly document a recent case of a politician deleting posts, a court-ordered takedown of political speech, or a major platform moderation controversy involving a political figure.",
+  "topic": "Europe news on online speech, social media moderation, and political content removal",
+  "date": "2026-07-13",
+  "citations": [
+    "https://www.euractiv.com/news/eu-social-media-ban-for-children-faces-legal-and-political-hurdles/",
+    "https://www.reddit.com/r/europe/comments/1usf02t/eu_social_media_ban_for_children_faces_legal_and/",
+    "https://www.instagram.com/p/Dak5-k5ivzU/",
+    "https://en.wikipedia.org/wiki/Politico",
+    "https://apnews.com/hub/europe",
+    "https://www.youtube.com/watch?v=Q8vQsKcoRz8",
+    "https://www.youtube.com/c/euronews",
+    "https://www.facebook.com/FastCompany/posts/the-european-union-accused-meta-on-friday-of-breaching-its-social-media-law/1401997951794663/",
+    "https://www.instagram.com/reel/DaqvFy6gqiI/",
+    "https://www.euronews.com/my-europe/2026/07/13/von-der-leyen-social-media-ban"
+  ]
+}
