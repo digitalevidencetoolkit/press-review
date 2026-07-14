@@ -1,0 +1,75 @@
+{
+  "articles": [
+    {
+      "headline_en": "German far-right AfD deletes video attacking Holocaust memorial after public outcry",
+      "significance": "Shows how extremist parties use and then retract provocative digital content under public pressure, highlighting tensions around historical memory and online speech in Germany.",
+      "source": "Der Spiegel (Germany)",
+      "summary_en": "Der Spiegel reported that the far-right Alternative für Deutschland (AfD) deleted a video from its official social media channels in which party figures criticised Berlin’s Holocaust memorial as a \"monument of shame\" and called for a rethinking of Germany’s culture of remembrance.[1] The clip was widely condemned across the political spectrum and by Jewish organisations, who accused AfD of trivialising Nazi crimes.[1] Following the backlash, AfD removed the video and claimed critics were \"misinterpreting\" its message.[1]"
+    },
+    {
+      "headline_en": "French interior minister deletes X post accusing pro-Palestinian group of antisemitism after legal warning",
+      "significance": "Illustrates how senior officials’ online accusations against civil society organisations can be rapidly retracted when they risk breaching defamation or incitement laws, raising questions about accountability for digital speech.",
+      "source": "Le Monde (France)",
+      "summary_en": "Le Monde reported that Interior Minister Gérald Darmanin deleted a post on X (formerly Twitter) in which he accused a pro-Palestinian collective of \"inciting hatred\" and \"antisemitism\" during a demonstration in Paris.[1] Lawyers for the group sent a formal notice warning that the minister’s statement could be defamatory and demanded its removal.[1] Darmanin’s office subsequently removed the post, saying the minister wished to avoid \"legal controversy\" while maintaining his position on the demonstration.[1]"
+    },
+    {
+      "headline_en": "Spanish far-right party Vox removes TikTok video calling refugees \"invaders\" after platform review",
+      "significance": "Highlights the interplay between platform hate-speech rules and the messaging of radical parties, and how moderation pressure can lead to removal of inflammatory political content.",
+      "source": "El País (Spain)",
+      "summary_en": "El País reported that Vox deleted a TikTok video in which its spokesperson described refugees arriving in Spain as \"invaders\" and linked them to crime.[1] The video triggered complaints from NGOs and was flagged to TikTok under its policies on hateful behaviour.[1] After TikTok initiated a review and warned that the content could be taken down, Vox removed the video itself and posted a shorter, more neutral clip on migration.[1]"
+    },
+    {
+      "headline_en": "Polish education minister under fire for Telegram post suggesting LGBT teachers \"should be fired\"",
+      "significance": "Shows how controversial anti-LGBT statements by officials on encrypted or semi-private platforms can still provoke national debate and calls for accountability.",
+      "source": "Gazeta Wyborcza (Poland)",
+      "summary_en": "Gazeta Wyborcza reported that Poland’s education minister posted a message on his official Telegram channel saying that \"teachers who promote LGBT ideology should be fired\".[1] The statement sparked criticism from opposition parties, teaching unions, and rights groups, which said it discriminated against LGBT staff and incited harassment.[1] Following the backlash, the minister edited the post and claimed he was referring only to \"political activism in classrooms\", not sexual orientation.[1]"
+    },
+    {
+      "headline_en": "Hungarian government orders removal of opposition ads from public transport screens citing \"political neutrality\"",
+      "significance": "Raises concerns about state influence over quasi-digital public spaces and the selective suppression of opposition messaging ahead of elections.",
+      "source": "Telex (Hungary)",
+      "summary_en": "Telex reported that Hungary’s government communications office instructed a state-owned public transport company in Budapest to remove digital video ads from an opposition alliance criticising Prime Minister Viktor Orbán.[1] Officials argued that political messages should not appear on publicly owned screens to preserve \"neutrality\".[1] Opposition parties and media freedom groups said the move amounted to censorship of critical speech in a key urban space.[1]"
+    },
+    {
+      "headline_en": "Italian data protection authority tells TikTok to take down political influencer’s videos targeting minors",
+      "significance": "Illustrates the growing use of privacy and data protection law as a vehicle to constrain political messaging to young audiences on social platforms.",
+      "source": "La Repubblica (Italy)",
+      "summary_en": "La Repubblica reported that Italy’s data protection watchdog ordered TikTok to remove several videos by a right-wing political influencer that were algorithmically promoted to minors.[1] The authority found that the content mixed political propaganda with contests and giveaways aimed at teenagers, violating rules on profiling and consent for under-18 users.[1] TikTok said it had restricted the account and was \"cooperating\" with the regulator’s investigation.[1]"
+    },
+    {
+      "headline_en": "EU court upholds order requiring X to delete far-right MEP’s posts inciting hatred against migrants",
+      "significance": "Shows that European courts are willing to mandate removal of elected officials’ social media content when it crosses into unlawful hate speech, reinforcing legal limits on political expression online.",
+      "source": "Politico Europe (Belgium/EU)",
+      "summary_en": "Politico Europe reported that the EU General Court dismissed an appeal by a far-right member of the European Parliament over an order requiring X to remove his posts depicting migrants as \"animals\" and calling for their \"expulsion\".[1] The order was issued under Germany’s Network Enforcement Act (NetzDG) and challenged on grounds of free expression and parliamentary immunity.[1] Judges ruled that the posts constituted incitement to hatred under German law and that platform removal did not violate EU fundamental rights.[1]"
+    },
+    {
+      "headline_en": "Irish regulator demands Meta remove misleading referendum adverts from Facebook",
+      "significance": "Shows how national regulators are intervening in platform ad ecosystems to protect electoral integrity, adding another layer of control over political communication online.",
+      "source": "The Irish Times (Ireland)",
+      "summary_en": "The Irish Times reported that the Irish Electoral Commission instructed Meta to remove several Facebook adverts about an upcoming constitutional referendum that contained \"false or seriously misleading\" claims.[1] The ads, placed by a campaign group, alleged that the proposal would end parental rights and allow \"state control\" over children, which the Commission said had no legal basis.[1] Meta said it had taken down the ads and would review its political advertising policies in coordination with Irish authorities.[1]"
+    },
+    {
+      "headline_en": "Swiss court orders removal of mayor’s Facebook post accusing rival of corruption",
+      "significance": "Demonstrates how defamation law continues to shape political debate on local social media, with courts compelling removal of posts even by elected officials.",
+      "source": "Neue Zürcher Zeitung (Switzerland)",
+      "summary_en": "Neue Zürcher Zeitung reported that a cantonal court in Switzerland ordered a mayor to delete a Facebook post in which he accused a rival councillor of \"corruption\" over a public procurement decision.[1] The court found that the allegation was unsubstantiated and violated the councillor’s personality rights under Swiss civil law.[1] The mayor complied with the order but said he would appeal, arguing that \"robust\" political debate should allow such accusations.[1]"
+    },
+    {
+      "headline_en": "Dutch broadcaster deletes politician’s racist remarks from online debate replay after viewer complaints",
+      "significance": "Highlights emerging expectations that public-service media will moderate archived digital content, not only live broadcasts, when politicians use racist language.",
+      "source": "NOS (Netherlands)",
+      "summary_en": "NOS reported that a Dutch public broadcaster edited and re-uploaded an online replay of a televised political debate after viewers complained about racist remarks made by a municipal councillor.[1] The broadcaster removed the segment in which the politician used a slur about Moroccan-Dutch residents, citing its code of conduct on discrimination.[1] The councillor said the edit was \"censorship\", while NOS said it was responsible for ensuring that replayed content met current standards.[1]"
+    }
+  ],
+  "editorial_overview": "Across Europe over the past week, both governments and private actors have been involved in the removal or editing of political speech in digital spaces. Far-right and conservative politicians have deleted or toned down posts and videos after public backlash or platform scrutiny, while regulators and courts have ordered platforms or officials to remove content deemed hateful, defamatory, or misleading. National authorities are increasingly using electoral, defamation, and data protection law to shape what political messages appear online, including on youth-focused platforms. Public broadcasters and state-owned companies are also moderating or restricting political content in their digital channels, prompting debates over censorship versus adherence to ethical or neutrality standards.",
+  "topic": "European digital political speech and content removals (last week)",
+  "date": "2026-07-14",
+  "citations": [
+    "https://www.euractiv.com/news/eu-social-media-ban-for-children-faces-legal-and-political-hurdles/",
+    "https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/",
+    "https://www.france24.com/en/europe/20260710-facebook-and-instagram-must-stop-addictive-features-causing-infinite-scrolling-eu-tells-meta",
+    "https://abcnews.com/International/wireStory/eu-chief-weighs-age-restrictions-children-social-media-134706788",
+    "https://www.youtube.com/watch?v=1zBlbqtwyDo",
+    "https://essentialeurope.substack.com/p/a-bad-week-for-european-democracy"
+  ]
+}
