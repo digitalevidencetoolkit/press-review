@@ -1,0 +1,60 @@
+{
+  "articles": [
+    {
+      "headline_en": "Facebook and Instagram must stop ‘addictive’ infinite scrolling, EU tells Meta",
+      "significance": "Shows EU regulators using the Digital Services Act to pressure a major platform to alter core engagement features, with implications for how political and civic content is promoted and consumed.",
+      "source": "France 24, France",
+      "summary_en": "The European Commission has ordered Meta to remove or significantly alter ‘addictive’ design features such as infinite scrolling, autoplay videos and highly personalised recommendation feeds on Facebook and Instagram, saying they breach the EU’s Digital Services Act obligations to protect users, especially minors.[6] Brussels argues that these features contribute to excessive screen time and can undermine mental health, and has launched formal proceedings that could lead to heavy fines or binding remedial measures.[6] Meta is required to present compliance proposals addressing how feeds and discovery systems are designed and how users, including young people, are nudged to stay online.[6]"
+    },
+    {
+      "headline_en": "EU accuses Meta of breaching digital laws with addictive apps",
+      "significance": "Highlights escalating regulatory pressure on how large platforms curate and amplify content, which will affect political communication and visibility of public speech across Europe.",
+      "source": "Kursiv Media (English edition), Kazakhstan/EU-focused",
+      "summary_en": "EU authorities in Brussels have formally accused Meta, the owner of Facebook and Instagram, of violating the Digital Services Act by deploying ‘addictive’ app features such as endless scrolling and highly engaging recommendation systems.[2] Regulators say these design choices fail to meet DSA requirements for protecting minors and limiting manipulative interfaces, and could trigger substantial fines or mandated design changes.[2] The case adds to broader EU scrutiny of how major platforms manage algorithmic feeds, which structure the distribution of political and social content.[2]"
+    },
+    {
+      "headline_en": "EU experts urge social media restrictions for children under 13",
+      "significance": "Signals a political push toward EU‑wide limits on young people’s access to social platforms, shaping the future audience for online political discourse and civic information.",
+      "source": "DW (Deutsche Welle), Germany",
+      "summary_en": "An expert panel advising the European Commission has recommended that children under 13 should have access to social media only under the supervision of carers or at school, as part of a broader child‑protection strategy.[7] The report, presented in Brussels, calls for legal restrictions on unsupervised use of internet‑enabled devices for minors and for stronger obligations on platforms to prevent, detect and block child sexual abuse material.[7] Commission President Ursula von der Leyen backed the idea of ‘age‑appropriate restrictions’ implemented gradually, and legislation is expected in the coming months.[7]"
+    },
+    {
+      "headline_en": "European Parliament aims to exclude end‑to‑end chats from message‑scanning regime",
+      "significance": "Marks a key institutional attempt to shield encrypted communications from scanning mandates that critics see as a form of mass surveillance and potential suppression of private political speech.",
+      "source": "Euronews, EU (headquartered in France)",
+      "summary_en": "The European Parliament has adopted amendments that would exclude end‑to‑end encrypted services such as WhatsApp and Signal from the EU’s controversial temporary regime allowing platforms to voluntarily scan messages for child sexual abuse material.[1] Lawmakers argued that including fully encrypted chats would undermine privacy and data protection, while the derogation continues to apply to non‑encrypted communications.[1] The move comes amid debate over a forthcoming permanent ‘chat control’ framework that could reshape how private digital communications are monitored across the EU.[1]"
+    },
+    {
+      "headline_en": "A majority of European lawmakers voted against letting Big Tech read our messages. They’re going to anyway",
+      "significance": "Illustrates how EU legislative procedures can sustain broad message‑scanning powers for platforms despite majority opposition, raising concerns about the balance between child protection and civil liberties online.",
+      "source": "Wired (Europe section), United States/Europe coverage",
+      "summary_en": "Wired reports that the European Parliament has voted to extend legislation allowing tech companies such as Meta, Google and Microsoft to voluntarily scan users’ private text, email and social media messages for child sexual abuse material until 2028.[5] Although more MEPs voted against the extension than in favour, they fell short of the threshold needed to block it, meaning the temporary regime remains in place while a permanent ‘chat control’ law is being prepared.[5] End‑to‑end encrypted chats stay exempt, but civil‑liberty advocates warn that large volumes of private communication will continue to be scanned under EU law.[5]"
+    },
+    {
+      "headline_en": "Why the EU’s new social media roadmap is tougher than it looks",
+      "significance": "Shows an emerging regulatory framework that will constrain how platforms design and moderate social environments, with potential downstream effects on how political speech can be targeted at minors.",
+      "source": "Politico Europe, Belgium/EU",
+      "summary_en": "Politico Europe analyses the European Commission’s child‑safety roadmap, which proposes strict limits on screen time and unsupervised social media access for children, including guidance that under‑13s should not use internet‑enabled devices without supervision.[4] The roadmap recommends shifting the burden of proof to platforms to show their products are safe for minors and integrating stronger safety‑by‑design obligations before services become accessible to young users.[4] These proposals foreshadow tougher enforcement under the Digital Services Act and new legislation, tightening controls on how social platforms operate in the EU.[4]"
+    },
+    {
+      "headline_en": "Child safety online: European Commission expert report calls for stricter social media access and stronger content blocking duties",
+      "significance": "Reveals a policy push to hard‑wire content blocking and access restrictions into EU law, which will shape the legal environment for moderating political speech alongside harmful material.",
+      "source": "European Commission (official document), EU",
+      "summary_en": "A European Commission summary report on child safety online recommends a harmonised EU‑wide restriction on access to social media and other digital services for children under 13, including AI‑based companions.[9] It calls for swift adoption of measures obliging social media and other digital service providers to prevent, detect, report and block child sexual abuse online, including in interpersonal communication, and suggests member states may add further access restrictions for older minors.[9] The report also advocates shifting the burden of proof onto providers to demonstrate that their products are safe for minors and strengthening enforcement capacities across the EU.[9]"
+    }
+  ],
+  "editorial_overview": "Across Europe over the past week, coverage has focused less on individual politicians’ deleted posts and more on structural attempts to regulate the digital environment where political and social speech occurs. Major outlets report growing use of the Digital Services Act and related child‑safety initiatives to pressure platforms like Meta to change core features such as infinite scrolling, personalised feeds and autoplay, which shape how political content is surfaced.[6][2][4] At the same time, EU institutions are extending and refining regimes that allow large platforms to scan private messages for child sexual abuse material, while debating limits for end‑to‑end encrypted services, highlighting tensions between privacy, security and freedom of expression.[1][5][9] Expert panels and Commission documents point toward harmonised age‑based access restrictions and stronger obligations to block harmful content, reinforcing a trend toward more interventionist oversight of social media design and moderation in the EU.[7][4][9]",
+  "topic": "European digital speech, social media regulation and platform governance",
+  "date": "2026-07-15",
+  "citations": [
+    "https://www.euronews.com/my-europe/2026/07/09/european-parliament-aims-to-exclude-end-to-end-chats-from-message-scanning-regime",
+    "https://uz.kursiv.media/en/2026-07-11/brussels-accuses-meta-of-violating-digital-laws-with-addictive-apps/",
+    "https://www.euractiv.com/news/eu-social-media-ban-for-children-faces-legal-and-political-hurdles/",
+    "https://www.politico.eu/article/eu-new-take-on-social-media-is-tougher-than-it-looks/",
+    "https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/",
+    "https://www.france24.com/en/europe/20260710-facebook-and-instagram-must-stop-addictive-features-causing-infinite-scrolling-eu-tells-meta",
+    "https://www.dw.com/en/europe-eu-ban-social-media-children/a-77931424",
+    "https://essentialeurope.substack.com/p/a-bad-week-for-european-democracy",
+    "https://commission.europa.eu/document/download/4c5d55f1-9072-4bb9-a263-094461525ca6_en?filename=Child-Safety-Online-summary.pdf"
+  ]
+}
