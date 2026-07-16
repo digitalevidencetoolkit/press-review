@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "headline_en": "EU experts urge social media restrictions for children under 13",
+      "significance": "This is a major EU-level proposal affecting digital speech access for minors and platform policy across member states.",
+      "source": "Deutsche Welle (Germany)",
+      "summary_en": "An expert panel advising the European Commission recommended limiting access to social media for children under 13, with access only under parental supervision or at school. Commission President Ursula von der Leyen called for age-appropriate restrictions implemented in a phased and gradual way."
+    },
+    {
+      "headline_en": "Facebook and Instagram must stop 'addictive' features causing infinite scrolling, EU tells Meta",
+      "significance": "The case matters because it reflects EU regulatory pressure on platform design and moderation of digital environments, even when not centered on individual speech takedowns.",
+      "source": "France 24 (France)",
+      "summary_en": "The European Union told Meta to end features such as endless scroll, highly personalised feeds, and autoplay that it says encourage addictive use. The report frames the move as part of Brussels' wider enforcement of digital rules on major platforms."
+    },
+    {
+      "headline_en": "EU accuses Meta of breaching the Digital Services Act",
+      "significance": "This is important because it shows the EU escalating enforcement against a major platform under digital law, which can affect how political and public content is handled online.",
+      "source": "Kursiv Media (Uzbekistan)",
+      "summary_en": "Authorities in Brussels have formally accused Meta, the parent company of Facebook and Instagram, of violating the Digital Services Act. The report places the action within the EU's broader campaign to enforce digital obligations on large platforms."
+    },
+    {
+      "headline_en": "A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They're Going to Anyway",
+      "significance": "This matters because it concerns a controversial EU decision on scanning private messages, a policy that directly affects digital privacy and the boundaries of state-backed content monitoring.",
+      "source": "Wired (United States)",
+      "summary_en": "The European Parliament backed an extension allowing tech companies to voluntarily scan private messages for child sexual abuse material, despite a majority of lawmakers voting against the proposal. Critics have nicknamed the measure 'Chat Control,' and the report says the permission now lasts until 2028 or until permanent legislation replaces it."
+    }
+  ],
+  "editorial_overview": "The most relevant European news in the last week centers on regulation of digital speech and platform behavior rather than on individual politicians deleting posts or making controversial remarks. The dominant themes are EU pressure on major platforms, especially Meta, and renewed debate over child safety, private-message scanning, and platform design. There is also a clear pattern of governments and EU institutions expanding oversight of online expression through regulatory tools. No strong result in the provided set directly concerns a politician deleting a post or a court ordering removal of a political speech post.",
+  "topic": "European news on online speech, platform moderation, and digital censorship",
+  "date": "2026-07-16",
+  "citations": [
+    "https://www.lemonde.fr/en/social-media/",
+    "https://uz.kursiv.media/en/2026-07-11/brussels-accuses-meta-of-violating-digital-laws-with-addictive-apps/",
+    "https://www.france24.com/en/europe/20260710-facebook-and-instagram-must-stop-addictive-features-causing-infinite-scrolling-eu-tells-meta",
+    "https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/",
+    "https://www.upday.com/uk/88-of-europes-disinformation-now-spreads-through-x-eu-report-finds/hnj1j65",
+    "https://www.dw.com/en/europe-eu-ban-social-media-children/a-77931424",
+    "https://essentialeurope.substack.com/p/a-bad-week-for-european-democracy",
+    "https://www.washingtonpost.com/business/2026/07/13/eu-social-media-leyen-children-restrictions-tech/97efdbd8-7ea2-11f1-8a16-393bd03340b0_story.html",
+    "https://www.bssnews.net/international/404675",
+    "https://www.youtube.com/watch?v=XO1pjqJUpWk"
+  ]
+}
