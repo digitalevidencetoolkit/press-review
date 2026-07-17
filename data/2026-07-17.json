@@ -1,0 +1,53 @@
+{
+  "articles": [
+    {
+      "headline_en": "EU accuses Meta of making Facebook and Instagram addictive, orders changes under Digital Services Act",
+      "significance": "Sets an important precedent for EU regulatory intervention in social media design and could reshape how political and civic content is consumed online.",
+      "source": "AP News, Ireland (via EU coverage)",
+      "summary_en": "The European Commission has issued preliminary findings that Meta’s design of Facebook and Instagram breaches the EU’s Digital Services Act by encouraging compulsive use through features such as infinite scrolling, autoplay videos, and highly personalised feeds.[5][4] Regulators say these \"addictive\" features pose particular risks to children and vulnerable adults and have ordered Meta to disable key features by default, introduce effective screen‑time breaks, and make recommendation algorithms less engagement‑driven.[4][5] Meta faces potential fines of up to six percent of its global annual turnover if it does not comply, and can submit its defence before a final decision is taken in the coming months.[4][5]"
+    },
+    {
+      "headline_en": "EU tells Meta to change Facebook and Instagram’s ‘addictive design’ or face heavy fine",
+      "significance": "Demonstrates how EU content and safety rules can indirectly constrain how political and public speech is promoted and surfaced on major platforms.",
+      "source": "Ahram Online (English edition), Egypt reporting on EU",
+      "summary_en": "In a detailed statement on its preliminary view, the European Commission said Meta has broken EU content rules by failing to mitigate risks linked to features designed to maximise user engagement on Facebook and Instagram.[4] The Commission highlighted endless scroll, automatic video playback, and highly personalised feeds as problematic, and suggested disabling such features by default, adding screen‑time breaks, and adjusting recommender systems away from pure engagement metrics.[4] Time‑management tools and parental controls currently offered by Meta were deemed insufficient, especially for non‑technical parents, reinforcing the Commission’s case for design changes that affect how all content, including political speech, reaches users.[4]"
+    },
+    {
+      "headline_en": "EU will seek to limit children’s access to social media, says Ursula von der Leyen",
+      "significance": "Signals forthcoming EU legislation that could restrict how minors engage with political discourse and civic information on social platforms.",
+      "source": "RTÉ News, Ireland",
+      "summary_en": "European Commission President Ursula von der Leyen announced that the Commission will present a proposal after the summer to limit children’s access to social media platforms, following the handover of an expert report on child online protection.[6] She said the EU should introduce \"age‑appropriate restrictions\" across digital platforms, implying phased access for minors and stricter safeguards around harmful content and addictive product features.[6] The initiative forms part of a broader EU effort to regulate social media use by children, complementing enforcement of the Digital Services Act.[6]"
+    },
+    {
+      "headline_en": "Europe moves toward possible social media ban for younger teens",
+      "significance": "Could transform youth exposure to online political messaging and campaigning by restricting access to major platforms for those under 13 and tightly regulating access for older teens.",
+      "source": "The New York Times, United States (Europe section)",
+      "summary_en": "A panel of experts has presented recommendations to European Commission President Ursula von der Leyen proposing that children under 13 be barred from social media unless supervised by a parent or educator, and that teenagers aged 13 to 18 only use platforms with strong safety measures such as limits on endless scrolling.[3] The advice also calls for eliminating screen time entirely for children under three and is described as the first step toward EU legislation restricting minors’ use of platforms like TikTok and Instagram.[3] Von der Leyen is expected to unveil draft legislation based on these proposals in her State of the European Union address in September.[3]"
+    },
+    {
+      "headline_en": "EU eyes phased social media access for children, stops short of outright ban",
+      "significance": "Illustrates a regulatory focus on structural controls over platform access that will indirectly shape how political and public speech reaches younger audiences.",
+      "source": "Le Monde, France",
+      "summary_en": "Le Monde reports that the European Union is considering a phased model of social media access for children, allowing gradual entry from age 13 with \"age‑appropriate restrictions,\" rather than imposing a full ban.[2] Commission President Ursula von der Leyen supports the approach, which would tie minors’ access to built‑in safety and design safeguards on platforms.[2] The discussion reflects growing concern in Europe about the psychological and societal impacts of social media on youth, including exposure to harmful or manipulative content.[2]"
+    },
+    {
+      "headline_en": "UK police arrest man over social media threat to shoot Reform UK leader Nigel Farage",
+      "significance": "Highlights how law‑enforcement responses to violent political threats online can intersect with concerns about speech boundaries and platform moderation in Europe.",
+      "source": "South China Morning Post, Hong Kong (Europe news)",
+      "summary_en": "London’s Metropolitan Police arrested a man on suspicion of sending threatening communications after he posted a social media message in May threatening to shoot Nigel Farage, leader of the Reform UK party.[7] The arrest comes amid heightened concern over the security of politicians following the killing of former MP Ann Widdecombe, and increased scrutiny of online threats and extremist rhetoric.[7] The case underscores ongoing tensions between free expression and public‑safety enforcement in the UK’s handling of politically charged online speech.[7]"
+    }
+  ],
+  "editorial_overview": "Recent European developments show regulators focusing less on individual posts and more on the structural design of major platforms, with the EU pressing Meta to remove or limit “addictive” features such as infinite scroll and autoplay under the Digital Services Act.[4][5] In parallel, Brussels is preparing proposals to restrict children’s access to social media through age‑appropriate limits and phased access, backed by expert recommendations that could bar under‑13s and tightly constrain platforms for teens.[2][3][6] These measures, while framed around health and safety, will indirectly affect how political and civic content is distributed and consumed, especially among younger users. Law‑enforcement action in the UK against violent threats to Nigel Farage on social media highlights the security dimension of digital political speech and ongoing questions over where enforcement ends and speech restriction begins.[7] Overall, Europe is moving toward a more interventionist posture on platform design and access that will have downstream consequences for the visibility and regulation of political expression online.",
+  "topic": "European online speech, platform design, and regulatory control over social media",
+  "date": "2026-07-17",
+  "citations": [
+    "https://www.aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules",
+    "https://www.lemonde.fr/en/social-media/",
+    "https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html",
+    "https://english.ahram.org.eg/NewsContent/3/1239/572603/Business/Tech/EU-tells-Meta-to-change-Facebook,-Instagram;s-;add.aspx",
+    "https://apnews.com/article/facebook-instagram-eu-regulators-teens-addictive-b2f0ffd5ffc90721cacef7937e5909d2",
+    "https://www.rte.ie/news/europe/2026/0713/1583074-eu-social-media/",
+    "https://www.scmp.com/news/world/europe/article/3360718/uk-police-arrest-man-over-threat-shoot-reform-leader-nigel-farage",
+    "https://www.straitstimes.com/world/europe/uks-reform-calls-for-full-security-for-lawmakers-after-politicians-murder"
+  ]
+}
