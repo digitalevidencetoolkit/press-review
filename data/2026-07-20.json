@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "headline_en": "Russia accused of spreading disinformation on social media to help Germany’s far right",
+      "significance": "This relates to online manipulation of public speech and political content on major platforms in Europe.",
+      "source": "Arab News Pakistan (international) / reporting from Berlin, Germany",
+      "summary_en": "German lawmakers and anti-Kremlin activists suspect Russia is using social media to inflame regional tensions, smear mainstream parties, and support the far-right Alternative for Germany ahead of regional elections. The report says fake news articles imitating reputable media have circulated on X, TikTok, and Bluesky in recent months. The article frames this as part of a broader disinformation campaign targeting German politics, rather than a single removed post or moderation dispute. Russian authorities deny such accusations in similar contexts, but that denial is not included in the article excerpt provided here."
+    },
+    {
+      "headline_en": "88% of Europe’s disinformation now spreads through X, EU report finds",
+      "significance": "This is relevant because it highlights platform governance and the role of social media in the spread of political misinformation across Europe.",
+      "source": "upday UK (United Kingdom)",
+      "summary_en": "A March 2026 report by the European External Action Service is cited as finding that 88% of 43,000 analyzed disinformation incidents in Europe were distributed via X. The article says recent EU and international reports identify X as one of the largest sources and distribution channels for disinformation. It does not describe a specific deletion or takedown order, but it does concern the online environment in which political speech is amplified or suppressed."
+    }
+  ],
+  "editorial_overview": "The available European coverage in the last week is weighted toward disinformation, platform amplification, and regulatory concern rather than explicit cases of politicians deleting posts or courts ordering removals. The strongest items focus on X and other social platforms as channels for political misinformation in Germany and across Europe. There is also institutional attention to tighter rules for minors and safer online environments, which points to broader pressure on platform governance. No clearly documented, high-confidence European article in the provided results directly reports a politician deleting a controversial post or a court-ordered removal of political speech online.",
+  "topic": "Europe news on social media, political speech, moderation, and online censorship",
+  "date": "2026-07-20",
+  "citations": [
+    "https://www.upday.com/fr/la-campagne-de-desinformation-visant-lallemagne-et-le-parti-dextreme-droite-quelle/2qz27r1",
+    "https://www.upday.com/fr/88-de-la-desinformation-europeenne-se-propage-desormais-via-x-selon-un-rapport-de-lue/r2cmw2g",
+    "https://www.euronews.com/my-europe/2026/07/17/podcast-is-social-media-over-for-under-13s-in-the-eu",
+    "https://www.arabnews.pk/node/2650940/world",
+    "https://www.canadianaffairs.news/2026/07/14/eu-to-limit-childrens-access-to-social-media-gradually/",
+    "https://www.upday.com/uk/88-of-europes-disinformation-now-spreads-through-x-eu-report-finds/hnj1j65",
+    "https://www.jurist.org/news/2026/07/eu-commission-announces-age-based-restrictions-for-minors-across-social-media-platforms/",
+    "https://www.europarl.europa.eu/news/it/press-room/20260709IPR46415/better-rules-enforcement-for-a-safer-social-media-and-online-environment"
+  ]
+}
