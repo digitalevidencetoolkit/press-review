@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "headline_en": "Macron cements tech legacy with social media ban",
+      "significance": "This is a major European policy action on digital speech and access, but it concerns age limits for minors rather than the deletion or removal of political speech.",
+      "source": "POLITICO Europe (Belgium/European Union)",
+      "summary_en": "French lawmakers finalized legislation that would ban social media use for users under 15, after amending the text to ensure compliance with EU law. The measure was set to take effect by the end of August, with the European Commission overseeing key aspects of implementation.[1]"
+    },
+    {
+      "headline_en": "France pulls the plug on teen scrolling",
+      "significance": "This is a significant European regulatory move affecting online speech and platform access, though it is not specifically about political content removal or public figures deleting posts.",
+      "source": "POLITICO Europe (Belgium/European Union)",
+      "summary_en": "France reached an agreement with the European Commission and became the first country in Europe to pass an age limit on social media use. The report says the measure overcame repeated hurdles tied to EU regulations, including one the week before publication.[2]"
+    },
+    {
+      "headline_en": "Why the EU's so-called Chat Control law has privacy experts up in arms",
+      "significance": "This matters because it concerns state-backed pressure on platforms to scan private communications, a form of digital speech surveillance and moderation with major implications for privacy and online expression.",
+      "source": "Euronews (France/European Union)",
+      "summary_en": "The European Parliament revived a derogation to e-Privacy rules that allows big tech platforms to voluntarily scan private messages for child sexual abuse material, extending interim measures until 2028. The report notes that the rule does not apply to end-to-end encrypted services such as WhatsApp or Signal.[3]"
+    }
+  ],
+  "editorial_overview": "The most relevant European coverage in the past week centers on state regulation of online speech and platform behavior rather than high-profile deletions by politicians. France appears prominently, with new rules affecting social media access for minors and broader debate over digital controls. At the EU level, the revived message-scanning regime highlights continuing tension between safety policy and privacy, while the available results do not show a strong match for direct cases of politicians deleting posts or platform moderation controversies involving political figures.",
+  "topic": "Europe news on social media speech, censorship, and platform regulation",
+  "date": "2026-07-24",
+  "citations": [
+    "https://www.politico.eu/article/macron-cements-tech-legacy-with-social-media-ban/",
+    "https://www.politico.eu/newsletter/forecast/france-pulls-the-plug-on-teen-scrolling/",
+    "https://www.euronews.com/my-europe/2026/07/18/why-the-eus-so-called-chat-control-law-has-privacy-experts-up-in-arms",
+    "https://www.youtube.com/watch?v=YtC2rDera1g",
+    "https://www.youtube.com/watch?v=daDniWD6v8A",
+    "https://reclaimthenet.org/topics/emmanuel-macron",
+    "https://www.youtube.com/watch?v=UZ84jV2tfe4"
+  ]
+}
