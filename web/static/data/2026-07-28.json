@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "headline_en": "France passes law banning under-15s from social media",
+      "significance": "Illustrates how child-protection policy can entail mass removal or blocking of minors’ accounts and mandatory age verification, raising wider questions about digital rights and state influence over platform moderation.",
+      "source": "BBC News, United Kingdom",
+      "summary_en": "France’s parliament has approved a law that will ban social media use for under-15s from January 2027, making France the first European country to introduce such a blanket age-based block.[8] The law requires all users to verify their age to access social media, with implementation in two stages: from September under-15s will be barred from opening new accounts, and from January 2027 platforms must ensure all existing accounts belong to users aged over 15.[8] Social media platforms will be required to use age-verification tools approved by the French privacy regulator, and the measure has faced criticism from parts of the left over its scope and civil-liberties implications.[8]"
+    },
+    {
+      "headline_en": "Macron cements tech legacy with social media ban",
+      "significance": "Shows how political leadership is directly reshaping online speech and access at scale, with EU oversight integrated into national regulation of platforms.",
+      "source": "Politico Europe, Belgium",
+      "summary_en": "Politico reports that French lawmakers finalized legislation championed by President Emmanuel Macron to ban social media for under-15s, after agreeing amendments that give the European Commission oversight of key aspects of its implementation.[1] The changes were required to ensure compliance with EU law and clear the way for the measure to take effect by the end of August.[1] The article situates the ban within Macron’s broader push to regulate technology and online behavior in France and across the EU.[1]"
+    },
+    {
+      "headline_en": "France pulls the plug on teen scrolling",
+      "significance": "Highlights how France is positioning itself as a regulatory frontrunner on restricting minors’ social media use, potentially influencing other European approaches to digital speech involving young users.",
+      "source": "Politico Europe – Forecast newsletter, Belgium",
+      "summary_en": "Politico’s Forecast newsletter notes that, after repeated hurdles with EU regulations, France reached an agreement with the European Commission and became the first European country to pass a strict age limit on social media use for teenagers.[3] The piece explains that the deal with Brussels allows the ban on under-15s’ social media access to move forward while remaining compatible with EU law.[3] It frames the law as part of a wider European debate on mental health, online harms, and how far states can go in curbing access to digital platforms for minors.[3]"
+    },
+    {
+      "headline_en": "France becomes first EU country to ban social media for under-15s",
+      "significance": "Reinforces that a major EU member state is mandating platforms to block and delete young users’ accounts, a substantial form of state-driven content and account removal.",
+      "source": "YouTube video report (major broadcast outlet), France",
+      "summary_en": "A video report explains that France has become the first EU country to ban social media access for children under 15 after lawmakers overwhelmingly backed the measure in parliament.[5] Under the law, tech companies must block under-15s from accessing social media from September and delete existing accounts belonging to them by January next year, with age verification required for all new and existing accounts.[5] The report notes that President Emmanuel Macron hailed the legislation as a “major step forward” and that phones and smartphones are also being banned from all secondary schools from September.[5]"
+    },
+    {
+      "headline_en": "Morning roundup: France bans social media for under-15s",
+      "significance": "Shows the ban entering broader public discourse in Europe as a notable example of state-mandated deletion of minors’ accounts and restriction of online participation.",
+      "source": "RTL Today (Luxembourg), Luxembourg",
+      "summary_en": "RTL’s morning news roundup reports that France has become the first EU country to approve a social media ban for teenagers.[4] It states that both chambers of the French parliament backed a law barring under-15s from opening new accounts from September and requiring the deletion of existing accounts from January.[4] The item presents the measure in the context of other international news, underscoring its significance as a European regulatory milestone.[4]"
+    }
+  ],
+  "editorial_overview": "Across European coverage over the past week, one issue dominates: France’s new law banning social media for under‑15s and obliging platforms to block or delete minors’ accounts while enforcing state‑approved age verification.[8][1][3][5][4] Major outlets in the UK, Belgium, France, and Luxembourg present the measure as a landmark in children’s online protection, but also as a far‑reaching intervention in digital public speech that conditions access on government‑regulated identity checks.[8][1][3][5] The European Commission’s role in overseeing key aspects of implementation underscores how EU‑level norms are being woven into national controls on platforms and users.[1][3] While the reporting focuses on minors rather than general political speech, the scale of mandated account removal and access restriction illustrates how contemporary concerns over mental health and online harms are driving increasingly assertive state involvement in social‑media moderation in Europe.[8][1][3][5]",
+  "topic": "European digital speech and platform moderation involving government bans and mandated account removal",
+  "date": "2026-07-28",
+  "citations": [
+    "https://www.politico.eu/article/macron-cements-tech-legacy-with-social-media-ban/",
+    "https://www.cnn.com/2026/07/22/world/video/parisians-react-to-frances-new-social-media-ban-for-kids-under-15-digvid-vrtc",
+    "https://www.politico.eu/newsletter/forecast/france-pulls-the-plug-on-teen-scrolling/",
+    "https://today.rtl.lu/radio/news/israeli-bond-to-lapse-pirates-seek-asselborn-hearing-and-france-bans-social-media-for-under-15s-827375807",
+    "https://www.youtube.com/watch?v=YtC2rDera1g",
+    "https://www.forbes.com/sites/siladityaray/2026/07/27/trump-mocks-critics-touts-2028-run-and-poses-with-jfk-in-bizarre-ai-posting-spree/",
+    "https://reclaimthenet.org/topics/emmanuel-macron",
+    "https://www.bbc.com/news/articles/cq56l9p4y93o",
+    "https://www.pbs.org/newshour/politics/comey-says-seashells-post-was-political-speech-not-a-threat-as-he-presses-judge-to-dismiss-charges",
+    "https://www.cnn.com/2026/07/21/world/france-becomes-the-first-eu-country-to-ban-social-media-for-children"
+  ]
+}
