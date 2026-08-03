@@ -1,0 +1,57 @@
+{
+  "articles": [
+    {
+      "headline_en": "Greens review social media operation as Polanski row grows",
+      "significance": "Shows how a single contentious Instagram collaboration can force a party leader into damage control and trigger police scrutiny, highlighting the political risk around online speech.",
+      "source": "BBC News, United Kingdom",
+      "summary_en": "BBC reports that the Green Party in England and Wales is reviewing its social media operation after co-leader Zack Polanski’s Instagram account shared a post showing a T‑shirt with a guillotine and the words “Plans for Nigel,” apparently referencing Reform UK leader Nigel Farage.[1] The image, posted via Instagram’s “collaborate” feature, was subsequently deleted once Polanski became aware of it and the party stressed he does not support violent messaging.[2][3] The Metropolitan Police examined the post following a complaint by Reform UK but later decided that no further action would be taken.[5][6]"
+    },
+    {
+      "headline_en": "Police look into Reform complaint over guillotine image shared by Green leader",
+      "significance": "Illustrates how online political imagery that appears to threaten a rival can quickly escalate into a police matter and party-level reputational management.",
+      "source": "Eastern Eye, United Kingdom",
+      "summary_en": "Eastern Eye reports that police investigated a complaint from Reform UK after a guillotine image with the caption “Plans for Nigel” was shared in collaboration with Green Party co-leader Zack Polanski’s Instagram account.[6] A spokesperson for Polanski said the post was removed once the leader saw it and stressed he “unequivocally does not support this type of dangerous message.”[2][3][6] The article notes that the incident prompted debates over acceptable political humour and imagery on social media.[6]"
+    },
+    {
+      "headline_en": "No further action to be taken against Polanski over social media image, say police",
+      "significance": "Shows law-enforcement reluctance to criminalise provocative political imagery online, even when opponents frame it as threatening or incitement.",
+      "source": "ITV News London, United Kingdom",
+      "summary_en": "ITV News London reports that the Metropolitan Police will take no further action against Green Party co-leader Zack Polanski after assessing an Instagram post featuring a guillotine T‑shirt and the phrase “Plans for Nigel.”[5] Police said there was no evidence the wearer intended to threaten anyone or encourage violence and that the threshold for a criminal offence was not met.[5] A Green Party spokesperson welcomed the decision and reiterated that Polanski does not support dangerous messages, noting that the image had been unshared once brought to his attention.[3][5]"
+    },
+    {
+      "headline_en": "How Instagram collaborate feature got police looking at Zack Polanski",
+      "significance": "Highlights how social-media features that blur authorship can expose politicians to reputational and legal risk for content they did not personally post.",
+      "source": "The National, United Kingdom (Scotland)",
+      "summary_en": "The National explains that an Instagram “collaborate” feature resulted in a guillotine T‑shirt image appearing on Green Party co-leader Zack Polanski’s account, prompting police interest after a complaint from Reform UK.[3][6] The article notes that the post, which referenced Nigel Farage with the phrase “Plans for Nigel,” was subsequently deleted by Polanski once he saw it, with his team saying he did not endorse the message.[2][3] It details how the incident has sparked internal review of the Greens’ social media processes and raised wider questions about how collaboration tools can inadvertently implicate public figures.[1][3]"
+    },
+    {
+      "headline_en": "Fake videos with DW logo smear candidates ahead of German state elections",
+      "significance": "Shows the use of fabricated branded content on social platforms to influence electoral outcomes, and the challenges for media and regulators in stopping such digital disinformation campaigns.",
+      "source": "Deutsche Welle (DW), Germany",
+      "summary_en": "DW reports that fake videos using the Deutsche Welle logo have circulated online ahead of German state elections, spreading disinformation aimed at smearing political candidates.[4] The clips, suspected to originate from Russian sources, are designed to look like authentic DW reports and have been distributed on platforms such as TikTok and Telegram.[4] DW describes efforts to have the content removed and to inform audiences that these videos are not genuine DW journalism.[4]"
+    }
+  ],
+  "editorial_overview": "Across Europe over the past week, the most clearly documented case involves UK Green Party co-leader Zack Polanski, whose Instagram collaboration post featuring a guillotine image aimed at Nigel Farage was published, then deleted, and examined by police before being deemed non-criminal.[1][2][3][5][6] This episode underlines how quickly social-media content by or associated with politicians can escalate into formal complaints and law-enforcement review, even when platforms allow ambiguous authorship. At the same time, DW’s reporting on fake election-related videos bearing its logo highlights a parallel problem: deceptive political content circulating on platforms, prompting takedown efforts and media countermeasures rather than state-ordered censorship.[4] Overall, the coverage points more to controversies over provocative or deceptive political expression online and to reputational and security concerns, rather than to explicit governmental suppression of legitimate political speech. The boundary between protected political commentary, dangerous messaging, and disinformation continues to be negotiated by parties, platforms, police and media outlets in real time.",
+  "topic": "European online political speech and content removal in the last week",
+  "date": "2026-08-03",
+  "citations": [
+    "https://www.bbc.com/news/articles/cz97ke8dn9wo",
+    "https://www.breitbart.com/europe/2026/07/28/plans-for-nigel-green-leader-guillotine-post-investigated-by-police/",
+    "https://www.thenational.scot/news/26416429.instagram-collaborate-feature-got-police-looking-zack-polanski/",
+    "https://corporate.dw.com/en/fact-check-suspected-russian-fake-videos-with-dw-logo-smear-candidates-ahead-of-german-state-elections/a-78214289",
+    "https://www.itv.com/news/london/2026-07-29/no-further-action-to-be-taken-against-polanski-over-social-media-image-police",
+    "https://www.easterneye.biz/reform-uk-nigel-farage-green-party-zack-polanski/",
+    "https://www.youtube.com/watch?v=9Hzp9RdTQPU&pp=ugUEEgJlbg==",
+    "https://www.thehindu.com/news/national/it-ministry-summons-meta-after-pm-modis-post-removed/article71275927.ece",
+    "https://government.economictimes.indiatimes.com/amp/news/governance/it-ministry-summons-meta-after-pm-modis-post-removed-co-admits-error-says-content-restored/132679112",
+    "https://timesofindia.indiatimes.com/india/meta-cites-error-after-pm-modis-facebook-video-briefly-disappears/articleshow/132676019.cms",
+    "https://www.ap7am.com/en/132388/meta-restores-pm-modis-facebook-video-says-removal-was-an-error",
+    "https://www.indiatoday.in/technology/story/government-summons-meta-executives-again-over-pm-modis-facebook-post-2959869-2026-07-30",
+    "https://www.youtube.com/watch?v=Sn5WIOKqYfI",
+    "https://www.facebook.com/DeputySimonHarris/posts/good-news-last-week-the-government-agreed-to-introduce-legislation-to-restrict-a/1603989931089578/",
+    "https://www.pbs.org/newshour/politics/ken-martin-hunkers-down-at-the-democratic-national-committee-as-a-storm-gathers-around-party-leader",
+    "https://www.instagram.com/reel/DbXo-66jTAs/",
+    "https://www.facebook.com/europeancorrespondent/videos/-sponsored-by-eurohealthnet-should-we-ban-young-people-from-social-media-or-make/2530208590831632/",
+    "https://www.theglobeandmail.com/opinion/article-sharing-political-opinions-on-social-media-makes-me-nervous/"
+  ]
+}
