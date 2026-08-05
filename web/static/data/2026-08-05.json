@@ -1,0 +1,53 @@
+{
+  "articles": [
+    {
+      "headline_en": "Greens review social media operation as Polanski row continues",
+      "significance": "The case highlights how a political figure’s online post can trigger internal party scrutiny and wider debate about acceptable political speech on social media.",
+      "source": "BBC (United Kingdom)",
+      "summary_en": "The BBC reports that the Greens are reviewing their social media operation after controversy involving Zack Polanski. The dispute centers on an online post and the fallout it has caused within the party, including questions over messaging and discipline."
+    },
+    {
+      "headline_en": "What the law says about online abuse, as Reform report Polanski over Farage guillotine Instagram image",
+      "significance": "This is relevant because it concerns a political figure being reported after a controversial social-media image, showing how online political speech can quickly become a legal or policing issue.",
+      "source": "LBC (United Kingdom)",
+      "summary_en": "LBC reports on the legal context around online abuse after Reform reported Zack Polanski over an Instagram image depicting a guillotine and Nigel Farage. The article explains how the post has raised questions about whether it crosses legal boundaries and what action authorities could take."
+    },
+    {
+      "headline_en": "Swedish politician resigns amid offensive post controversy",
+      "significance": "This matters because it shows how offensive social media posts can end a political career and trigger accountability measures in public office.",
+      "source": "Sweden in English (Sweden)",
+      "summary_en": "Sweden in English reports that a Swedish politician from Åmål was suspended and then resigned after offensive comments were posted on social media. The controversy also led to a lex Sarah report, indicating that the matter was handled through formal oversight channels."
+    },
+    {
+      "headline_en": "Meta apologises over brief removal of PM Modi video on Facebook; government says not enough, vows legal action",
+      "significance": "This is significant because it involves a platform temporarily removing a post by a head of government and a state response alleging inadequate explanation and possible legal action.",
+      "source": "Times Now News (India)",
+      "summary_en": "Times Now News reports that Meta apologized after briefly removing a video post by Prime Minister Narendra Modi on Facebook. According to the report, the Indian government said the apology was not enough and indicated it may pursue legal action over the incident."
+    }
+  ],
+  "editorial_overview": "The strongest stories this week center on disputes over political speech and moderation decisions on major platforms, especially where posts by politicians or public figures provoke legal, disciplinary, or regulatory responses. Several items concern offensive or controversial content posted online by politicians, while others involve governments reacting to removals or restrictions of official material. The pattern is a continued clash between platform moderation, political messaging, and state oversight. Cases from the UK, Sweden, and India show that online speech is increasingly treated as a matter of public accountability and, in some instances, legal concern.",
+  "topic": "European news on social media controversies, political speech removal, and censorship",
+  "date": "2026-08-05",
+  "citations": [
+    "https://www.bbc.com/news/articles/cz97ke8dn9wo",
+    "https://www.lbc.co.uk/article/can-zack-polanski-arrested-farage-guillotine-tweet-5HjdfJH_2/",
+    "https://www.timesnownews.com/technology-science/meta-apologises-over-brief-removal-of-pm-narendra-modi-video-on-facebook-govt-says-not-enough-vows-legal-action-article-155237332",
+    "https://xpatloop.com/channels/2026/03/facebook-blockade-eu-activated-online-controls-ahead-of-election-claims-hungarian-mep.html",
+    "https://swedeninenglish.com/p/swedish-politician-resigns-amid-offensive-post-controversy-spanish-government-pardons-convicted-catalan-politician",
+    "https://www.chronicle.lu/category/at-home/62689-luxembourg-defence-apologises-clarifies-controversial-euro-banknote-post",
+    "https://www.theglobeandmail.com/world/article-false-social-media-posts-about-spains-border-sparked-migrant-crossings/",
+    "https://www.lemonde.fr/en/social-media/",
+    "https://timesofindia.indiatimes.com/india/govt-summons-meta-executives-again-over-temporary-restriction-of-pm-modis-facebook-post/articleshow/132739907.cms",
+    "https://x.com/vonderleyen/status/2082786944661029132",
+    "https://www.businesstoday.in/technology/news/story/meta-explains-pm-modi-facebook-post-removal-incident-outlines-safeguards-for-vip-accounts-546159-2026-07-30",
+    "https://www.ap.org/news-highlights/elections/2026/democratic-candidates-grapple-with-past-stances-on-defunding-the-police-ahead-of-key-midterm-races/",
+    "https://www.tbsnews.net/worldbiz/europe/uk-pm-burnham-takes-social-media-challenge-populist-parties-dominance-1507151",
+    "https://www.europarl.europa.eu/news/en",
+    "https://www.instagram.com/p/Dbc8CbQgEVY/",
+    "https://www.instagram.com/p/Dba6NqQEam5/",
+    "https://telecom.economictimes.indiatimes.com/news/policy/metas-removal-of-pm-modis-post-sparks-government-outcry/132761979",
+    "https://www.reuters.com/fact-check/",
+    "https://www.ndtv.com/india-news/apology-not-enough-inside-panel-that-met-meta-officials-over-pm-narendra-modi-facebook-video-11860161",
+    "https://www.instagram.com/reel/DbYtai6IHDR/"
+  ]
+}
