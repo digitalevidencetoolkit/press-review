@@ -1,0 +1,65 @@
+{
+  "articles": [
+    {
+      "headline_en": "After AI euro banknote row: Ministry of Defence does not promote military culture",
+      "significance": "The post was deleted after criticism, illustrating how quickly official social media content can be withdrawn when it is seen as politically or socially provocative.",
+      "source": "RTL Today (Luxembourg)",
+      "summary_en": "Luxembourg’s Defence Ministry faced backlash after its Directorate of Defence posted AI-generated images suggesting euro banknotes with tanks and weapons. The post was widely criticised, then deleted, and the directorate issued an apology. Defence Minister Yuriko Backes said weapons and military equipment should not be trivialised."
+    },
+    {
+      "headline_en": "Alleged Russian interference against French candidate",
+      "significance": "The case shows how digital platforms are being used in alleged influence operations against political figures, raising concerns about disinformation and online manipulation in European politics.",
+      "source": "RTÉ (Ireland)",
+      "summary_en": "RTÉ reports that a Russian disinformation campaign has targeted French presidential candidate Gabriel Attal, according to a government body and a member of his team. The report says the alleged operation is part of a broader pattern of recent interference claims. The article frames the incident as a digital information-security issue rather than a conventional campaign story."
+    },
+    {
+      "headline_en": "Bombay High Court orders removal of 'vile and abusive' social media posts against Nitin Gadkari",
+      "significance": "A court order forcing platforms to remove political speech online is a direct example of legal pressure on digital expression involving a senior public figure.",
+      "source": "Outlook India (India)",
+      "summary_en": "The Bombay High Court granted interim relief to Union minister Nitin Gadkari and ordered Meta, X and Google to immediately remove social media posts it described as vile, abusive, obscene and defamatory. The order targets content directed at Gadkari and places the platforms under immediate removal obligations. The case highlights judicial intervention in online political speech."
+    },
+    {
+      "headline_en": "Meta apologises to government over brief removal of PM Modi’s Facebook video; parliamentary panel seeks accountability",
+      "significance": "The incident shows how moderation decisions affecting a head of government can trigger political scrutiny and wider questions about platform accountability.",
+      "source": "The New Indian Express (India)",
+      "summary_en": "According to the article, Meta apologised to the Indian government after briefly removing a Facebook video posted by Prime Minister Narendra Modi. A parliamentary panel then sought accountability, treating the takedown as a serious matter. The story focuses on the tension between platform moderation and political sensitivity around a major public figure."
+    },
+    {
+      "headline_en": "PM Modi's Facebook video removal: Parliamentary panel seeks Mark Zuckerberg's apology, warns on immunity",
+      "significance": "The report reflects political pressure on a platform over content removal involving a prominent elected leader, with implications for moderation policy and legal protection for platforms.",
+      "source": "The New Indian Express (India)",
+      "summary_en": "The article says a parliamentary standing committee asked Meta chief Mark Zuckerberg to apologise over the removal of Prime Minister Narendra Modi’s video from Facebook. The panel reportedly viewed the action seriously and warned about questions of immunity. It presents the episode as a political and regulatory dispute over platform decisions."
+    },
+    {
+      "headline_en": "Meta straps on a 'Kick Me' sign by mistakenly taking down video by India's prime minister",
+      "significance": "Although not European, the article provides a clear example of a platform moderation controversy involving a political leader and a rapid reversal after public criticism.",
+      "source": "The Register (United Kingdom)",
+      "summary_en": "The Register reports that Meta briefly removed a video posted by Indian Prime Minister Narendra Modi, then restored it after acknowledging the takedown was a mistake. The company apologised and said it had set new moderation protocols for accounts run by prominent people. The piece emphasises the operational and reputational fallout from the incident."
+    }
+  ],
+  "editorial_overview": "The most relevant items in the last week cluster around three themes: official or judicial pressure to remove political speech, moderation disputes involving prominent politicians, and alleged disinformation targeting public figures. European coverage in the supplied results is limited, but the Luxembourg and Ireland items show official or investigative attention to controversial online content affecting political life. Several of the strongest examples are from India, where court and parliamentary interventions over social media removals underline how platform governance has become a political issue. Overall, the picture is one of heightened sensitivity around online speech, with removals, apologies, and allegations of interference all carrying immediate political consequences.",
+  "topic": "Political speech and social media moderation in Europe",
+  "date": "2026-08-07",
+  "citations": [
+    "https://today.rtl.lu/news/luxembourg/ministry-of-defence-does-not-promote-military-culture-1488252993",
+    "https://corporate.dw.com/en/fact-check-suspected-russian-fake-videos-with-dw-logo-smear-candidates-ahead-of-german-state-elections/a-78214289",
+    "https://www.zerohedge.com/political/french-green-leader-demand-x-be-shut-down-over-supremacist-musks-support-marine-le-pen",
+    "https://www.theglobeandmail.com/world/article-false-social-media-posts-about-spains-border-sparked-migrant-crossings/",
+    "https://www.linkedin.com/pulse/ceuta-eu-politicians-turn-social-media-surge-willy-de-backer-hgp8e",
+    "https://www.rte.ie/news/world/2026/0805/1586647-russia-france/",
+    "https://x.com/JorgeLiboreiro",
+    "https://www.newindianexpress.com/business/2026/Aug/03/meta-apologises-to-govt-over-brief-removal-of-pm-modis-facebook-videoparliamentary-panel-seeks-accountability",
+    "https://www.outlookindia.com/national/bombay-high-court-orders-removal-of-vile-and-abusive-social-media-posts-against-nitin-gadkari-2",
+    "https://www.youtube.com/watch?v=kbvUg5dwSiA",
+    "https://www.newindianexpress.com/india/2026/Aug/05/pm-modis-facebook-video-removal-parliament-panel-seeks-mark-zuckerbergs-apology-warns-on-immunity",
+    "https://www.junonews.com/p/juno-jump-start-smith-warns-edmonton",
+    "https://www.yahoo.com/news/articles/viral-videos-inspired-tens-thousands-180318455.html",
+    "https://www.europarl.europa.eu/news/en",
+    "https://www.moneycontrol.com/news/india/days-after-pm-modi-s-video-row-centre-summons-meta-public-policy-head-report-13994055.html",
+    "https://www.reuters.com/fact-check/",
+    "https://www.washingtonpost.com/national-security/2026/08/06/trump-fills-ambassador-posts-with-more-donors-loyalists-than-any-recent-president/",
+    "https://www.politico.com/story",
+    "https://www.theregister.com/public-sector/2026/08/03/meta-straps-on-a-kick-me-sign-by-mistakenly-taking-down-video-by-indias-prime-minister/5282130",
+    "https://podcasts.apple.com/gb/podcast/the-rest-is-politics/id1611374685"
+  ]
+}
