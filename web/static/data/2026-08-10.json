@@ -1,0 +1,59 @@
+{
+  "articles": [
+    {
+      "headline_en": "Why have dozens of St. Petersburg politicians suddenly disappeared from social media?",
+      "significance": "This reports a coordinated wave of account deletions, renamings, and privacy changes by local politicians, framed as a response to attacks and to legal risks tied to old posts. It fits the prompt’s focus on political figures deleting social-media content and the chilling effect of online speech enforcement.",
+      "source": "Delovoy Peterburg, Russia",
+      "summary_en": "Dozens of St. Petersburg parliamentarians and candidates, including members of United Russia, suddenly hid or renamed their pages on Telegram, VKontakte, and MAX on August 4. The speaker of the city legislature said the move followed a series of coordinated attacks on official accounts, while experts linked it to a newer practice of disqualifying candidates over old posts, songs, and hyperlinks. More than 35 politicians reportedly changed or removed their profiles at about the same time. The report says the pattern reflects how social-media accounts have become both campaign tools and legal liabilities for politicians in Russia.[2]"
+    },
+    {
+      "headline_en": "Mikhail Kalachev explains mass “zeroing out” of deputies’ social-media accounts",
+      "significance": "This article adds context to the same Russian episode, emphasizing the legal pressure behind the deletions and how past posts can be used against politicians. It is relevant because it connects self-removal of content with electoral enforcement and digital speech risk.",
+      "source": "RTVI, Russia",
+      "summary_en": "The article says the mass removal and renaming of deputies’ social-media pages in St. Petersburg shows that these communication tools have become a serious legal risk. It notes that old publications can sometimes become a formal reason to remove candidates from elections, and that the account changes were reported across Telegram, VKontakte, and MAX. The report also mentions claims of coordinated attacks on official accounts as an alternative explanation cited by the legislature speaker.[1]"
+    },
+    {
+      "headline_en": "Meta apologises over removal of Modi video after Indian government pressure",
+      "significance": "This is a major platform-moderation dispute involving a political leader’s content and government pressure over online removal. It is relevant to the prompt because it involves the removal of political speech online and a government response to platform moderation.",
+      "source": "Bloomberg, United States",
+      "summary_en": "Meta apologized to Indian officials after temporarily removing a video post by Prime Minister Narendra Modi, according to the report. The company’s action triggered scrutiny from the Indian government, which pressed Meta for explanations about the takedown and related moderation safeguards. The episode fed a broader dispute over platform moderation, algorithmic errors, and state pressure on major social-media companies.[7]"
+    },
+    {
+      "headline_en": "Meta apologises over PM Modi post removal",
+      "significance": "This report is relevant because it describes both the takedown of a political leader’s post and the government’s pressure on the platform afterward. It also highlights official threats of regulatory retaliation if content moderation problems continue.",
+      "source": "Manorama News, India",
+      "summary_en": "The report says Meta’s global team met India’s IT secretary after the company removed the prime minister’s post, which officials treated as an attack on democratic representation. It adds that the government warned Meta it could lose safe-harbor protection and face legal action if it failed to respond adequately. The article frames the incident as part of a wider concern about moderation, including alleged failures around child sexual abuse content and anti-women content on Meta platforms.[5]"
+    },
+    {
+      "headline_en": "Meta removes posts and videos of CJP leaders after government warning",
+      "significance": "This article directly matches the prompt’s focus on political speech being removed online under government pressure. It is especially relevant because it alleges state involvement in content takedowns affecting opposition figures.",
+      "source": "Manorama News, India",
+      "summary_en": "The report says Meta quickly removed posts and videos by leaders of the Cockroach Janata Party from platforms such as Instagram after warnings from the central government and reference to the 2021 IT Rules. It also says posts by Arvind Kejriwal and the Indian Youth Congress reportedly disappeared, and that the CJP called the removals unconstitutional and a violation of free speech. The article notes that Meta had already faced criticism over the removal of a video related to Prime Minister Narendra Modi.[9]"
+    }
+  ],
+  "editorial_overview": "The strongest items in this week’s coverage are about political speech being removed or hidden online under legal or platform pressure, especially in India and Russia. In Russia, several reports describe politicians deleting or renaming their own accounts amid fears that old posts could be used against them in elections. In India, the coverage centers on Meta’s takedowns of political content and the government’s direct pressure on the platform to explain or accelerate removals. Overall, the pattern is one of tightening control over digital political speech, whether through self-censorship, platform moderation, or state intervention.",
+  "topic": "Europe news on social-media deletions, moderation pressure, and online political speech restrictions",
+  "date": "2026-08-10",
+  "citations": [
+    "https://rtvi.com/news/palka-o-dvuh-konczah-kalachev-obyasnil-massovye-zachistki-v-soczsetyah-deputatov/",
+    "https://www.dp.ru/a/2026/08/05/kuda-vi-udalilis-pochemu",
+    "https://cssm.etimg.com/topic/EU-social-media-regulations",
+    "https://www.zerohedge.com/political/french-green-leader-demand-x-be-shut-down-over-supremacist-musks-support-marine-le-pen",
+    "https://www.manoramanews.com/india/latest/2026/08/05/pm-modi-post-removed-meta-response.html",
+    "https://x.com/PTI_News/status/2084981102436135282",
+    "https://www.bloomberg.com/news/articles/2026-08-05/meta-apologizes-to-indian-officials-over-removal-of-modi-s-video",
+    "https://www.euronews.com/my-europe/2026/08/04/from-tiktok-videos-to-political-claims-how-misleading-information-spread-during-the-ceuta-",
+    "https://www.manoramanews.com/india/politics/2026/08/08/meta-removes-cockroach-janata-party-leaders-posts-and-videos.html",
+    "https://cssm.etimg.com/topic/Ursula-von-der-Leyen-social-media-policies",
+    "https://www.lemonde.fr/en/social-media/",
+    "https://www.reuters.com/fact-check/",
+    "https://timesofindia.indiatimes.com/india/any-post-against-pm-modi-to-be-deleted-in-three-hours-arvind-kejriwal-on-new-social-media-law/articleshow/133025968.cms",
+    "https://www.instagram.com/p/Db0PugCDp_W/",
+    "https://thehill.com/homenews/administration/6019003-trump-lincoln-memorial-vandalism/",
+    "https://berndpulch.org/category/media-2/",
+    "https://brill.com/view/journals/seeu/seeu-overview.xml?language=en",
+    "https://www.wsj.com/politics/policy/ice-surveillance-internet-critics-e3b22f49",
+    "https://www.cbs17.com/news/ap-california-may-fine-content-creators-who-dont-disclose-they-were-paid-to-post-about-politics/",
+    "https://www.ghi-dc.org/events/event/date/between-big-data-and-obsolescence-born-digital-sources-contemporary-history-and-the-politics-of-access"
+  ]
+}
