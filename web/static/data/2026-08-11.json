@@ -1,0 +1,47 @@
+{
+  "articles": [
+    {
+      "headline_en": "EU holds talks with big tech over Ceuta misinformation",
+      "significance": "This concerns government pressure and platform moderation tied to political speech and online content control in Europe.",
+      "source": "Deutsche Welle, Germany",
+      "summary_en": "According to Deutsche Welle, the EU held talks with major technology companies over misinformation linked to Ceuta. The report frames the discussion as part of broader efforts to address online falsehoods and their political and social effects."
+    },
+    {
+      "headline_en": "France's Green Party leader, Elon Musk spar over call to ban X during presidential election",
+      "significance": "This is relevant because it involves a public figure publicly demanding platform shutdown or restriction, which touches on digital speech and political censorship debates.",
+      "source": "Anadolu Agency, Turkey",
+      "summary_en": "Anadolu Agency reports a clash between France's Green Party leader and Elon Musk over a call to ban X during the presidential election. The dispute centers on whether the platform should be restricted and how that would affect political communication online."
+    },
+    {
+      "headline_en": "Francesca Hong faces questions over her controversial past social media posts",
+      "significance": "This relates to a politician being challenged over old social media content, a common form of platform-era political controversy.",
+      "source": "Politico, United States",
+      "summary_en": "Politico says Francesca Hong faced scrutiny over old, since-deleted tweets about topics including abolishing the police and Thanksgiving. The piece describes how those posts became a campaign issue during heightened attention to her online history."
+    }
+  ],
+  "editorial_overview": "The most relevant items in the available results focus on disputes over platform moderation, political pressure on social media companies, and the resurfacing of controversial posts by public figures. There is also evidence of broader European concern about misinformation and the governance of online speech. However, the result set is limited and includes only a small number of clearly relevant, mainstream reports from the last week.",
+  "topic": "European news on political speech, platform moderation, and online content removal",
+  "date": "2026-08-11",
+  "citations": [
+    "https://www.bbc.co.uk/news/articles/cm2g1r1xw9po",
+    "https://www.bloomberg.com/news/articles/2026-08-05/meta-apologizes-to-indian-officials-over-removal-of-modi-s-video",
+    "https://hotair.com/john-s-2/2026/08/07/french-green-party-leader-wants-to-shut-down-x-musk-responds-n3817774",
+    "https://www.zerohedge.com/political/french-green-leader-demand-x-be-shut-down-over-supremacist-musks-support-marine-le-pen",
+    "https://inshorts.com/en/news/top-meta-executive-apologises-for-restricting-pm-modi-s-selfie-video-1785937042303",
+    "https://www.dw.com/en/eu-holds-talks-with-big-tech-over-ceuta-misinformation/a-78288214",
+    "https://x.com/PTI_News/status/2084981102436135282",
+    "https://www.skai.gr/index.php/news/world/entoni-antiparathesi-tis-igetidas-ton-oikologon-me-ton-ilon-mask-afou-tin-katigorise-gia-p",
+    "https://www.facebook.com/nytimes/posts/anthony-scaramucci-the-host-of-the-podcast-the-rest-is-politics-us-has-an-audien/1453832223265903/",
+    "https://www.yahoo.com/news/politics/articles/germany-monitors-russian-disinformation-ahead-080332301.html",
+    "https://www.kten.com/news/politics/taylor-swift-s-music-quietly-removed-from-social-media-posts-from-trump-campaign-white-house/article_aab03753-c924-5320-aaed-23298b517812.html",
+    "https://www.aa.com.tr/en/europe/frances-green-party-leader-elon-musk-spar-over-call-to-ban-x-during-presidential-election/4020663",
+    "https://www.indiatoday.in/india/story/meta-apologises-for-brief-removal-of-pms-video-chief-global-affairs-officer-joel-kaplan-calls-it-an-error-2964415-2026-08-05",
+    "https://www.youtube.com/watch?v=wBADOz3jY4k",
+    "https://www.politico.com/newsletters/playbook/2026/08/09/what-we-saw-in-wisconsin-01030271",
+    "https://www.instagram.com/p/Db0PugCDp_W/",
+    "https://www.instagram.com/reel/DbyhYrLiezp/",
+    "https://www.devdiscourse.com/article/entertainment/3961745-taylor-swift-tunes-pulled-from-political-posts",
+    "https://www.brookings.edu/articles/tracking-regulatory-changes-in-the-second-trump-administration/",
+    "https://www.facebook.com/foxandfriends/posts/socialist-francesca-hong-faces-questions-over-her-controversial-past-social-medi/1409095831079746/"
+  ]
+}
