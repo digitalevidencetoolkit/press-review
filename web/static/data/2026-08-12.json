@@ -1,0 +1,47 @@
+{
+  "articles": [
+    {
+      "headline_en": "French Green leader demands that X be shut down after Musk attack",
+      "significance": "This reflects a high-profile clash over platform governance and political speech in Europe, with a public figure calling for the shutdown of a major social network.",
+      "source": "ZeroHedge (United States)",
+      "summary_en": "A report says a French Green leader called for X to be shut down after Elon Musk attacked her online. The dispute centers on political speech on social media and the reaction it triggered from a prominent tech owner and political figure. The item frames the episode as a controversy over what can be said and who decides the limits of public speech online."
+    },
+    {
+      "headline_en": "EU tells Meta and TikTok to be more vigilant after Ceuta misinformation",
+      "significance": "This highlights regulatory pressure on major platforms over online content linked to public disorder and political messaging.",
+      "source": "DW (Germany)",
+      "summary_en": "According to the report, EU officials held talks with Meta and TikTok after misinformation spread online around the Ceuta situation. The discussion focused on the need for greater vigilance by platforms in relation to harmful or misleading digital content. The piece places the issue within broader EU scrutiny of platform moderation and content control."
+    },
+    {
+      "headline_en": "Meta removes Cockroach Janata Party leaders’ posts and videos after central government warning",
+      "significance": "This is a direct example of online political speech being removed after government pressure, raising censorship and moderation concerns.",
+      "source": "Manorama News (India)",
+      "summary_en": "The report says Meta removed posts and videos by leaders of the Cockroach Janata Party across platforms after warnings from the central government and in connection with the 2021 IT rules. It also says posts by Arvind Kejriwal and the Indian Youth Congress reportedly disappeared. The article quotes criticism that the removals were unconstitutional and an attack on freedom of speech."
+    },
+    {
+      "headline_en": "Strong confrontation between the Green leaders and Elon Musk after he accused her of 'betraying' France",
+      "significance": "This is another example of a political figure facing a social-media controversy involving a major platform owner and public accusations online.",
+      "source": "SKAI (Greece)",
+      "summary_en": "The article describes a public clash between the leader of the Greens and Elon Musk after Musk accused her of betraying France. It focuses on the social-media exchange and the political fallout from Musk’s comments. The story is part of a wider pattern of online political conflict involving prominent public figures."
+    }
+  ],
+  "editorial_overview": "The clearest theme across these items is intensifying conflict over who controls political speech online, especially when governments, regulators, or powerful platform owners intervene. Several reports involve pressure on platforms to remove content or step up moderation, while others concern public figures sparring over posts and accusations on social media. The most direct censorship-style case in the set is the reported removal of political posts after government warning, which raises free-speech questions. Other items show how platform governance, misinformation concerns, and personal attacks from influential figures are increasingly overlapping in the same controversies.",
+  "topic": "Europe news: social media deletion, moderation, censorship, and political speech controversies",
+  "date": "2026-08-12",
+  "citations": [
+    "https://www.zerohedge.com/political/french-green-leader-demand-x-be-shut-down-over-supremacist-musks-support-marine-le-pen",
+    "https://hotair.com/john-s-2/2026/08/07/french-green-party-leader-wants-to-shut-down-x-musk-responds-n3817774",
+    "https://www.nampa.org/text/22986660",
+    "https://www.youtube.com/watch?v=dPNqx2iyx2s",
+    "https://www.telegraph.co.uk/world-news/2026/08/07/europe-border-ceuta-morocco-social-media/",
+    "https://amp.dw.com/en/eu-tech-commissionercalls-for-more-vigilance-from-meta-tiktok-after-ceuta-crisis/a-78288214",
+    "https://www.manoramanews.com/india/politics/2026/08/08/meta-removes-cockroach-janata-party-leaders-posts-and-videos.html",
+    "https://www.skai.gr/index.php/news/world/entoni-antiparathesi-tis-igetidas-ton-oikologon-me-ton-ilon-mask-afou-tin-katigorise-gia-p",
+    "https://www.youtube.com/watch?v=Yr0MbNpV_fA",
+    "https://www.youtube.com/watch?v=RQtzHRa5Eno",
+    "https://www.youtube.com/watch?v=zSH1ouMuYVs",
+    "https://www.prabhasakshi.com/business/meta-apologizes-to-pm-modi-over-removed-facebook-post-after-summons",
+    "https://kalimpongonlinenews.blogspot.com/2026/08/meta-apologises-over-temporary-removal.html",
+    "https://axadletimes.com/ax-world/french-presidential-candidate-targeted-alleged-rus.html5"
+  ]
+}
