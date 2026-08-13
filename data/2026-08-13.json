@@ -1,0 +1,65 @@
+{
+  "articles": [
+    {
+      "headline_en": "EU tells Meta, TikTok to increase fact-checking",
+      "significance": "This reflects a regulatory push in Europe to counter harmful online speech and misinformation on major platforms.",
+      "source": "AFP / Belgium",
+      "summary_en": "The European Union said it wants Meta and TikTok to strengthen fact-checking and their response to disinformation. The report links the move to concerns about online falsehoods circulating during recent tensions in and around Ceuta."
+    },
+    {
+      "headline_en": "France's Green Party leader, Elon Musk spar over call to ban X during presidential election",
+      "significance": "This is relevant because it shows a high-profile political dispute over whether a platform should be shut down, with implications for online political speech in Europe.",
+      "source": "Anadolu Agency / Türkiye",
+      "summary_en": "France's Green Party leader called for X to be banned during the presidential election, prompting a public exchange with Elon Musk. The article frames the dispute as a clash over platform governance, political speech, and the role of social media in campaigning."
+    },
+    {
+      "headline_en": "EU holds talks with big tech over Ceuta misinformation",
+      "significance": "This matters because it shows European authorities pressing platforms to respond to alleged misinformation, a core issue in digital speech control.",
+      "source": "DW / Germany",
+      "summary_en": "The European Union held talks with major technology companies after concerns about misinformation tied to the Ceuta crisis. The report says the discussions focused on how platforms should handle disinformation more vigilantly."
+    },
+    {
+      "headline_en": "Meta removes posts and videos by leaders of the Cockroach Janata Party after warning from the central government",
+      "significance": "This is significant because it describes platform removals following government pressure, raising questions about censorship and political speech online.",
+      "source": "Manorama News / India",
+      "summary_en": "Meta reportedly removed social media posts and videos by leaders of the Cockroach Janata Party after warnings from the central government. The article says the removals followed government intervention and were criticized by the party as unconstitutional and a violation of free speech."
+    },
+    {
+      "headline_en": "Any post against PM Modi to be deleted in three hours, Arvind Kejriwal says under new social media law",
+      "significance": "This matters because it highlights claims that a new legal framework could be used to force rapid removal of political criticism online.",
+      "source": "Times of India / India",
+      "summary_en": "Arvind Kejriwal accused the Indian government of introducing a law that would require platforms to delete government-flagged posts within three hours. He argued the rule could be used to target criticism of the government while leaving supportive or abusive content online."
+    },
+    {
+      "headline_en": "French presidential candidate hits back at Elon Musk after billionaire demands she be shut down for treason against France following her call to ban X",
+      "significance": "This is relevant because it shows a dispute over a politician's call to ban a platform and the reaction from a platform owner, touching on political speech and moderation power.",
+      "source": "Prime Timer / United States",
+      "summary_en": "The article says a French presidential candidate responded to Elon Musk after he demanded that she be shut down for treason against France. The dispute followed her call to ban X, making it part of a broader argument about platform access and political expression."
+    }
+  ],
+  "editorial_overview": "The week’s coverage shows a strong European focus on misinformation, platform responsibility, and state pressure on digital speech. Several stories center on authorities urging or compelling platforms to remove content or tighten moderation, while others show politicians clashing publicly with platform owners over bans or takedowns. The most consistent pattern is the tension between claims of protecting public order or election integrity and accusations of censorship or politically selective enforcement. Overall, the reporting suggests that online speech regulation remains a live political issue across Europe, especially where elections, migration, and platform governance intersect.",
+  "topic": "Europe news on social media removals, censorship, and platform moderation controversies",
+  "date": "2026-08-13",
+  "citations": [
+    "https://economictimes.com/epaper/delhicapital/2026/aug/10/et-back/eu-tells-meta-tiktok-to-up-fact-checking/articleshow/133076847.cms",
+    "https://hotair.com/john-s-2/2026/08/07/french-green-party-leader-wants-to-shut-down-x-musk-responds-n3817774",
+    "https://www.telegraph.co.uk/world-news/2026/08/07/europe-border-ceuta-morocco-social-media/",
+    "https://www.youtube.com/watch?v=ruTVLx8MQAo",
+    "https://www.nampa.org/text/22986660",
+    "https://x.com/PpollingNumbers/status/2087173896348860819",
+    "https://www.dw.com/en/eu-tech-commissionercalls-for-more-vigilance-from-meta-tiktok-after-ceuta-crisis/a-78288214",
+    "https://www.nytimes.com/2026/08/11/us/politics/abdul-el-sayed-fireworks-police-videos.html",
+    "https://www.manoramanews.com/india/politics/2026/08/08/meta-removes-cockroach-janata-party-leaders-posts-and-videos.html",
+    "https://www.primetimer.com/news/french-presidential-candidate-hits-back-at-elon-musk-after-billionaire-demands-she-be-shut-down-for-treason-against-france-following-her-call-to-ban-x",
+    "https://www.instagram.com/p/Db0PugCDp_W/",
+    "https://x.com/LiseSantolini/status/2085661613873418415",
+    "https://www.youtube.com/watch?v=zSH1ouMuYVs",
+    "https://www.cnn.com/2026/08/11/politics/el-sayed-youtube-videos-fireworks-2nd-amendment",
+    "https://www.azernews.az/region/262145.html",
+    "https://timesofindia.indiatimes.com/india/any-post-against-pm-modi-to-be-deleted-in-three-hours-arvind-kejriwal-on-new-social-media-law/articleshow/133025968.cms",
+    "https://www.cnn.com/2026/08/10/politics/taylor-swift-trump-music",
+    "https://x.com/politico",
+    "https://www.aa.com.tr/en/europe/frances-green-party-leader-elon-musk-spar-over-call-to-ban-x-during-presidential-election/4020663",
+    "https://www.politico.com/newsletters/playbook/2026/08/09/what-we-saw-in-wisconsin-01030271"
+  ]
+}
