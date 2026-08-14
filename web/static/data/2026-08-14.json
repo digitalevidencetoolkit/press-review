@@ -1,0 +1,50 @@
+{
+  "articles": [
+    {
+      "headline_en": "Reform councillor suspended after alleged post about hanging of John Bercow",
+      "significance": "This is a direct case of a political figure being suspended after an allegedly violent social media post about a public figure, which raises questions about party discipline and online conduct by elected officials.",
+      "source": "Mirror (United Kingdom)",
+      "summary_en": "A Reform UK councillor was suspended after allegedly posting about the hanging of former Commons Speaker John Bercow on social media. The report frames the incident as a disciplinary action triggered by the content of the post rather than a court order or platform removal."
+    },
+    {
+      "headline_en": "She betrays France, says Musk of politician who called for X to be shut down during election campaigns to stop it influencing voters",
+      "significance": "The article reflects a platform-moderation and political-speech controversy involving a European politician calling for stronger limits on X during election periods.",
+      "source": "ProtoThema English (Greece)",
+      "summary_en": "The piece reports on Elon Musk attacking French Greens leader Marine Tondelier after she said French authorities should be able to suspend X during election campaigns if there is foreign interference. The exchange highlights the tension between electoral integrity concerns and restrictions on online political speech."
+    },
+    {
+      "headline_en": "EU holds talks with big tech over Ceuta misinformation",
+      "significance": "This is relevant because it concerns government pressure on platforms to monitor and potentially act on online content during a politically sensitive migration episode.",
+      "source": "DW (Germany)",
+      "summary_en": "DW reports that EU member states held emergency talks with major platforms including Meta and TikTok after misinformation linked to the Ceuta situation. The discussion focused on early-warning systems and stronger monitoring to improve responses to emerging crises."
+    },
+    {
+      "headline_en": "EU calls on Meta and TikTok to take stronger action against disinformation amid migrant influx in Spain’s Ceuta",
+      "significance": "The report shows European authorities pressing platforms to intensify moderation and monitoring of online content tied to a border crisis.",
+      "source": "AzerNews (Azerbaijan)",
+      "summary_en": "The article says the EU urged Meta and TikTok to take stronger action against disinformation connected to the migrant influx in Ceuta. It presents the issue as part of broader efforts to strengthen monitoring and early-warning systems for future incidents."
+    }
+  ],
+  "editorial_overview": "The strongest European coverage in the last week clusters around two themes: pressure on platforms to police politically sensitive content, and public figures facing consequences for their own social-media conduct. The Ceuta stories show EU-level concern about disinformation and more active monitoring by major platforms. Separate coverage from the UK and France highlights how posts or proposals about political speech online can quickly become disciplinary or ideological flashpoints. Overall, the reporting points to a continuing tension in Europe between online expression, election integrity, and government or platform intervention.",
+  "topic": "Europe news on social media takedowns, controversial political posts, and digital speech restrictions",
+  "date": "2026-08-14",
+  "citations": [
+    "https://www.mirror.co.uk/news/politics/reform-councillor-suspended-john-bercow-37548596.amp",
+    "https://www.dw.com/en/eu-tech-commissionercalls-for-more-vigilance-from-meta-tiktok-after-ceuta-crisis/a-78288214",
+    "https://www.moroccoworldnews.com/2026/08/334143/albares-reaffirms-moroccos-continued-cooperation-on-ceuta-migrants-return/",
+    "https://www.nytimes.com/2026/08/11/us/politics/abdul-el-sayed-fireworks-police-videos.html",
+    "https://cssm.etimg.com/topic/European-social-media-regulations",
+    "https://www.kairalinewsonline.com/ml/news/kerala/meta-removed-facebook-instagram-post-against-modi-vd-satheesan-governments-ar1/",
+    "https://www.facebook.com/WorldJewishCong/videos/-social-media-companies-need-to-step-up-their-removal-of-antisemitic-content-on-/1920810905282498/",
+    "https://www.altnews.in/government-orders-trigger-sweeping-instagram-censorship-days-after-cjp-protest/",
+    "https://www.kairalinewsonline.com/ml/news/kerala/meta-removes-vd-satheesan-press-conference-cards-kerala-lbb1/",
+    "https://en.protothema.gr/2026/08/08/she-betrays-france-says-musk-of-politician-who-called-for-x-to-be-shut-down-during-election-campaigns-to-stop-it-influencing-voters/",
+    "https://www.youtube.com/watch?v=EHMS_R0wxck",
+    "https://www.azernews.az/region/262145.html",
+    "https://www.jpost.com/diaspora/antisemitism/article-905470",
+    "https://www.business-standard.com/opinion/columns/when-an-algorithm-silences-a-pm-the-case-for-real-platform-accountability-126080900638_1.html",
+    "https://www.ustoday-news.com/2025/01/eu-politicians-warn-against-elon-musks-incursions-into-european-politics/",
+    "https://www.instagram.com/p/Dbz0tikk77x/",
+    "https://www.facebook.com/WIONews/posts/wionfineprint-meta-and-tiktok-to-work-with-fact-checkerseu-tightens-online-monit/1418613830377787/"
+  ]
+}
