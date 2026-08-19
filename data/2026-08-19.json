@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "headline_en": "France's Top Court Blocks Ban on Social Media for Under-15s",
+      "significance": "This ruling sets a legal limit on attempts to restrict minors’ access to social platforms and raises broader questions about state regulation of online speech in Europe.",
+      "source": "BBC / United Kingdom",
+      "summary_en": "France’s Constitutional Council struck down a proposed ban on social media for under-15s, saying it would infringe freedom of expression. The decision followed a week of debate over how far governments can go in regulating young people’s access to digital platforms."
+    },
+    {
+      "headline_en": "Reform Councillor Suspended Over Social Media Posts About Commons Speaker",
+      "significance": "The case shows how resurfaced online posts can trigger immediate political consequences and party discipline for public figures.",
+      "source": "The Independent / United Kingdom",
+      "summary_en": "A Reform UK councillor was suspended after old social media posts appeared to call for the Commons speaker to be hanged and included other offensive remarks. The party said the councillor was suspended pending investigation."
+    },
+    {
+      "headline_en": "Russia Jails Opposition Politician for 11 Years Over Ukraine War Criticism",
+      "significance": "This is a stark example of criminal punishment for online or public criticism of the war, illustrating the severe suppression of political speech in Russia.",
+      "source": "The Independent / United Kingdom",
+      "summary_en": "Lev Shlosberg, a senior figure in Russia’s Yabloko party, received an 11-year-and-one-month sentence after being convicted of discrediting the armed forces and spreading false information about the war. The case stems from Russian laws introduced after the full-scale invasion of Ukraine to punish criticism of the military."
+    },
+    {
+      "headline_en": "Meta Cites Technical Error for Facebook Post Removals in Kerala Row",
+      "significance": "The episode highlights disputes over platform moderation and the political sensitivity of content removal decisions involving public figures.",
+      "source": "Mathrubhumi / India",
+      "summary_en": "Meta said Facebook posts by news outlets about allegations linking the MDMA case accused to the Kerala chief minister were removed because of a technical error, not at anyone’s request. The company said the posts were later restored after the issue was fixed."
+    },
+    {
+      "headline_en": "TikTok Removed Complained-Of Messages After Romania's CNA Intervention",
+      "significance": "This illustrates how regulators can pressure platforms to remove political or contentious online content, raising censorship concerns.",
+      "source": "Ground News / international aggregation of Romanian reporting",
+      "summary_en": "Romania’s National Audiovisual Council said TikTok removed messages linked to the 'black ambulance' issue after the platform acted on the council’s request. The report says the disputed content was no longer available on TikTok after the intervention."
+    }
+  ],
+  "editorial_overview": "Across Europe in the past week, the clearest pattern is the tightening pressure around digital speech, both through courts and through platform moderation. The most significant legal development is France’s top court blocking a social media ban for under-15s on freedom-of-expression grounds. At the same time, political consequences for online speech remain sharp, as shown by the suspension of a UK councillor over old posts and Russia’s prison sentence for an opposition politician over Ukraine-war criticism. Separate cases in Romania and on Meta’s platforms show regulators and platforms continuing to contest who controls removals and under what standards.",
+  "topic": "European news on social media speech, content removal, and censorship",
+  "date": "2026-08-19",
+  "citations": [
+    "https://ground.news/article/tiktok-removed-the-subject-black-ambulance-cna-announces-what-measures-does-the-platform-support-it-has-taken-after-the-case-of-cluj",
+    "https://www.independent.co.uk/news/uk/politics/reform-david-rowan-commons-speaker-john-bercow-hanged-suspended-b3032404.html",
+    "https://www.nytimes.com/2026/08/14/world/europe/france-court-strikes-down-ban-social-media-children.html",
+    "https://inforrm.org/2026/08/13/global-freedom-of-expression-columbia-university-newsletter-13-august-2026/",
+    "https://www.bbc.com/news/articles/cx2vj433xqlo",
+    "https://www.breitbart.com/politics/2026/08/18/tiktok-and-meta-to-increase-censorship-of-supposed-disinfo-over-ceuta-migrant-invasion/",
+    "https://www.news18.com/agency-feeds/why-cms-posts-are-not-removed-by-meta-asks-cpim-mla-mohamed-riyas-10276571.html",
+    "https://www.facebook.com/TechnologyInnovation1/posts/elon-musk-says-x-will-make-government-requests-to-remove-posts-or-restrict-accou/1368997292053580/",
+    "https://www.thenewworld.co.uk/rats-in-a-sack-the-times-takes-down-a-very-wrong-trousers-article/",
+    "https://foreigninterference.org/post/iran-warns-france-stop-diplomatic-meddling-or-face-consequences",
+    "https://www.independent.co.uk/news/world/europe/lev-shlosberg-jailed-russia-ukraine-war-comments-b3034332.html",
+    "https://www.facebook.com/eudebates.tv/videos/eu-says-social-media-platforms-decide-on-content-under-voluntary-dsa-cooperation/1878191086474443/",
+    "https://brusselssignal.eu/2026/08/understanding-the-trump-administrations-free-speech-crusade/",
+    "https://www.france24.com/en/france-blocks-under-15-social-media-ban",
+    "https://english.mathrubhumi.com/news/kerala/fb-post-removal-row-meta-cites-technical-error-as-reason-amid-opposition-attacks-on-kerala-cm-pvzmc1ox"
+  ]
+}
