@@ -1,0 +1,42 @@
+{
+  "articles": [
+    {
+      "headline_en": "France's top court blocks social media ban for under-15s",
+      "significance": "This is a major European ruling on online speech and regulation, because France’s Constitutional Council said the proposed ban would infringe freedom of expression and communication.",
+      "source": "Reuters (United Kingdom)",
+      "summary_en": "France’s Constitutional Council blocked a bill that would have banned social media access for under-15s. The court said the measure was too broad and failed to define the conditions and limits for age verification, while also raising concerns about freedom of expression and privacy. The decision was a setback for President Emmanuel Macron, who had championed the legislation and asked for it to be rewritten. Macron’s government is now expected to revise the bill before trying again."
+    },
+    {
+      "headline_en": "France blocks under-15 social media ban",
+      "significance": "This matters because it shows how digital speech regulation in Europe can be checked by constitutional rights, even when governments argue the rules are meant to protect minors.",
+      "source": "France 24 (France)",
+      "summary_en": "France’s Constitutional Council blocked a bill that would have banned social media access for under-15s, ruling that it infringed on freedom of expression. The ruling came as a setback for President Emmanuel Macron, who supported the measure and asked for it to be rewritten. The report said the Élysée still wants the reform to be in place before the next presidential election."
+    },
+    {
+      "headline_en": "Latvia’s intelligence agency asks prosecutors to pursue case over calls to separate Daugavpils",
+      "significance": "This is relevant because it involves state pressure leading to the deletion of online political content, raising questions about suppression of digital political speech.",
+      "source": "UA News (Ukraine)",
+      "summary_en": "Latvia’s State Security Service requested criminal proceedings against a non-citizen accused of promoting the idea of separating Daugavpils from Latvia on TikTok. According to the report, the TikTok account that posted messages supporting secession was deleted at the request of the security service. The case was treated as a potential criminal offense involving calls against the country’s territorial integrity."
+    }
+  ],
+  "editorial_overview": "The strongest item in the last week is France’s Constitutional Council blocking the under-15 social media ban, a clear example of courts limiting government attempts to regulate digital speech. Another relevant case comes from Latvia, where security authorities sought deletion of TikTok content tied to separatist messaging. Overall, the week’s coverage shows continued tension in Europe between public-order or child-protection arguments and constitutional or rights-based limits on restricting online expression.",
+  "topic": "Europe news on social media speech, moderation, and censorship",
+  "date": "2026-08-20",
+  "citations": [
+    "https://www.nytimes.com/2026/08/14/world/europe/france-court-strikes-down-ban-social-media-children.html",
+    "https://www.france24.com/en/france-blocks-under-15-social-media-ban",
+    "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+    "https://www.breitbart.com/europe/2026/08/18/tiktok-and-meta-to-increase-censorship-of-supposed-disinfo-over-ceuta-migrant-invasion/",
+    "https://ua.news/en/world/spetssluzhba-latviyi-prosit-pochati-peresliduvannia-za-zakliki-do-vidokremlennia-daugavpilsa",
+    "https://discuss.privacyguides.net/t/frances-top-court-blocks-social-media-ban-for-under-15s/39905",
+    "https://www.yahoo.com/news/world/articles/frances-constitutional-council-strikes-down-154838927.html",
+    "https://btw.co/node/11941443/court-blocks-ban/",
+    "https://reclaimthenet.org/tag/emmanuel-macron",
+    "https://www.economist.com/the-world-in-brief/2026/08/14/0e895e04-5e14-4b8e-9a0a-1f371c4ce43b",
+    "https://btw.co/node/11933126/court-blocks-ban/",
+    "https://www.economist.com/the-world-in-brief/2026/08/14/918228b2-1b1e-4775-a91d-935b8bc896f3",
+    "https://www.sepe.gr/en/it-technology/22762494/france-s-top-court-rules-social-media-ban-curtails-freedom-of-expression/",
+    "https://clashreport.com/world/articles/french-top-court-blocks-under-15-social-media-ban-over-free-speech-5ysetjshz8i",
+    "https://www.jurist.org/news/2026/08/france-constitutional-council-rules-under-15-social-media-ban-violates-free-speech-rights/"
+  ]
+}
