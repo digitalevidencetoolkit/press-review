@@ -1,0 +1,67 @@
+{
+  "articles": [
+    {
+      "headline_en": "Meta blocks dozens of accounts protesting Kushner-linked Albanian resort project",
+      "significance": "This appears to involve account takedowns and suspensions affecting politicians, journalists, and activists discussing a politically sensitive development in Albania.",
+      "source": "Politico Europe (EU/Belgium-based publication)",
+      "summary_en": "Politico Europe reported that, over recent weeks, dozens of accounts protesting a resort project linked to Jared Kushner in Albania were hit by copyright notices, content takedowns, and account suspensions. Among those affected was an Albanian opposition MP, Agron Shehaj, whose account was disabled before some removals were later restored as mistakes by Meta. The article says the pattern raised questions about moderation transparency and possible coordinated reporting against political speech online."
+    },
+    {
+      "headline_en": "How hard-left politician Rima Hassan is testing the boundaries between free speech and provocation",
+      "significance": "This is a prominent recent example of a European politician facing legal and public consequences over a deleted social media post.",
+      "source": "Le Monde (France)",
+      "summary_en": "Le Monde reported that French hard-left MEP Rima Hassan deleted a tweet a few days after publishing it, after it drew controversy. The article says she faces charges of glorifying terrorism over the post, and it frames the case as testing the boundary between free speech and provocation. The publication also notes that the message referenced a historical militant figure, which is central to the legal case."
+    },
+    {
+      "headline_en": "UN experts raise concerns over proceedings against Rima Hassan",
+      "significance": "This adds an international-law angle to a social-media prosecution involving political speech in France.",
+      "source": "Nachrichten.fr (Germany)",
+      "summary_en": "Nachrichten.fr reported that UN experts expressed concern about legal proceedings against Rima Hassan over a post published on 26 March 2026 and later deleted. According to the report, the Paris prosecutor said the post was viewed as glorifying terrorist acts. The piece says the deleted message referred to Kōzō Okamoto."
+    },
+    {
+      "headline_en": "The father of Tourism Minister Jo Etienne Abela forced to remove online post attacking Miriam Dalli",
+      "significance": "This is a direct example of a social-media post being removed after political pressure in Malta.",
+      "source": "The Shift News (Malta)",
+      "summary_en": "The Shift News reported that the father of Malta’s Tourism Minister Jo Etienne Abela was reportedly forced to remove a social media post attacking Energy Minister Miriam Dalli over power cuts in Gozo. The post was later removed. The report does not describe a court order, but it does indicate political sensitivity around the content."
+    },
+    {
+      "headline_en": "EU subjects ChatGPT, Reddit and Roblox to stricter oversight under the Digital Services Act",
+      "significance": "This concerns online speech regulation in the EU and the debate over whether digital rules pressure platforms to suppress lawful content.",
+      "source": "Anadolu Agency (Turkey)",
+      "summary_en": "Anadolu Agency reported that the European Commission placed ChatGPT, Reddit, and Roblox under stricter oversight because each exceeded the EU threshold for large online services. The report says the new obligations include assessing and mitigating risks related to illegal content, fundamental rights, elections, and public security. The story also reflects the wider controversy over whether such rules amount to censorship."
+    }
+  ],
+  "editorial_overview": "The week’s European coverage was dominated by two recurring themes: legal or political pressure over social-media speech, and disputes about platform moderation. The clearest individual cases involved Rima Hassan in France and a deleted post in Malta, both showing how online statements can quickly become legal or political incidents. A separate cluster of reporting focused on the EU’s Digital Services Act and whether stricter platform oversight amounts to censorship. There was also reporting from Albania on account removals tied to protest activity, highlighting concerns about moderation transparency and possible suppression of political speech online.",
+  "topic": "Europe news on deleted posts, controversial social-media speech, content removal, censorship, moderation, and legal orders",
+  "date": "2026-09-04",
+  "citations": [
+    "https://www.rt.com/news/644947-eu-chatgpt-reddit-roblox-censorship/",
+    "https://www.aa.com.tr/en/europe/eu-subjects-chatgpt-reddit-roblox-to-stricter-oversight-under-digital-services-act/4042677",
+    "https://www.bloomberg.com/news/articles/2026-08-31/chatgpt-reddit-rddt-roblox-rblx-face-eu-digital-services-act-rules",
+    "https://entrevue.fr/en/justice-et-scandales/photo-de-gaza-retiree-a-deauville-la-justice-inflige-un-serieux-revers-a-la-mairie/",
+    "https://www.straitstimes.com/world/europe/italian-state-broadcaster-rai-removes-veteran-journalist-sparking-political-storm",
+    "https://ppc.land/systemic-risk/",
+    "https://www.tovima.com/world/eu-commission-split-over-whether-to-join-tiktok/amp/",
+    "https://wiadomosci.onet.pl/politico/zakaz-tiktoka-dzieli-komisje-europejska-tym-razem-w-niecodzienny-sposob/dv1jew8",
+    "https://x.com/pernotleplay/status/2094496486054588642",
+    "https://www.freemalaysiatoday.com/category/business/2026/09/03/eu-lawmakers-demand-brussels-force-meta-to-protect-european-children",
+    "https://www.telesatellite.com/actu/69609-chatgpt-reddit-roblox-trois-geants-desormais-dans-le-viseur-du-dsa.html",
+    "https://x.com/DeItaone/status/2094364735747637315",
+    "https://electronlibre.info/articles/tag/Conseil%20constitutionnel%20fran%C3%A7ais/",
+    "https://shiawaves.com/arabic/news/islam/saudi/198630-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AD%D9%82%D9%88%D9%82%D9%8A-%D8%A7%D8%AA%D8%B3%D8%A7%D8%B9-%D9%86%D8%B7%D8%A7%D9%82-%D8%AA%D9%82%D9%8A%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%88%D9%89-%D8%A7/",
+    "https://www.lemonde.fr/en/politics/article/2026/08/31/how-hard-left-politician-rima-hassan-is-testing-the-boundaries-between-free-speech-and-provocation_6757000_5.html",
+    "https://nachrichten.fr/vereinte-nationen-experten-ausern-bedenken-zu-verfahren-gegen-rima-hassan/",
+    "https://www.politico.eu/article/meta-blocks-accounts-politicians-journalists-and-activists-protesting-jared-kushner-linked-albania-resort/",
+    "https://theshiftnews.com/2026/08/31/ministers-father-forced-to-remove-online-post-bashing-miriam-dalli/",
+    "https://entrevue.fr/en/entrevue/rima-hassan-confortee-par-des-rapporteurs-de-lonu-qui-sinquietent-dun-possible-harcelement-judiciaire-et-politique/",
+    "https://www.reprouncensored.org/research-overview/flamingo-revolution",
+    "https://www.yahoo.com/news/politics/articles/max-miller-ex-girlfriend-stephanie-212647599.html",
+    "https://www.bgnes.bg/meta-premahna-desetki-akaunti-na-fona-na-protestite-sreshtu-proekta-na-kashnar-v-albaniya",
+    "https://bg-24.com/lider-bolgarskoy-partii-vzrazhdane-priznan-vinovnym/",
+    "https://dublinpeople.com/news/northsidewest/articles/2026/09/02/donnelly-social-media/",
+    "https://www.theguardian.com/politics/2026/aug/30/giorgia-meloni-farage-badenoch-row",
+    "https://www.irishexaminer.com/news/politics/arid-41903467.html",
+    "https://www.mediapart.fr/es/journal/economie-et-social/310826/tiktok-y-meta-desmantelan-sus-equipos-de-moderacion-en-europa",
+    "https://www.mixvale.com.br/2026/09/03/politician-jens-spahn-sues-rapper-ski-aggu-after-video-with-satirical-ko/"
+  ]
+}
