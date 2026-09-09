@@ -1,0 +1,42 @@
+{
+  "articles": [
+    {
+      "headline_en": "Aliança deletes tweet mocking historic anti-fascist poster after AfD victory",
+      "significance": "Illustrates how far-right gains in Germany are echoing into Catalan politics and how parties swiftly retract provocative social media messaging under public scrutiny.",
+      "source": "Ara (Spain)",
+      "summary_en": "Catalan party Aliança posted on X a response to a user sharing the famous 1936 anti-fascist poster by Pere Català i Pic, retorting “We have already passed!” in reference to the AfD’s electoral victory in Saxony.[1] The tweet, seen as appropriating an anti-fascist symbol to celebrate a far-right win, triggered online criticism.[1] Aliança subsequently deleted the message, attempting to limit the backlash over its controversial framing of the German result.[1]"
+    },
+    {
+      "headline_en": "Meta disables Albanian protest and opposition accounts, then begins restoring some after political outcry",
+      "significance": "Highlights concerns over platform moderation affecting political opposition and journalists in Albania and raises questions about possible government influence over social media removals.",
+      "source": "Brussels Signal (EU-based outlet, reporting on Albania)",
+      "summary_en": "Dozens of Instagram accounts belonging to Albanian opposition figures, activists and journalists were suspended or disabled overnight around September 2, during a long-running protest against a luxury resort project backed by Jared Kushner.[3] Among those affected was opposition MP Agron Shehaj, who argued to Politico that Meta’s opaque rules allow governments to extend censorship into social media.[3] Meta stated it was reviewing the actions, acknowledged some removals as errors, began restoring accounts, and apologised, while Prime Minister Edi Rama denied any state involvement.[3]"
+    },
+    {
+      "headline_en": "Polish Prime Minister Tusk calls opposition supporters of AfD “idiots or traitors” in social media post",
+      "significance": "Shows how political leaders are using strong language on social media to polarise debate around far-right gains in Europe, potentially heightening cross-border political tensions.",
+      "source": "Notes from Poland (Poland)",
+      "summary_en": "Polish Prime Minister Donald Tusk wrote on social media that “in Poland, only idiots or traitors can rejoice at the triumph of the AfD in Germany,” targeting figures in the Confederation and PiS parties.[14] His comments followed reactions in Poland to the German AfD’s success, and drew direct criticism from an AfD MEP, Tomasz Froelich, who replied online with a mocking “Herr Tusk, eat a Snickers!” reference.[14] The exchange underscores how social platforms are central venues for sharp rhetorical clashes over far-right advances in neighbouring countries.[14]"
+    }
+  ],
+  "editorial_overview": "Over the past week in Europe, social media has remained a key arena for political confrontation and disputes over speech. A Catalan party swiftly deleted a tweet that appeared to celebrate a far-right victory using an iconic anti-fascist image, reflecting growing sensitivity to provocative online symbolism.[1] In Albania, the disabling of opposition and journalist Instagram accounts during an ongoing protest sparked accusations of censorship and prompted Meta to review and partially reverse its actions, indicating how platform moderation can directly affect political mobilisation.[3] Meanwhile, Polish Prime Minister Donald Tusk’s harsh characterisation of domestic opponents who celebrated the AfD’s win shows how political leaders use social media to frame allies and adversaries in stark terms.[14] Together, these developments highlight the intertwined roles of political actors and major platforms in shaping, moderating and sometimes retracting contentious digital political speech across Europe.",
+  "topic": "European digital political speech and social media moderation",
+  "date": "2026-09-09",
+  "citations": [
+    "https://en.ara.cat/politics/alianca-puffs-out-its-chest-for-the-afd-s-victory-in-saxony-by-mocking-the-1936-anti-fascist-poster_1_5842901.html",
+    "https://www.aa.com.tr/en/europe/macron-calls-for-taking-back-control-from-ai-social-media-platforms/4049741",
+    "https://brusselssignal.eu/2026/09/meta-disables-albanian-protest-accounts-as-meps-demand-answers/",
+    "https://www.euronews.com/my-europe/2026/09/07/ulrich-siegmund-from-cdu-member-to-afd-lead-candidate",
+    "https://www.reuters.com/legal/litigation/macron-urges-eu-ban-social-media-under-15s-letter-von-der-leyen-2026-09-08/",
+    "https://euperspectives.eu/2026/09/lawmakers-confront-von-der-leyen-over-europes-child-safety-delay/",
+    "https://withoutcensorship.com/chat-control-who-decides/",
+    "https://nashaniva.com/amp/en/404112",
+    "https://www.nrcc.org/2026/09/04/socialist-felon-william-lawrence-deleted-tweets-show-far-left-record/",
+    "https://caliber.az/en/post/macron-urges-eu-wide-ban-on-social-media-for-children-under-15",
+    "https://www.isdglobal.org/digital-dispatch/investigation-an-old-dog-with-no-new-tricks-matryoshka-targets-regional-elections-in-germany/",
+    "https://www.barrons.com/articles/eu-lawmakers-demand-brussels-force-meta-to-protect-european-children-0edcca9f",
+    "https://www.barrons.com/news/eu-lawmakers-demand-brussels-force-meta-to-protect-european-children-0edcca9f",
+    "https://notesfrompoland.com/2026/09/07/polish-pm-condemns-opposition-idiots-or-traitors-celebrating-afd-victory-in-germany/",
+    "https://www.bloomberg.com/news/articles/2026-09-08/uk-to-force-apple-google-to-block-nude-images-on-kids-devices"
+  ]
+}
