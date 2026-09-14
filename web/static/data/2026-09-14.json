@@ -1,0 +1,66 @@
+{
+  "articles": [
+    {
+      "headline_en": "Unauthorised post: Jean-Claude Juncker's X account hacked",
+      "significance": "This is a case of an unauthorised political message being removed after a security incident involving a high-profile European public figure.",
+      "source": "RTL Luxembourg (Luxembourg)",
+      "summary_en": "RTL Luxembourg reported that Jean-Claude Juncker's X account was hacked and an unauthorised post appeared on the account. The post was quickly removed once the incident was identified. The article frames it as a security breach affecting a prominent political figure's social media presence."
+    },
+    {
+      "headline_en": "Newcastle councillor expelled by Reform over far-right party link",
+      "significance": "This highlights how deleted social media content and earlier posts can trigger political discipline and public backlash for elected officials.",
+      "source": "BBC News (United Kingdom)",
+      "summary_en": "BBC News reported that Newcastle councillor Daniel Astley was expelled by Reform UK after apologising for offensive social media posts about Muslims made on a now deleted X account. The report says he had called for what he described as \"non-Europeans\" to leave the UK and later said he wanted to retract his previous social media comments. The party then removed him after scrutiny of his past links to a far-right group."
+    },
+    {
+      "headline_en": "Meta under fire as Facebook fails to remove homophobic abuse in Hungary",
+      "significance": "This concerns alleged failure by a major platform to remove abusive political speech, raising censorship and moderation questions in a European context.",
+      "source": "EUobserver (EU/Belgium)",
+      "summary_en": "EUobserver reported on criticism of Meta after Facebook allegedly failed to remove homophobic abuse in Hungary. The article says Amnesty International published findings on Facebook's shortcomings in moderating such content, which were linked to a hate campaign driven by Orbán's Hungarian government. The piece presents the issue as a platform moderation failure with political implications."
+    },
+    {
+      "headline_en": "Swedish Left Party removes eight more election candidates over antisemitism and extremist posts",
+      "significance": "This shows political parties removing candidates because of social media posts deemed extremist or hateful, which is a recurring campaign-period speech controversy.",
+      "source": "The J.ca (Canada)",
+      "summary_en": "The report says Sweden's Left Party removed eight additional candidates from its election lists after media scrutiny of social-media content. The posts reportedly included antisemitic conspiracy theories, support for Hamas, praise for Vladimir Putin, and other extremist material. It says the removals brought the year's total to 33 candidates removed over similar controversies."
+    },
+    {
+      "headline_en": "Left Party purges candidates after social media exposure of conspiracy theories and hate speech",
+      "significance": "This is another report on the same Swedish candidate-removal controversy, reflecting the scale and cross-border attention around political speech online.",
+      "source": "Ekstra Bladet (Denmark)",
+      "summary_en": "Ekstra Bladet reported that eight Swedish Left Party candidates were removed from the ballot after social-media posts praising Hamas, spreading lies about the war in Ukraine, and promoting antisemitic conspiracy theories came to light. The article says the party described the posts as inappropriate and said those people were no longer candidates. It also notes that 25 earlier candidates had already been removed for similar reasons."
+    },
+    {
+      "headline_en": "Social Democrats removed a TikTok post showing convicted gangsta rappers",
+      "significance": "This is a direct example of a political party deleting online content after a public reaction, fitting the category of social-media post removal.",
+      "source": "Aftonbladet (Sweden)",
+      "summary_en": "Aftonbladet reported that the Swedish Social Democrats took down a TikTok post that featured convicted gangsta rappers. The party said the post had been removed and that it did not stand behind it. The report presents the deletion as a response to the content becoming politically problematic."
+    },
+    {
+      "headline_en": "Prime Minister and party used AI to generate hundreds of social media posts",
+      "significance": "This is relevant as a platform-content controversy involving a leading European political figure and questions about authenticity in political communication online.",
+      "source": "iOplus / de Volkskrant coverage (Netherlands)",
+      "summary_en": "iOplus reported on an investigation by de Volkskrant finding that Dutch Prime Minister Rob Jetten and his party D66 had used artificial intelligence to generate hundreds of social media posts. The report says the practice began in June 2025 and involved tools such as ChatGPT. It also notes that Geert Wilders reacted on X before deleting his post shortly afterwards."
+    }
+  ],
+  "editorial_overview": "The week's European coverage was dominated by political social-media controversies rather than formal state censorship actions. Several stories involved parties or officials deleting posts, removing candidates, or distancing themselves from offensive or extremist online content. A separate strand concerned platform moderation, especially criticism of Facebook's handling of abuse in Hungary. Taken together, the reporting shows continued scrutiny of how politicians use social media and how platforms and parties respond when online speech becomes politically toxic.",
+  "topic": "Europe news on political social media deletions, controversial posts, moderation disputes, and online speech removal",
+  "date": "2026-09-14",
+  "citations": [
+    "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates",
+    "https://today.rtl.lu/news/luxembourg/jean-claude-junckers-x-account-hacked-2101090281",
+    "https://www.abcnyheter.no/nyheter/vaensterpartiet-fjernet-riksdagskandidat-for-hatefulle-innlegg/1659875",
+    "https://ekstrabladet.dk/nyheder/Udland/delte-konspirationsteorier-og-joedehad-nu-er-de-pillet-af-stemmesedlen/11281520",
+    "https://www.bbc.com/news/articles/cd792dzenzlo",
+    "https://euobserver.com/235886/meta-under-fire-as-facebook-fails-to-remove-homophobic-abuse-in-hungary/",
+    "https://thej.ca/2026/09/08/swedish-left-party-removes-eight-more-election-candidates-over-antisemitism-and-extremist-posts/",
+    "https://politiken.dk/internationalt/art10973864/%C2%BBJeg-vil-g%C3%B8re-alt-for-at-vi-kan-f%C3%A5-fjernet-den-her-type-kandidater%C2%AB",
+    "https://www.aftonbladet.se/nyheter/a/5pelo6/s-visade-domda-gangsterrappare-pa-tiktok",
+    "https://www.courthousenews.com/far-right-partys-ikea-play-hits-legal-snag-at-eu-court/",
+    "https://swedenherald.com/article/eu-court-rules-against-belgian-farrights-ikea-campaign",
+    "https://ioplus.nl/en/posts/is-rob-jetten-real-or-ai",
+    "https://www.reuters.com/legal/litigation/macron-urges-eu-ban-social-media-under-15s-letter-von-der-leyen-2026-09-08/",
+    "https://audiovisual.ec.europa.eu/en/media/video/I-293903",
+    "https://slguardian.org/dutch-prime-minister-faces-ai-credibility-test/"
+  ]
+}
