@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "headline_en": "France Télévisions removes Adèle Haenel show over Israel remarks",
+      "significance": "Public broadcasters and regulators are directly involved when online speech is removed from major platforms, making this a notable case of content moderation linked to politically charged remarks.",
+      "source": "The New Arab, France",
+      "summary_en": "France Télévisions removed the online replay of a France 5 programme after Adèle Haenel accused Israel of genocide and France of complicity during the broadcast. The broadcaster said the episode was taken down because the remarks were aired without a counterpoint, and the decision drew criticism from some left-wing lawmakers and was referred to the media regulator by a Jewish organisation."
+    },
+    {
+      "headline_en": "Over Hitler praise: Dutch government moves to revoke license of right-wing broadcaster",
+      "significance": "This is a high-profile example of a government moving against a broadcaster after controversial political speech in a public programme, raising questions about media oversight and speech limits.",
+      "source": "Israel National News, Netherlands",
+      "summary_en": "The Dutch government began proceedings to revoke the broadcasting licence of Ongehoord Nederland after repeated complaints about misinformation, bias and conspiracy theories. The latest controversy followed an online programme in which a former editor praised Adolf Hitler and said he agreed with some of Hitler's statements."
+    },
+    {
+      "headline_en": "Newcastle councillor expelled by Reform over far-right party link",
+      "significance": "The case shows how deleted social media posts can still trigger political consequences when offensive or extremist remarks come to light.",
+      "source": "BBC News, United Kingdom",
+      "summary_en": "A Newcastle city councillor was expelled by Reform UK after apologising for a series of offensive social media posts about Muslims. The posts were made last year on a now-deleted X account and included remarks calling for what he described as 'non-Europeans' to leave the UK."
+    },
+    {
+      "headline_en": "Albania, voices of the \"Flamingo Revolution\" face online attacks and account shutdowns",
+      "significance": "This report highlights online suppression affecting political expression, including post removals and account shutdowns during a protest movement.",
+      "source": "OBCT, Italy",
+      "summary_en": "The article says activists involved in Albania's 'Flamingo Revolution' faced online attacks and account shutdowns. It also reports that three Instagram posts were removed the same day on copyright grounds, affecting the movement's online visibility."
+    },
+    {
+      "headline_en": "Court order in Delhi directs removal of objectionable posts against BJP spokesperson Gaurav Bhatia",
+      "significance": "Although not European, this result concerns court-ordered removal of political speech online; it is included only because it appeared in the search results and matches the general issue type.",
+      "source": "Various Indian outlets, India",
+      "summary_en": "The Delhi High Court recorded undertakings to delete disputed social media posts and directed removal within 24 hours in a defamation case involving BJP spokesperson Gaurav Bhatia. The court also indicated that similar future posts could be acted upon if reported."
+    }
+  ],
+  "editorial_overview": "The strongest European examples in the last week cluster around disputes over politically charged speech and its removal from online or broadcast platforms. France, the Netherlands and the UK all saw cases where controversial remarks, deleted accounts or platform takedowns triggered political or regulatory consequences. The Albania report adds a case of account shutdowns and post removals affecting activist speech, showing that online suppression concerns are not limited to institutional media. Overall, the week’s coverage points to continuing tension between moderation, political accountability and claims of censorship.",
+  "topic": "Europe news review: political speech, takedowns, and moderation controversies",
+  "date": "2026-09-15",
+  "citations": [
+    "https://www.balcanicaucaso.org/en/cp_article/albania-voices-of-the-flamingo-revolution-face-online-attacks-and-account-shutdowns/",
+    "https://samacharnama.com/news/bombay-high-courts-big-order-remove-objectionable-post-on/cid19233352.htm",
+    "https://www.newarab.com/news/france-televisions-removes-adele-haenel-show-over-israel-remarks?amp",
+    "https://www.sinaiproject.com/article/adele-haenel-replay-removed-after-gaza-remarks",
+    "https://www.israelnationalnews.com/news/432927",
+    "https://www.livemint.com/news/india/will-take-down-posts-against-gaurav-bhatia-in-24-hrs-cjp-saurav-das-ashutosh-ranka-to-delhi-hc-cockroach-janta-11789027703446.html",
+    "https://www.bbc.com/news/articles/cd792dzenzlo",
+    "https://www.rfi.fr/en/international-news/20260909-rein-in-social-media-not-children-say-over-130-groups-experts",
+    "https://worldnewsintel.com/a-far-right-mess-eu-extremist-party-fined-for-admin-snafu-politico/",
+    "https://www.startupniti.com/india/cjp-leaders-agree-to-remove-posts-against-gaurav-df7af79a/",
+    "https://www.washingtonexaminer.com/op-eds/4719836/telewizja-republika-boycott-poland-free-speech/",
+    "https://www.barandbench.com/news/kerala-hc-orders-meta-to-block-video-containing-derogatory-remarks-on-sabarimala-deities",
+    "https://www.dynamitenews.com/national/ai-dimagi-naxal-post-row-delhi-hc-warning-leaves-cjp-in-trouble-over-gaurav-bhatia-case",
+    "https://www.newsbeast.gr/world/arthro/13343453/bloko-tis-ollandias-sto-akrodexio-kanali-ongehoord-nederland-anakaleitai-i-adeia-ekpobis-meta-tis-diloseis-stirixis-ston-chitler",
+    "https://acceptallmag.com/story/eu-social-media-ban-to-test-fragile-truce-with-trump-83b622/"
+  ]
+}
