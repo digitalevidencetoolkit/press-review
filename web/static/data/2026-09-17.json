@@ -1,0 +1,48 @@
+{
+  "articles": [
+    {
+      "headline_en": "Irish deputy prime minister distances himself from aide’s deleted social media posts calling Trump a ‘moron’",
+      "significance": "Illustrates political sensitivity around staffers’ online speech and the expectation that controversial comments be deleted once they draw public scrutiny.",
+      "source": "The Irish Times, Ireland",
+      "summary_en": "The Irish Times reports that Tánaiste Simon Harris said he disagreed with past posts on his constituency director John Kelly’s X account, which called Donald Trump a “moron”, criticised teachers as work-shy, and described the public as “racist”.[1] After questions were raised about the provocative posts, Kelly’s X account was deleted, with Harris saying the posts dated from several years ago and that their deletion was appropriate.[1] Harris also questioned whether social‑media activity of all political staff would now be subject to wide‑ranging examination.[1]"
+    },
+    {
+      "headline_en": "Austrian mayor from the Social Democratic Party says Meta has permanently blocked his Facebook, Instagram and WhatsApp after AfD–Trump post",
+      "significance": "Highlights ongoing tensions between political actors and platform moderation decisions, especially when account bans follow posts about controversial topics.",
+      "source": "Kronen Zeitung (Krone), Austria",
+      "summary_en": "Austria’s Kronen Zeitung reports that Martin Weber, a Social Democratic mayor in Styria, has been banned from major Meta platforms including Facebook, Instagram and WhatsApp.[2] Weber believes the ban is linked to a Facebook post he made about Germany’s AfD with a reference to Donald Trump, though Meta’s notice only cited a violation of its rules on who is allowed to use Facebook, without specifying the exact offending content.[2] After an unsuccessful review, Meta informed Weber that his Facebook account, which had about 5,000 friends, was permanently deactivated, cutting him off from all three services.[2]"
+    },
+    {
+      "headline_en": "Albanian ‘Flamingo Revolution’ activists report Instagram post removals and eventual account shutdown over protest videos",
+      "significance": "Shows how content moderation and takedowns can affect opposition and protest movements, raising concerns about the robustness of digital civic space.",
+      "source": "Osservatorio Balcani e Caucaso Transeuropa (OBCT), Italy (coverage of Albania)",
+      "summary_en": "OBCT reports that social media voices tied to Albania’s so‑called ‘Flamingo Revolution’ have faced online attacks and Instagram enforcement actions.[10] Activist Elona Burnazi says that three Instagram posts, including videos about the Albanian diaspora and a Brussels intergovernmental conference, were removed on alleged copyright grounds before being restored on appeal, only for her entire account to be shut down on 3 September.[10] The article notes that these shutdowns come amid wider online pressure and harassment directed at protest organisers and supporters.[10]"
+    },
+    {
+      "headline_en": "Controversial Polish politician boasts on X about smashing Ukrainian UPA monument, sparking outrage",
+      "significance": "Reflects how inflammatory social media posts by elected officials can escalate cross‑border historical and ethnic tensions, testing platforms’ and authorities’ tolerance for political speech.",
+      "source": "Yahoo News (world desk, citing Polish and regional sources), likely Poland‑related coverage",
+      "summary_en": "Yahoo’s world news section describes how Polish far‑right politician Grzegorz Braun posted on X about destroying a monument to the Ukrainian Insurgent Army (UPA), calling the structure “anonymous and unauthorised” and urging that it be professionally dismantled as an alleged justification of Nazism and ‘Banderism’.[14] Braun’s post, tagged with the hashtag #StopBanderyzacjiPolski and accompanied by video, celebrated the act and framed it as defending the memory of Polish victims of Ukrainian wartime atrocities.[14] The comments provoked controversy and condemnation from Ukrainian and Polish voices concerned about incitement and damage to a site commemorating Ukrainian history.[14]"
+    }
+  ],
+  "editorial_overview": "Across Europe in the past week, several stories highlight the growing friction between political actors and the governance of speech on major platforms. In Ireland and Poland, controversial social media statements by political figures or their staff have triggered public backlash, deletion of posts, or wider diplomatic and societal concerns.[1][14] Meanwhile, reports from Austria and Albania show elected officials and activists facing significant restrictions or shutdowns of their social media accounts after posting about politically sensitive topics, sometimes with limited transparency from platforms about the rationale.[2][10] Taken together, these developments underscore how moderation, post deletions, and account bans are increasingly intertwined with domestic politics, protest movements, and interstate tensions. They also illustrate persistent uncertainty for users about when political expression crosses lines set by platforms or authorities, and how appeals and accountability mechanisms function in practice.",
+  "topic": "European digital speech, political social media controversies, and platform moderation",
+  "date": "2026-09-17",
+  "citations": [
+    "https://www.irishtimes.com/politics/2026/09/11/simon-harris-says-he-disagrees-with-constituency-directors-post-that-trump-is-a-moron/",
+    "https://www.krone.at/4291956",
+    "https://www.bloomberg.com/news/articles/2026-09-16/eu-unveils-social-media-curbs-for-kids-and-ban-on-users-under-13",
+    "https://aa.com.tr/en/europe/france-submits-revised-plan-to-eu-on-social-media-access-for-under-15s/4056937",
+    "https://www.techpolicy.press/von-der-leyen-moves-to-lock-down-social-media-for-under15s-across-europe/",
+    "https://www.bloomberg.com/news/newsletters/2026-09-15/eu-to-levy-fines-of-up-to-6-of-tech-companies-sales-in-kids-act",
+    "https://www.euronews.com/my-europe/2026/09/15/leak-eu-commission-to-pitch-social-media-restrictions-for-under-15s",
+    "https://www.euronews.com/video/2026/09/16/thousands-of-suspicious-accounts-followed-swedish-political-voices-researchers-say",
+    "https://www.irishtimes.com/technology/big-tech/2026/09/12/eu-to-curb-teenage-access-to-social-media/",
+    "https://www.balcanicaucaso.org/en/cp_article/albania-voices-of-the-flamingo-revolution-face-online-attacks-and-account-shutdowns/",
+    "https://www.bloomberg.com/news/articles/2026-09-14/eu-looking-to-restrict-social-media-chatbots-for-kids-under-15",
+    "https://www.echr.coe.int/w/weekly-summary-of-interim-measures-1",
+    "https://www.techtimes.com/articles/327502/20260914/france-swaps-social-media-ban-feature-curbs-every-adult-still-proves-age.htm",
+    "https://www.yahoo.com/news/world/articles/controversial-polish-politician-boasts-smashing-084300574.html",
+    "https://streamlinefeed.co.ke/news/france-submits-reworked-under-15-social-media-ban-to-european-commission"
+  ]
+}
