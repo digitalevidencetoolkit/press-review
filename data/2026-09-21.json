@@ -1,0 +1,48 @@
+{
+  "articles": [
+    {
+      "headline_en": "Donald Tusk and Karol Nawrocki clash over anniversary speech on X",
+      "significance": "This is a direct example of a political dispute over a public post that one leader urged another to delete.",
+      "source": "Pollar News (Poland)",
+      "summary_en": "Polish President Karol Nawrocki posted remarks on X tied to the anniversary of the Soviet invasion of Poland. Prime Minister Donald Tusk publicly called on him to delete the post, prompting a sharp exchange over historical memory and territorial integrity."
+    },
+    {
+      "headline_en": "Ukraine and the Political Struggle in Poland: Where Is the Conflict Leading?",
+      "significance": "The article documents the same deletion demand in a broader political context and shows how social media became part of the dispute.",
+      "source": "UA.News (Ukraine)",
+      "summary_en": "The report says Nawrocki wrote on social media about Poland possibly losing territory but never its homeland. Tusk responded by urging him to delete the post, and Nawrocki replied that he was referring to history and not to current territorial policy."
+    },
+    {
+      "headline_en": "Turkish government escalates crackdown on left-wing parties, LGBTQ+ associations and media outlets",
+      "significance": "This is a clear case of state pressure and platform-blocking affecting online political speech and civic groups.",
+      "source": "WSWS (international/Europe coverage)",
+      "summary_en": "The piece reports that Turkish authorities blocked websites and social media accounts, including those belonging to journalists, lawyers, student groups, and media and human rights organizations. It says the measures were justified under national security and public order provisions and affected at least 50 X accounts and 15 Instagram accounts."
+    },
+    {
+      "headline_en": "Canary and George Galloway de-banking: Wartime censorship escalates",
+      "significance": "The article highlights a censorship-related dispute around public speech and evidence preservation, though it is less directly about platform moderation than the other items.",
+      "source": "WSWS (international/UK coverage)",
+      "summary_en": "The report discusses George Galloway’s claim that his bank account was closed without explanation and notes that his legal team sought preservation of evidence. It frames the case as part of a broader pattern of wartime censorship and suppression of speech."
+    }
+  ],
+  "editorial_overview": "The week’s coverage is dominated by two themes: political conflict on social media and state pressure on online speech. In Poland, a public dispute centered on a post that the prime minister urged the president to delete, showing how social platforms remain an active arena for elite political confrontation. In Türkiye, authorities were reported to have blocked large numbers of accounts and sites, illustrating a much more direct form of suppression. Separate EU-level coverage focused on online safety for minors rather than speech restriction, so it does not fit the core topic as closely as the censorship and deletion cases.",
+  "topic": "European news on deleted posts, controversial political social media speech, and online speech suppression",
+  "date": "2026-09-21",
+  "citations": [
+    "https://pollar.news/en/event/tusk-and-nawrocki-clash-on-x",
+    "https://ua.news/en/world/ukrayina-ta-politichna-borotba-u-polshchi-kudi-vede-konflikt-tuska-i-navrotskogo",
+    "https://today.rtl.lu/news/luxembourg/ammd-government-rift-widens-eu-pushes-social-media-ban-and-ai-concerns-mount-1779160365",
+    "https://www.riotimesonline.com/europe-intelligence-brief-thursday-september-17-2026/",
+    "https://www.euronews.com/my-europe/2026/09/15/france-ties-eu-sanctions-renewal-to-prisoner-release",
+    "https://www.dailysignal.com/2026/09/16/german-chancellors-attack-on-free-speech-reveals-europes-fear-of-speech/",
+    "https://euperspectives.eu/2026/09/parliament-wants-tougher-rules-for-social-media-and-more-money-to-defend-democracy/",
+    "https://www.reuters.com/world/eu-commission-proposes-social-media-ban-children-under-13-2026-09-17/",
+    "https://apnews.com/article/europe-leyen-social-media-ban-kids-3e7176ea409ba4af0a069f5ca7dd9680",
+    "https://www.wsws.org/en/articles/2026/09/15/dqho-s15.html",
+    "https://www.washingtonpost.com/business/2026/09/16/europe-leyen-social-media-ban-kids/c2155166-b1a8-11f1-92c2-5c918f4a6127_story.html",
+    "https://www.wsws.org/en/articles/2026/09/16/hrfq-s16.html",
+    "https://www.publicmediaalliance.org/psm-weekly-9-16-september-2026/",
+    "https://www.techpolicy.press/von-der-leyen-moves-to-lock-down-social-media-for-under15s-across-europe/",
+    "https://audiovisual.ec.europa.eu/en/media/video/I-293083"
+  ]
+}
