@@ -1,0 +1,42 @@
+{
+  "articles": [
+    {
+      "headline_en": "Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards",
+      "significance": "The case highlights platform accountability for AI-generated political misinformation and the role of Meta’s Oversight Board in ordering content removal.",
+      "source": "The Guardian — United Kingdom",
+      "summary_en": "Meta’s Oversight Board ordered the removal of deepfake videos from Facebook involving a UK politician and a young Muslim woman. It also criticised Meta for leaving online a fake video showing a Scottish Labour councillor making inflammatory comments about refugees, and called for stronger safeguards against AI-generated imagery."
+    },
+    {
+      "headline_en": "Tusk tells Nawrocki to delete post about ‘giving up’ land",
+      "significance": "The dispute shows how social-media posts can become part of an official political conflict over national territory and security messaging.",
+      "source": "The New Voice of Ukraine — Ukraine",
+      "summary_en": "Polish Prime Minister Donald Tusk publicly urged President Karol Nawrocki to delete a post quoting Tusk as saying Poland could lose or give up territory while never surrendering its homeland. Tusk said Poland would not give up any of its territory; the post had been published by the Polish President’s Office after Nawrocki attended commemorations of the Soviet invasion of Poland."
+    },
+    {
+      "headline_en": "Politician advertisements continue on Meta despite ban introduced last year",
+      "significance": "The report raises questions about enforcement of Meta’s political-advertising restrictions and whether campaigns can remain visible after a ban takes effect.",
+      "source": "The Irish Times — Ireland",
+      "summary_en": "Political advertisements continued to appear on Meta despite a ban on such advertising that had been introduced the previous year. A senior source involved in the Connolly campaign said the campaign had scheduled its advertisement to stop when the ban began, but could not explain why it remained active until Meta removed it."
+    }
+  ],
+  "editorial_overview": "The articles point to continuing disputes over the control of political speech and political imagery on social-media platforms. They include direct pressure by a senior politician to delete a presidential-office post, platform-ordered removal of AI-generated political deepfakes, and questions about the enforcement of political-advertising rules. Together, they show that moderation controversies are involving both the substance of political messages and the systems used to distribute them.",
+  "topic": "European press review: political speech, content removal and platform moderation, 15–22 September 2026",
+  "date": "2026-09-22",
+  "citations": [
+    "https://www.euronews.com/video/2026/09/16/thousands-of-suspicious-accounts-followed-swedish-political-voices-researchers-say",
+    "https://globalnews.ca/news/12062954/eu-leaders-canada-associate-membership/",
+    "https://www.yahoo.com/news/politics/articles/ken-paxtons-misspelling-cypress-ahead-232027492.html?fr=sycsrp_catchall",
+    "https://www.irishtimes.com/politics/2026/09/19/politician-advertisements-continue-on-meta-despite-ban-introduced-last-year/",
+    "https://caliber.az/en/post/putin-says-moscow-open-to-renewing-contacts-with-europe",
+    "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards",
+    "https://www.euronews.com/2026/09/22",
+    "https://www.euronews.com/2026/09/16",
+    "https://english.nv.ua/nation/tusk-tells-polish-president-to-delete-post-about-possibly-giving-up-territory-50642524.html",
+    "https://today.rtl.lu/news/luxembourg/ammd-government-rift-widens-eu-pushes-social-media-ban-and-ai-concerns-mount-1779160365",
+    "https://www.riotimesonline.com/europe-intelligence-brief-monday-september-21-2026/",
+    "https://www.euronews.com/my-europe/2026/09/18/russia-shares-ai-generated-putin-selfie-as-use-of-artificial-content-spreads-among-europes",
+    "https://www.europarl.europa.eu/news/en/press-room/20260911IPR47459/meps-debate-state-of-the-eu-economy-security-climate-ai-social-media",
+    "https://www.riotimesonline.com/europe-intelligence-brief-saturday-september-19-2026/",
+    "https://www.rte.ie/news/europe/2026/0916/1591701-von-der-leyen-social-media/"
+  ]
+}
