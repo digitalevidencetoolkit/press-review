@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "headline_en": "Tusk tells Nawrocki to delete post about ‘giving up’ land",
+      "significance": "The dispute illustrates how social media is being used for a direct political confrontation between Poland’s prime minister and president, centred on wording about territorial sovereignty.",
+      "source": "The New Voice of Ukraine — Ukraine",
+      "summary_en": "Polish Prime Minister Donald Tusk publicly urged President Karol Nawrocki to delete a post quoting Nawrocki as saying Poland could lose or give up territory while never surrendering its homeland. Tusk replied on X that Poland would not give up any part of its territory; the post referred to commemorations of the Soviet invasion of Poland in 1939."
+    },
+    {
+      "headline_en": "Donald Tusk and Karol Nawrocki clash over anniversary speech on X",
+      "significance": "The episode shows political disagreement being conducted publicly through competing social-media messages, with one national leader explicitly calling for another leader’s post to be removed.",
+      "source": "Pollar News — Poland",
+      "summary_en": "On 17 September, Polish President Karol Nawrocki’s office published an excerpt from a speech on X referring to the possibility of losing territory without surrendering the homeland. Prime Minister Donald Tusk responded by asking Nawrocki to delete the post, while Nawrocki defended the historical context of his remarks."
+    },
+    {
+      "headline_en": "Ukraine and the Political Struggle in Poland: Where Is the Conflict Heading?",
+      "significance": "The article presents the exchange as part of a broader political confrontation between Poland’s president and prime minister, rather than an isolated disagreement over social-media wording.",
+      "source": "UA.News — Ukraine",
+      "summary_en": "The report describes a public dispute after Nawrocki posted remarks about Poland potentially losing territory but not surrendering its homeland. Tusk criticised the wording and suggested deleting the post; Nawrocki rejected the criticism and said the prime minister should focus on legislation instead of social-media commentary."
+    },
+    {
+      "headline_en": "Tusk, Nawrocki Clash Over Poland ‘Giving Up Territory’ in WWII Anniversary Post",
+      "significance": "A historical commemoration became the subject of a highly visible online clash between Poland’s two top political figures, demonstrating how social media can intensify disputes over national history and security.",
+      "source": "Kyiv Post — Ukraine",
+      "summary_en": "President Karol Nawrocki published a message marking the anniversary of the Soviet invasion of Poland that said the country could lose or surrender territory without surrendering its homeland. Prime Minister Donald Tusk publicly rebuked him and urged him to delete the post, saying Poland would not give up any part of its territory."
+    },
+    {
+      "headline_en": "Oversight Board orders Meta to remove a deepfake of a UK councillor and a Muslim campaigner",
+      "significance": "The case concerns platform enforcement against AI-generated political or public-interest content and highlights the role of Meta’s Oversight Board in ordering removals.",
+      "source": "The Next Web — Netherlands",
+      "summary_en": "Meta’s Oversight Board ordered the company to remove two AI-generated videos from Facebook. One depicted a Labour councillor in Scotland and the other mocked a young Muslim campaigner, making the decision relevant to political figures, public campaigning and manipulated online speech."
+    }
+  ],
+  "editorial_overview": "The material gathered for 16–23 September 2026 is dominated by disputes over political speech on social media rather than by formal government censorship orders. The clearest case is the public exchange between Poland’s prime minister and president, in which Tusk directly asked Nawrocki to delete a post and Nawrocki defended its meaning. A separate Meta Oversight Board decision involved removal of AI-generated videos depicting a UK councillor and a Muslim campaigner, extending the moderation debate to synthetic political content. The available results do not establish that the Polish post was actually deleted, nor do they provide sufficient evidence of a government or court order requiring its removal.",
+  "topic": "European news on political social-media controversies, content removal and digital speech suppression, 16–23 September 2026",
+  "date": "2026-09-23",
+  "citations": [
+    "https://newswav.com/article/ukraine-russia-war-latest-france-vows-response-after-hybrid-attacks-by-mosc-A2609_QEJLRt",
+    "https://pollar.news/en/event/tusk-and-nawrocki-clash-on-x",
+    "https://ua.news/en/world/ukrayina-ta-politichna-borotba-u-polshchi-kudi-vede-konflikt-tuska-i-navrotskogo",
+    "https://english.nv.ua/nation/tusk-tells-polish-president-to-delete-post-about-possibly-giving-up-territory-50642524.html",
+    "https://ua.news/en/world/tusk-rozkritikuvav-navrotskogo-cherez-frazu-pro-vtratu-teritorii-polshchi",
+    "https://x.com/i/status/2100383722591637930",
+    "https://www.euronews.com/my-europe/2026/09/18/russia-shares-ai-generated-putin-selfie-as-use-of-artificial-content-spreads-among-europes",
+    "https://www.euronews.com/my-europe/2026/09/17/fact-check-will-marine-le-pen-hold-a-frexit-referendum-if-she-becomes-president-of-france",
+    "https://thenextweb.com/news/meta-oversight-board-deepfakes-uk-councillor-muslim-campaigner",
+    "https://www.pravda.com.ua/eng/news/2026/09/20/8054287/",
+    "https://www.kyivpost.com/post/84828",
+    "https://x.com/Oct7NeverForget/status/2100383722591637930",
+    "https://kulturapress.com/2026/09/19/journalism-history-for-saturday-19th-september-2026/",
+    "https://www.sajr.co.za/swedens-centre-left-wins-tight-election-marred-by-antisemitism-accusations/",
+    "https://www.lemonde.fr/en/pixels/article/2026/09/19/the-lucrative-business-of-reactionary-ai-generated-posts-on-facebook_6757721_13.html"
+  ]
+}
