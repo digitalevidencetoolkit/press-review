@@ -1,0 +1,42 @@
+{
+  "articles": [
+    {
+      "headline_en": "Social-media ban: SPÖ mayor’s case now before the EU",
+      "significance": "The case concerns the unexplained deactivation of a European politician’s Facebook, Instagram and WhatsApp accounts, reportedly after a post about the AfD and Donald Trump.",
+      "source": "oe24, Austria",
+      "summary_en": "Martin Weber, mayor of Tieschen in southeastern Austria and a former member of the Federal Council, has reportedly been unable to use Facebook, Instagram or WhatsApp since the previous week. Meta has not publicly explained the deactivation, while Weber suspects it may be connected to an earlier post discussing the AfD and Donald Trump."
+    },
+    {
+      "headline_en": "Tusk tells Nawrocki to delete post about ‘giving up’ land",
+      "significance": "The dispute shows how social-media posts by senior political figures can become flashpoints over national sovereignty and historical interpretation.",
+      "source": "The New Voice of Ukraine, Ukraine",
+      "summary_en": "Polish Prime Minister Donald Tusk publicly urged President Karol Nawrocki to delete a post stating that Poland might lose or give up territory while preserving its homeland. Tusk responded that Poland would not surrender any part of its territory; Nawrocki rejected the criticism and said the post referred to historical events."
+    },
+    {
+      "headline_en": "Censorship of the ‘Flamingo Revolution’: MEPs demand urgent investigation into Meta",
+      "significance": "The episode raises concerns about mass reporting, mistaken platform enforcement and the removal of political protest content.",
+      "source": "Balkanweb, Albania",
+      "summary_en": "European lawmakers called for an investigation into Meta after numerous accounts publishing material about anti-government protests in Albania were suspended. Reports cited at least 70 cases involving deleted protest posts and videos or restricted accounts; Meta said the removals were errors and that the accounts had been restored, while the European Commission said it was investigating concerns about the suppression of political voices."
+    }
+  ],
+  "editorial_overview": "The week’s reporting points to two main patterns: political confrontations unfolding through public posts, and disputes over platform decisions affecting political or protest-related content. In Poland, a prime minister called on the president to remove a post, but the report indicates no deletion followed. In Albania, mass removals were attributed to Meta enforcement errors and were reportedly reversed, while an Austrian politician’s account deactivation remained unexplained. The available reports do not establish a confirmed government order to remove political speech.",
+  "topic": "European press review: political social-media disputes, content removals and digital speech suppression",
+  "date": "2026-09-24",
+  "citations": [
+    "https://www.oe24.at/a/social-media-sperre-spoe-buergermeister-wird-jetzt-fall-fuer-die-eu-900116232",
+    "https://newswav.com/article/ukraine-russia-war-latest-france-vows-response-after-hybrid-attacks-by-mosc-A2609_QEJLRt",
+    "https://ua.news/en/world/ukrayina-ta-politichna-borotba-u-polshchi-kudi-vede-konflikt-tuska-i-navrotskogo",
+    "https://ua.news/en/world/tusk-rozkritikuvav-navrotskogo-cherez-frazu-pro-vtratu-teritorii-polshchi",
+    "https://english.nv.ua/nation/tusk-tells-polish-president-to-delete-post-about-possibly-giving-up-territory-50642524.html",
+    "https://cms.law/en/bel/legal-updates/cjeu-rules-on-when-the-due-cause-defence-falls-flat-pack",
+    "https://caliber.az/en/post/polish-president-pm-clash-over-remarks-on-giving-up-territory",
+    "https://cms.law/en/int/legal-updates/cjeu-rules-on-when-the-due-cause-defence-falls-flat-pack",
+    "https://www.balkanweb.com/en/censura-ndaj-revolucionit-flamingo-eurodeputetet-kerkojne-hetim-urgjent-per-meta-n-pas-bllokimit-masiv-te-llogarive-qe-raportonin-protestat-ne-shqiperi/",
+    "https://today.rtl.lu/news/luxembourg/ammd-government-rift-widens-eu-pushes-social-media-ban-and-ai-concerns-mount-1779160365",
+    "https://www.craigmurray.org.uk/archives/2026/09/four-days-in-ekaterinburg/",
+    "https://www.kyivpost.com/post/84828",
+    "https://inventa.com/ip-news-insights/opinion/ikea-v-vlaams-belang-free-speech-sold-separately",
+    "https://eu.36kr.com/en/p/3989784591144836",
+    "https://justicenews247.com/2026/09/20/supreme-courts-digest13-20-september-2026/"
+  ]
+}
