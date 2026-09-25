@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "headline_en": "Controversy over abortion fees: SDP MP deletes social-media post criticising the government",
+      "significance": "The case concerns a Finnish opposition politician removing a post after criticism over claims about abortion-related fees, illustrating how political disputes can lead to the deletion of social-media content.",
+      "source": "Ilta-Sanomat — Finland",
+      "summary_en": "Finnish media reported that an SDP member of parliament deleted a social-media post criticising the government in a dispute over abortion-client fees. The National Coalition Party accused the opposition of spreading false information about the fees."
+    },
+    {
+      "headline_en": "NGO asks the European Parliament to investigate the Greens over antisemitism",
+      "significance": "The complaint raises questions about the responsibility of politicians and political parties for hateful or extremist comments posted by third parties on their social-media pages.",
+      "source": "Brussels Signal — Belgium",
+      "summary_en": "An NGO asked the European Parliament to investigate German Green politicians over comments posted on their social-media pages. The complaint alleges that account holders failed to remove posts praising Adolf Hitler, collectively blaming Jews for conflict in the Middle East, or describing Israelis as monsters."
+    },
+    {
+      "headline_en": "Giorgia Meloni’s ‘UN speech’ goes viral in an altered video despite the Italian prime minister not attending the assembly",
+      "significance": "The incident shows how manipulated online political content can falsely attribute controversial statements to a serving European leader and spread through social media.",
+      "source": "International Business Times UK — United Kingdom",
+      "summary_en": "A viral altered video falsely portrayed Italian Prime Minister Giorgia Meloni delivering a speech at the 2026 UN General Assembly and announcing a sanctions policy. The report found no evidence that Meloni attended the assembly or made the statements attributed to her."
+    },
+    {
+      "headline_en": "The lucrative business of reactionary AI-generated posts on Facebook",
+      "significance": "The report highlights the growth of coordinated political-content networks that violate platform rules involving inauthentic behaviour, impersonation, spam and misinformation.",
+      "source": "Le Monde — France",
+      "summary_en": "Le Monde examined networks producing reactionary AI-generated content for Facebook. The networks reportedly operate in coordination and systematically breach platform policies on inauthentic behaviour, impersonation, spam, misinformation and engagement baiting."
+    },
+    {
+      "headline_en": "Veran Matić: Everyone is against KRIK",
+      "significance": "The article discusses concerns in Serbia that proposed changes to public-order legislation could restrict speech and revive forms of censorship associated with the country’s socialist past.",
+      "source": "Vreme — Serbia",
+      "summary_en": "The report said Serbia’s Protector of Citizens, Zoran Pašalić, had announced changes to the Law on Public Order and Peace. Critics feared the changes could amount to a return of the ‘verbal offence’ and censorship of spoken expression formerly associated with Yugoslavia."
+    }
+  ],
+  "editorial_overview": "Coverage during the week focused on several forms of pressure surrounding political speech online: deletion of a politician’s post, complaints about moderation on politicians’ pages, manipulated videos falsely attributed to leaders, and coordinated AI-generated political content. The reports also reflected broader concerns about state or institutional restrictions on expression, particularly in Serbia. The available coverage did not establish a single Europe-wide policy shift, but it showed continuing tension between political communication, platform moderation, misinformation and free-expression protections.",
+  "topic": "European press review: political speech, social-media removals and digital censorship — 18–25 September 2026",
+  "date": "2026-09-25",
+  "citations": [
+    "https://ground.news/article/controversy-over-abortions-sdp-mp-deletes-social-media-post-criticizing-the-government",
+    "https://brusselssignal.eu/2026/09/german-ngo-asks-european-parliament-to-seek-probe-of-greens-over-anti-semitism/",
+    "https://cms.law/en/aut/legal-updates/cjeu-rules-on-when-the-due-cause-defence-falls-flat-pack",
+    "https://cms.law/en/int/legal-updates/cjeu-rules-on-when-the-due-cause-defence-falls-flat-pack",
+    "https://cms.law/en/bel/legal-updates/cjeu-rules-on-when-the-due-cause-defence-falls-flat-pack",
+    "https://inforrm.org/2026/09/24/global-freedom-of-expression-columbia-university-newsletter-24-september-2026/amp/",
+    "https://www.rt.com/news/646029-romania-georgescu-fraud-case/",
+    "https://www.managingip.com/article/2gxa8n1a1u0tsxm4v4npc/sponsored-content/ikea-v-vlaams-belang-free-speech-sold-separately",
+    "https://www.ibtimes.co.uk/altered-video-falsely-shows-meloni-un-speech-1821668",
+    "https://www.euronews.com/2026/09/23",
+    "https://www.thecooldown.com/green-tech/eu-social-media-ban-kids-under-13/",
+    "https://www.euronews.com/2026/09/22/fake-passport-images-claim-zelenskyy-and-family-chose-israel-as-homeland",
+    "https://www.lemonde.fr/en/pixels/article/2026/09/19/the-lucrative-business-of-reactionary-ai-generated-posts-on-facebook_6757721_13.html",
+    "https://vreme.com/en/drustvo/veran-matic-krik-mediji/",
+    "https://www.publicmediaalliance.org/psm-weekly-17-22-september-2026/"
+  ]
+}
