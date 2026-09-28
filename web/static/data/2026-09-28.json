@@ -1,0 +1,66 @@
+{
+  "articles": [
+    {
+      "headline_en": "Controversy over abortion fees: SDP MP deletes social-media post criticising the government",
+      "significance": "The incident illustrates how political disputes over public services can lead politicians to retract social-media statements and accusations.",
+      "source": "Ilta-Sanomat — Finland",
+      "summary_en": "An SDP member of parliament deleted a social-media post criticising the government over abortion-related client fees. The National Coalition Party accused the opposition of spreading false information about the fees."
+    },
+    {
+      "headline_en": "Meloni rival embroiled in AI scandal over edited photo that ‘undressed’ female MP",
+      "significance": "The case highlights the use of manipulated images in political disputes and the moderation challenges posed by synthetic media targeting public figures.",
+      "source": "Euronews — Italy/Europe",
+      "summary_en": "Roberto Vannacci, an Italian politician and leader of the right-wing Futuro Nazionale party, posted an AI-altered image of MP Matilde Siracusano that removed part of her clothing. The image prompted accusations of sexism and offensive conduct and was widely criticised."
+    },
+    {
+      "headline_en": "Italian foreign minister criticised over remarks about women as memes spread online",
+      "significance": "The episode shows how controversial remarks by senior politicians can rapidly become subjects of online ridicule and cross-border public criticism.",
+      "source": "Euronews — Italy/Europe",
+      "summary_en": "Foreign Minister Antonio Tajani continued to face criticism over comments suggesting that women should meet standards associated with wearing long skirts when choosing a partner. Despite an apology and efforts by Prime Minister Giorgia Meloni to end the controversy, the remarks continued to circulate as social-media memes."
+    },
+    {
+      "headline_en": "Bild apologises for photo of Jens Spahn",
+      "significance": "The article concerns the removal of political content by a major news outlet after a privacy complaint and raises questions about the boundary between public-interest reporting and private life.",
+      "source": "Newsroom.de — Germany",
+      "summary_en": "Bild deleted an article about CDU politician Jens Spahn after publishing a photograph showing him with his baby on Sardinia. The publication said the image had been taken in a private setting and breached its own editorial rules, and it apologised."
+    },
+    {
+      "headline_en": "Katherina Reiche shares video about expropriation — The Left files legal complaint",
+      "significance": "The case involves a government ministry’s official social-media channel being used for partisan political messaging and a political party seeking its removal through legal action.",
+      "source": "Der Spiegel — Germany",
+      "summary_en": "Germany’s Left party is taking legal action against Economy Minister Katherina Reiche over an Instagram video distributed by the Federal Ministry for Economic Affairs. The party argues that the video, which warned about antisemitism and expropriation in Berlin while criticising the Left, should no longer be disseminated."
+    },
+    {
+      "headline_en": "Poland modifies social-media post about Nepal after meeting with foreign minister",
+      "significance": "The removal and replacement of an official diplomatic post demonstrates how governments can revise politically sensitive online statements after publication.",
+      "source": "Ratopati — Nepal, reporting on Poland",
+      "summary_en": "Poland’s Foreign Ministry removed and replaced an X post concerning a meeting between Foreign Minister Radosław Sikorski and Nepal’s foreign minister. The revised version retained references to political and economic support but removed an assertion that Nepalis had been forced to fight in Ukraine."
+    },
+    {
+      "headline_en": "Irish politicians question Big Tech, but will anything change?",
+      "significance": "The parliamentary scrutiny reflects continuing disputes over whether platforms adequately detect, restrict, and prevent the spread of harmful content.",
+      "source": "The Irish Times — Ireland",
+      "summary_en": "Irish politicians questioned representatives of TikTok, Meta, and Google about platform safety and content moderation. The committee focused particularly on dangerous-driving material spreading on TikTok and concluded that the platform’s moderation system was not working effectively."
+    }
+  ],
+  "editorial_overview": "The week’s coverage shows several distinct forms of contested online speech: politicians retracting or revising posts, public figures facing backlash over social-media content, and political actors seeking the removal of material through legal or institutional channels. Manipulated political imagery emerged as a prominent concern, particularly where AI-generated content targeted a rival politician. The cases also show that disputes increasingly involve official government accounts, not only personal profiles, while parliamentary scrutiny continues to focus on whether platforms moderate harmful content effectively.",
+  "topic": "European press review: political speech, content removal, and social-media moderation, September 21–28, 2026",
+  "date": "2026-09-28",
+  "citations": [
+    "https://ground.news/article/controversy-over-abortions-sdp-mp-deletes-social-media-post-criticizing-the-government",
+    "https://businessplus.ie/news/social-media-liable-content-laws/",
+    "https://x.com/hori_____zont/status/2103045890218877312/photo/1",
+    "https://www.yahoo.com/news/politics/articles/meloni-rival-ai-scandal-over-141615323.html",
+    "https://www.newsroom.de/news/aktuelle-meldungen/vermischtes-3/bild-entschuldigt-sich-fuer-foto-von-jens-spahn-979958/",
+    "https://www.euronews.com/2026/09/26/serious-women-in-long-skirts-tajani-under-fire-in-memes-and-international-media",
+    "https://www.telegraph.co.uk/world-news/2026/09/27/meloni-rival-in-ai-scandal-over-edited-photo-that-undressed/",
+    "https://www.thetimes.com/world/europe/article/hard-right-leader-doctored-photo-strip-female-mp-0gsjtzg7r",
+    "https://www.spiegel.de/politik/deutschland/katherina-reiche-teilt-ein-video-ueber-enteignung-die-linke-klagt-auf-unterlassung-a-d00cca97-2344-41d3-917f-c0460a8b23a5",
+    "https://english.ratopati.com/story/80321/polish-foreign-ministry-removes-controversial-post-regarding-meeting-with-foreign-minister-khanal",
+    "https://www.spiked-online.com/2026/09/27/the-eus-anti-democracy-shield/",
+    "https://www.bikernet.com/the-mag-deadline-bikernet-weekly-news-for-september-28th-2026/",
+    "https://www.ibtimes.co.uk/altered-video-falsely-shows-meloni-un-speech-1821668",
+    "https://www.n-tv.de/politik/Linke-geht-wegen-Video-gegen-Wirtschaftsministerin-Reiche-vor-id31351699.html",
+    "https://www.irishtimes.com/technology/2026/09/24/politicians-get-to-have-a-go-at-big-tech-but-will-anything-change/"
+  ]
+}
