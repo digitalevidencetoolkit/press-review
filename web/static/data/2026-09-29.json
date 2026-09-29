@@ -1,0 +1,78 @@
+{
+  "articles": [
+    {
+      "headline_en": "Reform MS promises ‘greener Wales’ in AI ‘slop’ Facebook post",
+      "significance": "The post was edited to remove a graphic containing incorrect claims about voter ID, illustrating how political content can be altered after publication and scrutiny.",
+      "source": "Nation.Cymru — Wales, United Kingdom",
+      "summary_en": "Reform MS Steve Bayliss published an AI-generated graphic on Facebook on September 27 as part of a post about making Wales greener. Facebook’s edit history later showed that he removed the graphic after questions were raised about incorrect claims concerning voter identification."
+    },
+    {
+      "headline_en": "Row over AI caricatures of Hillingdon councillor",
+      "significance": "The dispute raises concerns about the use of synthetic political imagery targeting elected officials and calls for stronger protections against such content.",
+      "source": "BBC — United Kingdom",
+      "summary_en": "A west London councillor called for stronger protections for elected officials after AI-generated caricatures depicting her were posted on social media by the local Conservative Party. The report concerns the political use of AI-generated images and the resulting controversy online."
+    },
+    {
+      "headline_en": "Meloni rival in AI scandal over edited photo that ‘undressed’ woman MP",
+      "significance": "The incident demonstrates how digitally manipulated images can be used in political attacks and trigger allegations of sexism.",
+      "source": "The Daily Telegraph via Yahoo News — United Kingdom/Italy",
+      "summary_en": "Italian politician Roberto Vannacci was accused of sexism after reposting a digitally manipulated image depicting rival MP Matilde Siracusano with a plunging neckline. Vannacci said he had not altered the image himself and had reposted it from a blog."
+    },
+    {
+      "headline_en": "French far-right leader Bardella says he has filed lawsuit over antisemitic remarks claim",
+      "significance": "The case shows how alleged private online messages can become a political and legal controversy during an election period.",
+      "source": "Internazionale, reporting Reuters — Italy/France",
+      "summary_en": "Jordan Bardella said he had filed a defamation lawsuit against Mediapart over a report alleging that he made antisemitic remarks in private messages more than a decade ago. He described the report as an attempt to destabilise campaigning ahead of France’s next election."
+    },
+    {
+      "headline_en": "French far right’s Jordan Bardella denies media report he made anti-Semitic comments",
+      "significance": "Bardella’s public denial on X illustrates the role of social media in responding to allegations involving historical digital or private communications.",
+      "source": "France 24 — France",
+      "summary_en": "Jordan Bardella rejected allegations that he had made antisemitic comments, describing them on X as fabricated. The allegations were reported by Mediapart and prompted a public response from the French far-right politician."
+    },
+    {
+      "headline_en": "Controversy over abortions – SDP MP deletes social-media post criticising the government",
+      "significance": "The deletion became part of a dispute over political claims concerning abortion-related fees and alleged misinformation.",
+      "source": "Ilta-Sanomat, reported by Ground News — Finland",
+      "summary_en": "A Finnish SDP MP deleted a social-media post criticising the government over abortion-related issues. The governing National Coalition Party accused the opposition of spreading false information about abortion client fees."
+    },
+    {
+      "headline_en": "MEP Christine Anderson calls for Ursula von der Leyen to be criminally charged and imprisoned",
+      "significance": "The post is an example of highly inflammatory political speech directed at a senior EU official through social media.",
+      "source": "Tomeci — European Union/Germany",
+      "summary_en": "German AfD MEP Christine Anderson published a strongly worded social-media message calling for European Commission President Ursula von der Leyen to be charged, tried and imprisoned. The report said von der Leyen had not publicly responded and that no related criminal investigation was known."
+    },
+    {
+      "headline_en": "Kaja Kallas: EU sanctions against Xenia Fedorova are ‘not censorship’",
+      "significance": "The statement highlights the continuing political dispute over whether government action against alleged disinformation constitutes information protection or censorship.",
+      "source": "Kaja Kallas on X — European Union",
+      "summary_en": "EU foreign-policy chief Kaja Kallas said the EU had sanctioned Xenia Fedorova because of Russian disinformation and deliberate manipulation. She explicitly described the measure as deterrence rather than censorship."
+    },
+    {
+      "headline_en": "Europe wants to ban social media while its enemies weaponise it",
+      "significance": "The article frames proposed European restrictions on social media as part of a broader conflict over foreign disinformation, platform control and freedom of expression.",
+      "source": "Brussels Signal — Belgium",
+      "summary_en": "The article discussed European proposals to respond to foreign disinformation and described social media as a tool used in information warfare. It cited European Commission President Ursula von der Leyen’s remarks about engineered mass movements and so-called cognitive warfare."
+    }
+  ],
+  "editorial_overview": "The coverage shows several forms of political controversy online: deleted or edited posts, AI-manipulated imagery, disputed allegations involving private messages, and inflammatory statements aimed at senior officials. Most cases concern the conduct of politicians or parties rather than formal government orders to remove political speech. The material also reflects a wider European argument over whether sanctions and restrictions targeting disinformation protect the information space or amount to censorship. The available reports do not establish a major new court order requiring removal of political speech during the period reviewed.",
+  "topic": "European press review: political speech, social-media deletions and online content controversies, September 22–29, 2026",
+  "date": "2026-09-29",
+  "citations": [
+    "https://www.yahoo.com/news/politics/articles/meloni-rival-ai-scandal-over-141615323.html",
+    "https://tomeci.eu/en/2026/09/24/%F0%9F%87%AA%F0%9F%87%BA-mep-christine-anderson-demands-that-ursula-von-der-leyen-be-criminally-charged-and-imprisoned-for-all-the-evil-brought-to-eu-citizens/",
+    "https://www.bbc.co.uk/news/articles/c83v47q0165do",
+    "https://nation.cymru/news/reform-ms-promises-greener-wales-in-ai-slop-facebook-post/",
+    "https://ground.news/article/controversy-over-abortions-sdp-mp-deletes-social-media-post-criticizing-the-government",
+    "https://www.france24.com/en/france/20260928-french-far-right-jordan-bardella-denies-alleged-2013-anti-semitic-comments-mediapart-lepen",
+    "https://x.com/hori_____zont/status/2103045890218877312/photo/1",
+    "https://www.ibtimes.co.uk/altered-video-falsely-shows-meloni-un-speech-1821668",
+    "https://x.com/kajakallas/status/2103163201554641348",
+    "https://brusselssignal.eu/2026/09/europe-wants-to-ban-social-media-while-its-enemies-weaponise-it/",
+    "https://www.aa.com.tr/en/energy/general/putin-envoy-links-europes-rising-fuel-costs-to-eu-energy-policies/59805",
+    "https://brusselssignal.eu/2026/09/mep-alexander-sell-demands-appf-scrutiny-of-european-greens-over-antisemitism/",
+    "https://observer.co.uk/news/national/article/nigel-loved-her-the-mystery-woman-looking-after-reforms-billionaire-backers",
+    "https://www.internazionale.it/ultime-notizie-reuters/2026/09/28/french-far-right-leader-bardella-denies-media-claim-he-made-antisemitic-remarks",
+    "https://www.thejournal.ie/denmark-election-results-2026-september-march-peoples-party-triple-debunked-7170457-Sep2026/"
+  ]
+}
