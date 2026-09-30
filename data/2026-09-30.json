@@ -1,0 +1,48 @@
+{
+  "articles": [
+    {
+      "headline_en": "Meloni rival in AI scandal over edited photo that ‘undressed’ woman MP",
+      "significance": "The case illustrates how politically charged social-media posts using manipulated images can trigger accusations of sexism and public backlash.",
+      "source": "Yahoo News, United Kingdom/United States",
+      "summary_en": "Italian politician Roberto Vannacci was criticised after posting an AI-altered image of rival MP Matilde Siracusano that removed part of her clothing and exaggerated her cleavage. Vannacci said he had reposted the image from a blog and had not digitally altered it himself.[5]"
+    },
+    {
+      "headline_en": "Why are pictures of Italy’s Foreign Minister Antonio Tajani in a miniskirt going viral?",
+      "significance": "The episode shows how a politician’s comments about women’s clothing can become a major online controversy, prompting criticism and an apology.",
+      "source": "Euronews, pan-European",
+      "summary_en": "Antonio Tajani faced online mockery and criticism from politicians and the Catholic Church after comments concerning the length of a woman’s skirt. Tajani subsequently apologised and said he had not intended to offend women.[8]"
+    },
+    {
+      "headline_en": "Police question 27 over election-day social-media posts",
+      "significance": "The investigation concerns the state enforcement of a legal blackout covering both paid political advertising and unpaid social-media posts.",
+      "source": "Cyprus Mail, Cyprus",
+      "summary_en": "Cyprus police questioned 27 people over more than 100 social-media posts and advertisements allegedly published during a period when election-related campaigning was prohibited. The investigation followed 127 complaints and includes OPEK president Theano Kalavana, whose post reportedly remained online; the restriction covers the eve of an election and polling day.[14]"
+    },
+    {
+      "headline_en": "Controversy over abortions – SDP MP deletes social-media post criticising the government",
+      "significance": "The reported deletion reflects the political sensitivity surrounding online claims about abortion-related fees and opposition criticism of government policy.",
+      "source": "Ilta-Sanomat, Finland",
+      "summary_en": "An SDP member of parliament deleted a social-media post criticising the government in a dispute over abortion-related client fees. The National Coalition Party accused the opposition of spreading false information about the fees.[3]"
+    }
+  ],
+  "editorial_overview": "The reporting gathered for the week shows several forms of politically consequential online speech. Individual politicians faced backlash over manipulated imagery and comments about women, while another legislator reportedly removed a post amid a dispute over abortion-related claims. In Cyprus, authorities are investigating social-media activity under a statutory election-period ban that applies to both paid and unpaid content. The available results provide limited evidence of court-ordered removals or direct platform moderation actions during the period.",
+  "topic": "European press review: political speech, social-media controversies and online content controls, 23–30 September 2026",
+  "date": "2026-09-30",
+  "citations": [
+    "https://x.com/diehljoerg/status/2103378870149788028",
+    "https://x.com/hori_____zont/status/2103045890218877312/photo/1",
+    "https://ground.news/article/controversy-over-abortions-sdp-mp-deletes-social-media-post-criticizing-the-government",
+    "https://www.bikernet.com/the-mag-deadline-bikernet-weekly-news-for-september-28th-2026/",
+    "https://www.yahoo.com/news/politics/articles/meloni-rival-ai-scandal-over-141615323.html",
+    "https://www.restoringthewest.com/p/censorship-and-freedom-they-really",
+    "https://www.europeaninterest.eu/student-protests-fuel-political-clashes-ahead-of-presidential-campaign-in-france/",
+    "https://www.euronews.com/2026/09/29/why-are-pictures-of-italys-foreign-minister-antonio-tajani-in-a-miniskirt-going-viral",
+    "https://inforrm.org/2026/09/24/global-freedom-of-expression-columbia-university-newsletter-24-september-2026/amp/",
+    "https://knews.kathimerini.com.cy/en/news/police-investigate-27-people-over-potentially-illegal-election-posts",
+    "https://www.spiked-online.com/2026/09/27/the-eus-anti-democracy-shield/",
+    "https://www.wsws.org/en/articles/2026/09/30/rjry-s30.html",
+    "https://news-pravda.com/world/2026/09/26/2622589.html",
+    "https://cyprus-mail.com/2026/09/28/police-question-27-over-election-day-social-media-posts",
+    "https://thenationalpulse.com/2026/09/28/the-man-behind-the-machine-who-is-rahm-emanuel-and-could-he-go-all-the-way-for-the-democrats/"
+  ]
+}
