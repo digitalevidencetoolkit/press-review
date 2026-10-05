@@ -1,0 +1,48 @@
+{
+  "articles": [
+    {
+      "headline_en": "Saxony’s Ministry of the Interior Deletes Post About Berlin’s Left Party",
+      "significance": "The case concerns the removal of political content published through official government social-media accounts after legal pressure from a political party.",
+      "source": "Die Sachsen (Germany)",
+      "summary_en": "Saxony’s Interior Ministry deleted a post about the Left Party after the Berlin branch of the party threatened legal action. The post, shared on the ministry’s official Instagram and X accounts, criticised the party’s Berlin election victory and raised concerns about antisemitism and criminal clans; Interior Minister Armin Schuster rejected the suggestion that it was intended to damage a political competitor."
+    },
+    {
+      "headline_en": "Post on Ministry Account: Saxony’s Interior Ministry Deletes Post About Berlin’s Left Party",
+      "significance": "It illustrates how legal complaints can lead a government institution to remove politically contentious online speech.",
+      "source": "Die Zeit (Germany)",
+      "summary_en": "Die Zeit reported that Saxony’s Interior Ministry removed a controversial social-media post following legal action by Berlin’s Left Party. The post had been published after the party’s election victory in Berlin, and the party’s lawyers demanded that the ministry issue a cease-and-desist declaration by October 2."
+    },
+    {
+      "headline_en": "Turkey Blocks EngelliWeb X Account That Documents Internet Censorship",
+      "significance": "The reported restrictions target both journalists and an account documenting state-imposed online censorship, raising concerns about transparency and access to political information.",
+      "source": "Turkish Minute (Turkey)",
+      "summary_en": "Turkish authorities reportedly blocked access to the X account of EngelliWeb, which monitors and documents internet censorship in Turkey. The article also reported blocks on numerous journalists’, lawyers’ and media accounts, the closure of T24’s website and social-media accounts over alleged “LGBT propaganda,” and restrictions linked to posts about the country’s financial crisis."
+    },
+    {
+      "headline_en": "Netanyahu Ordered to Remove Campaign Videos That Used Military Public Resources",
+      "significance": "A court-ordered takedown involving a prominent political figure shows how judicial authorities can require the removal of campaign material from social-media accounts.",
+      "source": "Anadolu Agency (Turkey)",
+      "summary_en": "Anadolu Agency reported that Benjamin Netanyahu was ordered to remove campaign videos from his social-media accounts because they used military public resources. The order also required him to pay the petitioners 29,000 shekels in legal fees."
+    }
+  ],
+  "editorial_overview": "The articles point to several forms of political-content restriction across Europe and its wider regional news space. One case involved a government ministry deleting a post after a political party’s legal challenge, while another involved a court ordering campaign videos removed from a politician’s accounts. Reports from Turkey describe broader restrictions affecting journalists, political commentary, independent media and an account dedicated to tracking online censorship. The material indicates that online speech is being constrained through a combination of legal pressure, court orders and administrative blocking, although the available reports do not establish a single Europe-wide trend.",
+  "topic": "European press review: political social-media removals, online censorship and moderation controversies",
+  "date": "2026-10-05",
+  "citations": [
+    "https://www.diesachsen.de/en/politics/saxonys-ministry-of-the-interior-deletes-post-about-berlins-left-party-3187283",
+    "https://www.zeit.de/news/2026-10/03/saechsisches-innenministerium-loescht-post-zu-berliner-linken",
+    "https://apollo-news.net/nach-juristischer-offensive-der-linken-ministerium-knickt-ein-und-lscht-social-media-post/",
+    "https://www.public.news/p/fake-news-on-french-riots-rips-away",
+    "https://www.todayville.com/moncton-denies-cancellation-of-christian-worship-event-restricted-free-expression/",
+    "https://reclaimthenet.org/macron-urges-eu-faster-online-censorship",
+    "https://agenceurope.eu/en/bulletin/article/13950/10/women-want-to-see-results-119-meps-call-on-commission-to-enforce-ban-on-nudifiers",
+    "https://www.institude.org/news-bulletins/weekly-news-bulletin-on-turkey-october-5-2026",
+    "https://ground.news/article/european-commission-deploys-censorship-network-for-hungarian-elections",
+    "https://www.imommy.gr/2026/10/01/i-eyropi-epixeirei-na-valei-freno-sta-social-media-gia-ta-paidia/",
+    "https://www.naturalnews.com/2026-10-02-macron-demands-faster-eu-censorship-enforcement.html",
+    "https://lionessofjudah.substack.com/p/end-times-headline-news-october-2-265",
+    "https://www.politico.com/news/magazine/2026/10/04/the-web-of-walls-01086201",
+    "https://www.turkishminute.com/2026/10/01/turkey-blocks-engelliweb-x-account-that-documents-internet-censorship/",
+    "https://www.aa.com.tr/en/middle-east/netanyahu-ordered-to-remove-campaign-videos-that-used-military-public-resources/4077911"
+  ]
+}
