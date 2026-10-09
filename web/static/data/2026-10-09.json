@@ -1,0 +1,66 @@
+{
+  "articles": [
+    {
+      "headline_en": "Saxony’s Interior Ministry Deletes Post About Berlin’s Left Party",
+      "significance": "The case illustrates the use of official government social-media accounts for partisan political messaging and the legal pressure that can lead to removal.",
+      "source": "DieSachsen.de — Germany",
+      "summary_en": "Saxony’s Interior Ministry deleted a post published on its official Instagram and X accounts after Berlin’s Left Party, through a law firm, demanded that it stop using the content. The post criticised the party’s Berlin election victory, linking it to concerns about antisemitism and criminal clans; Interior Minister Armin Schuster denied that it was intended to damage a political rival."
+    },
+    {
+      "headline_en": "‘F**k Israel’: Left Party MP Posts Profane Instagram Video Targeting Trump, Israel and the Mainstream Media",
+      "significance": "The incident highlights how political figures use social media to make inflammatory statements on highly polarised international issues.",
+      "source": "Rûûмx News — Germany",
+      "summary_en": "German Left Party Bundestag member Cansın Köktürk posted an Instagram video containing profane denunciations of Israel, Israeli Prime Minister Benjamin Netanyahu, US President Donald Trump, mainstream media and people who disagreed with her. The report identifies Köktürk as the party’s social-policy spokesperson and says the video was posted over the weekend."
+    },
+    {
+      "headline_en": "Trump Says Islam Is Taking Over France as Student Protests Continue",
+      "significance": "The episode shows how a political leader used social media to frame an ongoing European protest movement through claims about migration and religion.",
+      "source": "Truthout — United States, reporting on France",
+      "summary_en": "Donald Trump used Truth Social to attribute student mobilisations in France to what he described as uncontrolled mass migration and Islam seeking to take over the country. The post appeared as French police confronted student protesters, including with tear gas, according to the report."
+    },
+    {
+      "headline_en": "France’s Le Pen Opposes Ukraine’s EU Membership, Citing Risks to French Agriculture",
+      "significance": "The report demonstrates the use of a social-media video by a major European political figure to communicate a controversial position on Ukraine’s potential EU accession.",
+      "source": "The Kyiv Independent — Ukraine",
+      "summary_en": "Marine Le Pen said in a video posted to social media that France would be among the first countries to suffer if Ukraine joined the European Union. She argued that Ukraine’s agricultural sector would increase competition and reduce France’s share of Common Agricultural Policy subsidies."
+    },
+    {
+      "headline_en": "Brandenburg’s Interior Minister Does Not Delete Post About the Left",
+      "significance": "The dispute raises questions about whether government ministers may use official or political social-media channels to attack electoral opponents and whether such content can be legally compelled to be removed.",
+      "source": "Ground News — Germany",
+      "summary_en": "The Berlin Left took legal action against Brandenburg Interior Minister Jan Redmann after he warned against a government led by the party on social media. The report said the criticised video remained online despite a demand for its removal."
+    },
+    {
+      "headline_en": "Dispute Over Removal of Israeli Flag Engulfs the European Parliament",
+      "significance": "The case combines a controversy involving a political figure, alleged online promotion of terrorism and institutional disputes over politically sensitive speech.",
+      "source": "Euronews — European Union",
+      "summary_en": "Euronews reported a dispute at the European Parliament concerning the removal of an Israeli flag. It also noted that French MEP Rima Hassan was awaiting trial over allegations that a post on X promoted terrorism by referring to a Japanese man responsible for a 1970s terror attack in Israel."
+    },
+    {
+      "headline_en": "French MEP Rima Hassan Investigated Over Alleged Israeli-Flag Incident in Strasbourg",
+      "significance": "The report shows how political expression online and conduct at a public political institution can become linked to criminal or disciplinary scrutiny.",
+      "source": "Sweden Herald — Sweden",
+      "summary_en": "French MEP Rima Hassan was reportedly investigated after allegedly throwing an Israeli flag to the floor during an argument with an artist in Strasbourg. The article also said she was under investigation in France over a social-media post allegedly condoning terrorism."
+    }
+  ],
+  "editorial_overview": "The articles show several forms of contested political speech online across Europe: official government accounts being used for partisan messaging, politicians posting inflammatory statements, and social-media content becoming the subject of legal or criminal scrutiny. Germany provides the clearest examples of removal disputes, with one ministry deleting a post after legal pressure while another minister reportedly left a challenged post online. Other reports concern controversial statements by prominent politicians on migration, Israel, Ukraine and religion, but the available coverage does not establish that the platforms themselves removed the content. The cases underline the tension between political expression, official institutional communication and restrictions intended to address alleged defamation, incitement or support for terrorism.",
+  "topic": "European press review: political social-media controversies, content removal and digital speech suppression (October 2–9, 2026)",
+  "date": "2026-10-09",
+  "citations": [
+    "https://www.diesachsen.de/en/politics/saxonys-ministry-of-the-interior-deletes-post-about-berlins-left-party-3187283",
+    "https://truthout.org/articles/as-french-police-teargas-students-trump-blames-protests-on-mass-migration/",
+    "https://rmx.news/article/fk-israel-left-party-member-goes-ballistic-on-instagram-against-trump-israel-and-the-mainstream-media/",
+    "https://www.straitstimes.com/world/europe/french-mayor-caught-in-viral-video-clash-says-student-protesters-could-be-my-children",
+    "https://www.yahoo.com/news/world/articles/french-street-protests-being-used-053000151.html",
+    "https://kyivindependent.com/frances-le-pen-opposes-ukraine-eu-membership-over-farming-fears/",
+    "https://www.tag24.com/en/news/politics/politicians/donald-trump/trump-uses-student-protests-in-france-to-rail-against-mass-migration-and-islam-as-maga-backs-him-up-3538127",
+    "https://www.israeldefense.co.il/en/node/71516",
+    "https://ground.news/article/despite-writing-to-the-law-firm-why-jan-redmann-does-not-delete-his-post-on-the-left",
+    "https://www.euronews.com/2026/10/07/spat-over-israeli-flag-removal-engulfs-the-european-parliament-on-october-7-anniversary",
+    "https://www.dailymaverick.co.za/article/2026-10-07-european-parliament-bans-far-right-politicians-sa-exhibition/?dm_medium=card-link&dm_campaign=top_reads&dm_position=6",
+    "https://www.dailymaverick.co.za/article/2026-10-07-european-parliament-bans-far-right-politicians-sa-exhibition/?dm_source=blocks-grid-wide&dm_medium=card-link&dm_campaign=inform&dm_position=1",
+    "https://www.aol.com/articles/donald-trump-declares-islam-trying-154100000.html",
+    "https://swedenherald.com/article/french-mep-rima-hassan-investigated-over-alleged-israeli-flag-incident-in-strasbourg",
+    "https://www.europesays.com/3296535/"
+  ]
+}
