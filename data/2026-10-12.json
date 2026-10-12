@@ -1,0 +1,61 @@
+{
+  "articles": [
+    {
+      "headline_en": "Map depicting French territories as part of Germany sparks backlash in France",
+      "significance": "The episode illustrates how a deleted social-media post by a political figure can provoke cross-border controversy and renewed scrutiny of nationalist messaging.",
+      "source": "AzerNews — Azerbaijan",
+      "summary_en": "Helmut Strauß, a leadership member of the AfD’s youth organisation, posted an X map showing Alsace and Moselle, along with parts of several neighbouring countries, as belonging to Germany. He later deleted the post, but French politicians condemned it and the controversy continued after its removal."
+    },
+    {
+      "headline_en": "Trump blames France unrest on Islam and migration",
+      "significance": "The case shows how a prominent political figure used social media to make inflammatory claims about unrest in a European country, potentially affecting public debate and perceptions of protests.",
+      "source": "Agence France-Presse — France",
+      "summary_en": "Donald Trump wrote on Truth Social that unrest in France was caused by “out of control mass migration” and claimed that Islam wanted to take over. The comments targeted student mobilisations and drew attention because they came from a major international political figure commenting on events in Europe."
+    },
+    {
+      "headline_en": "Metsola to take action after MEP Rima Hassan removes Israeli flag",
+      "significance": "The incident raises questions about parliamentary discipline, political expression and the limits placed on elected representatives’ conduct around a politically sensitive memorial.",
+      "source": "Euronews — Pan-European",
+      "summary_en": "French-Palestinian MEP Rima Hassan removed Israeli and EU flags from an exhibition commemorating victims of the 7 October Hamas attacks and reportedly threw an Israeli flag to the floor. European Parliament President Roberta Metsola said she would take “all appropriate steps,” while Hassan is also awaiting trial in France over alleged online remarks linked by prosecutors to an apology for terrorism."
+    },
+    {
+      "headline_en": "Spat over Israeli flag removal engulfs the European Parliament on October 7 anniversary",
+      "significance": "The article links an offline parliamentary dispute with ongoing legal scrutiny of political speech posted online, highlighting tensions between protest, institutional rules and counter-terrorism law.",
+      "source": "Euronews — Pan-European",
+      "summary_en": "The dispute over Rima Hassan’s removal of flags from an October 7 memorial continued inside the European Parliament. Euronews reported that Hassan was awaiting trial over allegations concerning an X post referring to a Japanese man responsible for a 1970s terror attack in Israel."
+    },
+    {
+      "headline_en": "Kremlin-linked Matryoshka bots accuse France’s Macron of militarism and Germany’s Merz of profiting from aid to Ukraine",
+      "significance": "The reported campaign demonstrates how coordinated online networks can manipulate political speech and target European leaders through fabricated content distributed across platforms.",
+      "source": "The Insider — Latvia/United Kingdom",
+      "summary_en": "The Insider reported that a Kremlin-linked bot network spread contradictory claims portraying French President Emmanuel Macron as either dangerously militaristic or weak, while falsely accusing German Chancellor Friedrich Merz of personally profiting from aid to Ukraine. The operation allegedly used fake profiles, anonymous platforms and fabricated videos imitating legitimate media."
+    },
+    {
+      "headline_en": "From Sheinbaum to Meloni: world leaders push measures to protect themselves from AI deepfakes",
+      "significance": "The issue illustrates the growing political impact of synthetic media and the pressure on governments and platforms to regulate manipulated content targeting public figures.",
+      "source": "El País — Spain",
+      "summary_en": "El País reported that at least 46 female members of the European Parliament had appeared in hyperrealistic AI-generated pornographic images. Italian Prime Minister Giorgia Meloni has sought to register her voice as an EU trademark, while European officials have called for stronger enforcement against non-consensual sexual deepfakes."
+    },
+    {
+      "headline_en": "Watch: ‘It Must Stop’ — Metsola condemns sexualised deepfakes targeting women",
+      "significance": "The controversy concerns the use of fabricated sexual content to intimidate elected politicians and prompts demands for stronger platform enforcement and legal action.",
+      "source": "Lovin Malta — Malta",
+      "summary_en": "European Parliament President Roberta Metsola condemned AI-generated sexual images targeting around 60 MEPs, most of them women. She called for stronger enforcement of the Digital Services Act and implementation of EU rules criminalising the non-consensual public sharing of sexual deepfakes."
+    }
+  ],
+  "editorial_overview": "The week’s coverage centres on inflammatory political content, deleted posts and increasingly sophisticated manipulation of online speech. Several cases involve public figures whose social-media activity triggered diplomatic or institutional backlash, while others concern coordinated disinformation and synthetic sexual imagery targeting politicians. European officials are responding through parliamentary discipline, criminal-law scrutiny and calls for tougher platform and AI regulation. The reported incidents show that disputes over political speech now extend across social platforms, legislatures and courts.",
+  "topic": "European press review: political social-media controversies, content removal and digital speech suppression",
+  "date": "2026-10-12",
+  "citations": [
+    "https://www.euronews.com/2026/10/06/metsola-to-take-action-after-mep-rima-hassan-removes-israeli-flag",
+    "https://www.yahoo.com/news/politics/articles/italys-prime-minister-giorgia-meloni-053000049.html",
+    "https://truthout.org/articles/as-french-police-teargas-students-trump-blames-protests-on-mass-migration/",
+    "https://www.afp.com/en/trump-blames-france-unrest-islam-migration",
+    "https://www.azernews.az/region/265356.html",
+    "https://www.algemeiner.com/2026/10/06/eu-lawmaker-rima-hassan-sparks-fierce-backlash-removing-israeli-eu-flags-oct-7-memorial/",
+    "https://www.euronews.com/2026/10/07/spat-over-israeli-flag-removal-engulfs-the-european-parliament-on-october-7-anniversary",
+    "https://english.elpais.com/technology/2026-10-07/from-sheinbaum-to-meloni-world-leaders-push-measures-to-protect-themselves-from-ai-deepfakes.html",
+    "https://theins.press/en/news/298069",
+    "https://lovinmalta.com/international/watch-it-must-stop-metsola-condemns-sexualised-deepfakes-targeting-women/"
+  ]
+}
