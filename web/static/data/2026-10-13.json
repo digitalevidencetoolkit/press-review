@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "headline_en": "Did France’s far-right Bardella delete antisemitic posts?",
+      "significance": "The report concerns allegations that a prominent French political leader removed material from an earlier Facebook account, while his party denied that he had deleted any messages.",
+      "source": "Euronews Deutschland — Germany",
+      "summary_en": "Euronews reported that media outlet Le Canard Enchaîné alleged that data from a Facebook account used by Jordan Bardella during his early activism was deleted between 28 September and 2 October. Bardella’s party denied that he had ever accessed such an account or deleted messages, while the report said the allegations involved extracts from private conversations and another account allegedly being emptied. [1]"
+    },
+    {
+      "headline_en": "German far-right politician resigns after posting a ‘Greater Germany’ map including parts of Hungary",
+      "significance": "The episode illustrates how controversial territorial political content posted online can trigger public backlash, deletion of the post and political consequences.",
+      "source": "Daily News Hungary — Hungary",
+      "summary_en": "The outlet reported that Luca Mauritz Strauß, a politician associated with Germany’s Alternative für Deutschland youth organisation, posted an X map depicting parts of several European countries as part of a unified Germany. After criticism, he deleted the post, made his account private or inaccessible, and resigned from a leadership position. [7]"
+    },
+    {
+      "headline_en": "Brandenburg’s Interior Minister does not delete post about the Left despite legal pressure",
+      "significance": "The case raises questions about whether a government minister’s political social-media messaging should be removed after a rival party alleges unequal treatment and seeks legal remedies.",
+      "source": "Ground News summary of German reports — Germany",
+      "summary_en": "The report said Brandenburg Interior Minister Jan Redmann continued circulating a social-media video warning against a left-wing government after the Berlin Left demanded that he stop using it. The Left reportedly pursued legal action, arguing that the post violated its right to equal political opportunities. [6]"
+    },
+    {
+      "headline_en": "End internet censorship in Türkiye",
+      "significance": "The report documents a broader pattern of state restrictions on online speech and access, with blocking decisions reportedly relying on a Turkish legal provision that permits urgent intervention.",
+      "source": "Human Rights Watch — United States, covering Türkiye",
+      "summary_en": "Human Rights Watch said Türkiye had issued numerous internet-blocking decisions during September and October, most invoking Article 8/A of the country’s Internet Law. The organisation called for an end to internet censorship, while a related statement said the measures represented a recent escalation in restrictions. [9][10]"
+    },
+    {
+      "headline_en": "Blocking journalists’ accounts becomes a topic of discussion at the Council of Europe",
+      "significance": "The issue places restrictions on journalists’ and public figures’ social-media accounts within a wider European debate about digital access and political speech.",
+      "source": "Ground News summary of Council of Europe coverage — Europe",
+      "summary_en": "The report said Gökçe Gökçen, a Turkish member of parliament, raised social-media restrictions during a Council of Europe General Assembly speech. The discussion framed the blocking of journalists’ accounts as an international problem rather than an isolated national dispute. [8]"
+    }
+  ],
+  "editorial_overview": "The week’s coverage focused on political figures deleting or retaining controversial posts, alongside wider concerns about state restrictions on online speech. Several cases involved far-right or partisan political messaging that prompted backlash, legal pressure or resignations. Türkiye featured prominently in reports about formal blocking measures and internet censorship, while Council of Europe discussion reflected concern about restrictions affecting journalists. The available reports include allegations and denials, so claims about deleted content should be treated cautiously.",
+  "topic": "European press review: political social-media deletions, controversial online speech, content removal and censorship",
+  "date": "2026-10-13",
+  "citations": [
+    "https://de.euronews.com/2026/10/10/antisemitismus-frankreich-bardella-facebook",
+    "https://ground.news/article/eus-dangerous-censorship-house-exposes-europes-threat-to-us-free-speech-at-fiery-hearing",
+    "https://russianbots.america2.news/",
+    "https://economictimes.indiatimes.com/news/videos/eus-dangerous-censorship-house-exposes-europes-threat-to-us-free-speech-at-fiery-hearing/podcast/134902083.cms",
+    "https://www.freedom-research.org/p/news-round-up-uk-keeps-suspicious",
+    "https://ground.news/article/despite-writing-to-the-law-firm-why-jan-redmann-does-not-delete-his-post-on-the-left",
+    "https://dailynewshungary.com/german-far-right-resign-germany-map-hungary/",
+    "https://ground.news/article/blocking-journalists-accounts-became-a-topic-of-discussion-at-the-council-of-europe-a-global-problem",
+    "https://aej.org/joint-statement-on-the-recent-escalation-of-internet-censorship-in-turkiye/",
+    "https://www.hrw.org/news/2026/10/12/turkiye-end-internet-censorship"
+  ]
+}
