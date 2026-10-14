@@ -1,0 +1,55 @@
+{
+  "articles": [
+    {
+      "headline_en": "Did France’s far-right Bardella delete antisemitic posts?",
+      "significance": "The report concerns the alleged deletion of historical Facebook content by Jordan Bardella, leader of France’s National Rally, amid accusations that the material contained antisemitic content.",
+      "source": "Euronews, Germany",
+      "summary_en": "Euronews reported that investigative newspaper Le Canard Enchaîné said data from a Facebook account used by Bardella during his early activism had been deleted between 28 September and 2 October. Bardella’s party denied that he had accessed a Facebook account or deleted messages, while the newspaper reportedly said he had returned to another account and emptied it."
+    },
+    {
+      "headline_en": "AfD youth leader posts controversial Greater Germany map, triggering reactions from neighbours",
+      "significance": "The incident shows how a political figure’s social-media post depicting the annexation of neighbouring territories can cause cross-border diplomatic and political controversy.",
+      "source": "Večernji list, Croatia",
+      "summary_en": "Luca Moritz Strauß, a senior figure in the youth wing of Germany’s AfD, posted an X map showing Germany incorporating Austria, Luxembourg, much of Switzerland, and parts of France, Poland, Italy and other countries. After criticism, particularly over the depiction of Alsace and Lorraine as German, he deleted the post and made his account private."
+    },
+    {
+      "headline_en": "German far-right politician resigns after posting ‘Greater Germany’ map including areas of Hungary",
+      "significance": "The controversy escalated beyond content deletion: the post contributed to the resignation of an AfD youth-organisation leader and prompted political reactions in Hungary and elsewhere.",
+      "source": "Daily News Hungary, Hungary",
+      "summary_en": "The outlet reported that Luca Moritz Strauß shared a map on X depicting parts of several European countries, including Hungary, as part of a unified Germany. The post was deleted after widespread criticism, and Strauß resigned from a leadership role in the AfD youth organisation; screenshots continued to circulate."
+    },
+    {
+      "headline_en": "‘Sopron is Hungary. Period.’ TISZA MP demands answers from Fidesz after German far-right map controversy",
+      "significance": "The deleted post became part of Hungary’s domestic political debate over ties between Hungarian parties and Germany’s AfD.",
+      "source": "Daily News Hungary, Hungary",
+      "summary_en": "TISZA MP and Deputy Speaker Anikó Hallerné Nagy criticised a map that depicted Sopron as German territory and called on Fidesz and Mi Hazánk to distance themselves from the AfD. The report said the map had been deleted and that its creator had stepped down after the backlash."
+    },
+    {
+      "headline_en": "France accuses Musk of ‘online harassment’ of European leaders",
+      "significance": "The dispute links a major platform owner’s political messaging to concerns about online influence and possible interference in France’s 2027 presidential election.",
+      "source": "The Philippine Daily Inquirer, Philippines",
+      "summary_en": "France’s foreign minister accused Elon Musk of engaging in online harassment of European leaders and warned of possible interference in France’s forthcoming presidential election. The report also said Musk posted on X that immigration was a gradual invasion and accused supporters of it of betraying their countries."
+    },
+    {
+      "headline_en": "Social liberals file complaint over alarmist social-media posts",
+      "significance": "The complaint illustrates how political social-media imagery can prompt formal action when opponents argue that it stigmatizes protesters or risks inciting hostility.",
+      "source": "The Brussels Times, Belgium",
+      "summary_en": "DéFI leader Sophie Rohonyi said she filed a report with Brussels prosecutors and Unia over a post by Belgium’s MR party and its leader. She objected to an image styled as a school-supplies list that included Molotov cocktails and fireworks aimed at police, arguing that it portrayed part of the population as violent."
+    }
+  ],
+  "editorial_overview": "The reported cases centre on political actors deleting or restricting access to social-media content after backlash, rather than on confirmed government-ordered removals or court-mandated takedowns. The alleged Bardella deletions concern historical material and remain disputed by his party. The AfD map generated the clearest cross-border consequences, including account restriction, resignation and reactions from neighbouring countries. Separately, criticism of Elon Musk’s posts reflects growing concern among European officials about platform-owner influence over political debate and elections.",
+  "topic": "European press review: political social-media deletions, controversial posts and online speech disputes",
+  "date": "2026-10-14",
+  "citations": [
+    "https://globalnation.inquirer.net/341937/france-accuses-musk-of-online-harassment-of-europe-leaders",
+    "https://de.euronews.com/2026/10/10/antisemitismus-frankreich-bardella-facebook",
+    "https://www.vecernji.hr/vijesti/celnik-afd-ove-mladezi-objavio-skandaloznu-kartu-velike-njemacke-uslijedile-burne-reakcije-susjeda-2003597",
+    "https://dailynewshungary.com/german-far-right-resign-germany-map-hungary/",
+    "https://dailynewshungary.com/sopron-is-hungary-tisza-mp-fidesz-afd/",
+    "https://www.dailysabah.com/world/europe/france-accuses-musk-of-online-harassment-warns-of-election-meddling",
+    "https://www.brusselstimes.com/2355386/social-liberals-file-complaint-over-alarmist-social-media-posts",
+    "https://www.azernews.az/region/265356.html",
+    "https://russianbots.america2.news/",
+    "https://ground.news/article/afd-politician-forced-to-resign-over-map-that-annexed-hungarian-territories"
+  ]
+}
