@@ -1,0 +1,55 @@
+{
+  "articles": [
+    {
+      "headline_en": "Top German court orders cabinet minister to delete video accusing Left Party of antisemitism",
+      "significance": "The case is a significant judicial intervention in political communication from an official government account, while preserving the minister’s right to express the view privately or as a politician.",
+      "source": "Anadolu Agency — Türkiye/Germany",
+      "summary_en": "Germany’s Federal Constitutional Court ordered Economy Minister Katherina Reiche to remove an Instagram video from her ministry’s official account. The video accused the Left Party of openly embracing antisemitism; the court said the post could infringe the party’s equal participation in political competition and ordered it to remain offline pending a final decision, for no longer than six months.[2]"
+    },
+    {
+      "headline_en": "A “Greater Germany” map claiming territory from 12 other countries: AfD youth leadership member steps down “for personal reasons”",
+      "significance": "The episode shows how a deleted political post can continue circulating through screenshots and trigger consequences for a public figure and party organisation.",
+      "source": "Meta.mk — North Macedonia/Germany",
+      "summary_en": "Luca Maurice Strauf, a leader in the youth wing of Germany’s Alternative for Germany, posted a map showing parts of 12 European countries as German territory. He deleted the post after criticism, but screenshots continued to circulate, and the organisation later announced that he had stepped down from its federal leadership.[8]"
+    },
+    {
+      "headline_en": "‘Sopron is Hungary. Period.’ TISZA MP demands answers from Fidesz after German far-right map prompts controversy",
+      "significance": "The controversy extended beyond Germany, illustrating how inflammatory political imagery on social media can provoke cross-border disputes and pressure allied parties to respond.",
+      "source": "Daily News Hungary — Hungary",
+      "summary_en": "A TISZA Party MP criticised a map shared by an AfD youth-wing figure that depicted Hungary’s Sopron and other neighbouring territories as part of an expanded Germany. The post was deleted, its creator resigned, and the Hungarian lawmaker called on Fidesz and Mi Hazánk to distance themselves from their German far-right partners.[9]"
+    },
+    {
+      "headline_en": "France accuses Musk of ‘online harassment’ of Europe leaders",
+      "significance": "The allegation places platform-owner conduct and political influence at the centre of concerns about online harassment and possible interference in a future European election.",
+      "source": "The Philippine Daily Inquirer — Philippines/France",
+      "summary_en": "France’s foreign minister accused Elon Musk of running online harassment campaigns against European leaders through X. The minister also warned of a risk of interference in France’s 2027 presidential election, amid Musk’s public commentary on unrest in France.[6]"
+    },
+    {
+      "headline_en": "Polish politician mocks Europe chaos as protests rock multiple countries",
+      "significance": "The post is an example of a European politician using social media to make inflammatory claims about migration, political opponents and unrest in other European countries.",
+      "source": "News.com.au — Australia/Poland",
+      "summary_en": "Polish politician Dominik Tarczyński posted a video filmed during a late-night walk in Warsaw, contrasting Poland with France and blaming left-wing politics and migration for unrest. He said opponents would pay politically and presented the video as an argument for his political position.[1]"
+    },
+    {
+      "headline_en": "Magyar links French riots to migration, says ‘shocking scenes’ justify hard line",
+      "significance": "The comments demonstrate how violent events can be used in political social-media messaging to reinforce restrictive migration policies and intensify public controversy.",
+      "source": "AOL UK — United Kingdom/Hungary",
+      "summary_en": "Hungarian Prime Minister Péter Magyar linked riots in France to immigration in a social-media post accompanied by video of burning buildings. He said the scenes vindicated Hungary’s tough migration stance, and the remarks attracted criticism in Hungary.[3]"
+    }
+  ],
+  "editorial_overview": "The week’s coverage combines a direct court-ordered removal of political content with several controversies involving deleted or inflammatory posts. Germany’s constitutional court case highlights the distinction between official government communication and private political speech. Other reports show social-media posts about migration, national identity and unrest travelling across borders and generating political pressure even after deletion. The material also points to wider concern about platform owners’ political influence and alleged harassment of European leaders.",
+  "topic": "European press review: political social-media controversies, content removal and digital speech suppression",
+  "date": "2026-10-19",
+  "citations": [
+    "https://www.news.com.au/finance/economy/world-economy/you-will-pay-for-it-polish-politician-mocks-europe-chaos-as-protests-rock-multiple-countries/news-story/24ade481d4d88d6296bacb81556fcb31",
+    "https://www.aa.com.tr/en/europe/top-german-court-orders-cabinet-minister-to-delete-video-accusing-left-party-of-antisemitism/4091037",
+    "https://www.aol.co.uk/articles/magyar-links-french-riots-migration-162257000.html",
+    "https://www.afp.com/en/macron-denounces-unbridled-violence-france-hit-new-clashes",
+    "https://www.yahoo.com/news/world/articles/zelensky-meets-belgian-prime-minister-210531294.html",
+    "https://globalnation.inquirer.net/341937/france-accuses-musk-of-online-harassment-of-europe-leaders",
+    "https://www.billionaires.africa/2026/10/14/south-african-born-billionaire-elon-musk-accused-by-france-of-harassing-european-leaders/",
+    "https://metla.mk/en/news/afd-map-greater-germany/",
+    "https://dailynewshungary.com/sopron-is-hungary-tisza-mp-fidesz-afd/",
+    "https://www.newsbreak.com/ok-magazine-561398/4946152443311-french-foreign-minister-says-elon-musk-launched-massive-online-harassment-campaigns-against-european-leaders-to-influence-political-debate"
+  ]
+}
