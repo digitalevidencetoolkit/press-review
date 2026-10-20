@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "headline_en": "Germany’s top court orders economy minister to delete video accusing Left Party of antisemitism",
+      "significance": "The ruling limits the use of an official government social-media account for political attacks and addresses the boundary between governmental communication and partisan campaigning.",
+      "source": "Anadolu Agency — Turkey",
+      "summary_en": "Germany’s Federal Constitutional Court ordered Economy Minister Katherina Reiche to remove an Instagram video from her ministry’s account that accused the Left Party of openly embracing antisemitism. The court said publication through an official government account could infringe the party’s right to equal participation in political competition, while stressing that Reiche could express the view as a politician or private citizen. The video must remain offline pending a final decision, for no longer than six months.[1]"
+    },
+    {
+      "headline_en": "Poland tells technology platforms to curb violent content after school attacks",
+      "significance": "The episode highlights expanding government pressure on platforms to remove allegedly illegal material and Poland’s proposed enforcement framework for the EU Digital Services Act.",
+      "source": "The Next Web — Netherlands",
+      "summary_en": "Polish authorities told technology platforms to act more aggressively against violent online content after attacks at schools. Officials said they had flagged 89 posts as illegal between 7 and 12 October, but platforms removed only 30. The government was also advancing legislation that would allow authorities to order immediate removals and impose large fines for non-compliance.[7]"
+    },
+    {
+      "headline_en": "France orders platforms to remove advertisements for looted goods",
+      "significance": "The measure shows governments using online-content removal powers during unrest, extending moderation demands beyond incitement to listings linked to alleged criminal activity.",
+      "source": "Reuters — United Kingdom",
+      "summary_en": "During violence in France, the government ordered platforms hosting sales of looted goods to remove the advertisements and cooperate with prosecutions of resellers. Junior Digital Minister Anne Le Hénanff announced the measure on X. The order formed part of the government’s response to unrest and online activity associated with it.[8]"
+    },
+    {
+      "headline_en": "Did social media fuel France’s riots? Paris wants answers as Brussels points to its rules",
+      "significance": "The debate concerns possible temporary platform blocking and the use of EU digital-regulation powers to require removal or downranking of violent content during unrest.",
+      "source": "EU Perspectives — European Union",
+      "summary_en": "A French political proposal called for the state to be able to block selected platforms temporarily during riots, although France had not blocked X, TikTok or Snapchat at the time of publication. The European Union’s Digital Services Act requires platforms to address content inciting violence and gives regulators enforcement powers, including potentially substantial fines. The article also recalled that French authorities asked major platforms to remove calls for violence during the 2023 riots.[3]"
+    }
+  ],
+  "editorial_overview": "The week’s coverage shows governments and courts focusing on the political and public-order consequences of online speech. Germany’s constitutional court treated an official ministry account as subject to strict limits when used against a political party. Poland and France pursued removal or cooperation measures aimed at violent or allegedly criminal online material, while French officials also debated temporary platform blocking. Across the cases, the central tension is between rapid intervention against harmful content and safeguards against state-backed political suppression.",
+  "topic": "European press review: political social-media removals, censorship and platform moderation",
+  "date": "2026-10-20",
+  "citations": [
+    "https://www.aa.com.tr/en/europe/top-german-court-orders-cabinet-minister-to-delete-video-accusing-left-party-of-antisemitism/4091037",
+    "https://ua.news/en/world/sud-nimechchini-zoboviazav-ministerku-raikhe-pribrati-video-anadolu-agency",
+    "https://euperspectives.eu/2026/10/did-social-media-fuel-frances-riots-paris-wants-answers-brussels-rules/",
+    "https://news.osna.fm/federal-constitutional-court-orders-minister-to-remove-video-linking-left-party-to-antisemitism-claims/",
+    "https://en.yenisafak.com/technology/german-court-orders-minister-to-delete-antisemitism-video-3724521",
+    "https://elderofziyon.blogspot.com/2026/10/francesca-albanese-franceskalbs.html",
+    "https://thenextweb.com/news/poland-tech-platforms-violent-content-school-attacks",
+    "https://www.reuters.com/3fec1b0a85a0/world/europe/frances-macron-declines-interior-ministers-offer-resign-2026-10-19/",
+    "https://eur-lex.europa.eu/legal-content/CS/ALL/?uri=CELEX:62024CJ0591",
+    "https://economictimes.indiatimes.com/topic/internet-freedom-foundation-report"
+  ]
+}
