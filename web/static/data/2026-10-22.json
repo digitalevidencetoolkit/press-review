@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "headline_en": "Top German court orders Cabinet minister to delete video accusing Left Party of antisemitism",
+      "significance": "Germany",
+      "source": "Anadolu Agency (Turkey)",
+      "summary_en": "Germany’s Federal Constitutional Court ordered Economy Minister Katherina Reiche to remove an Instagram video from her ministry’s official account. The court said that publishing the allegation through an official government channel could infringe the Left Party’s right to equal participation in political competition; the video must remain offline pending a final decision, for up to six months.[6] [8] [10]"
+    },
+    {
+      "headline_en": "French prosecutors seek a suspended sentence and public-office ban for MEP Rima Hassan",
+      "significance": "France",
+      "source": "Brussels Signal (Belgium)",
+      "summary_en": "French prosecutors requested a 10-month suspended prison sentence and a two-year ban on holding public office for European Parliament member Rima Hassan. The case concerns a deleted post on X in which she quoted Kozo Okamoto, a participant in the 1972 Lod Airport attack; she is accused of glorifying terrorism.[1]"
+    },
+    {
+      "headline_en": "French prosecutors seek suspended prison sentence and office ban for MEP Rima Hassan",
+      "significance": "France",
+      "source": "Middle East Monitor (United Kingdom)",
+      "summary_en": "Prosecutors sought a suspended prison sentence and a two-year public-office ban over a social-media post later deleted by Rima Hassan. The post quoted Kozo Okamoto, who took part in the 1972 attack at Lod Airport near Tel Aviv.[2]"
+    },
+    {
+      "headline_en": "France puts Meta and TikTok on notice over riot content",
+      "significance": "France",
+      "source": "Cybernews (Lithuania)",
+      "summary_en": "French officials held an emergency meeting with major technology companies and pressed platforms including Meta and TikTok to moderate or remove content encouraging looting, arson or curfew violations after three days of violence. Renaissance presidential candidate Gabriel Attal also called for temporary social-media blackouts in affected areas.[3]"
+    },
+    {
+      "headline_en": "Poland’s digital minister threatens platforms with fines",
+      "significance": "Poland",
+      "source": "RMF24, reported by UA.NEWS (Ukraine)",
+      "summary_en": "Polish Digital Affairs Minister Krzysztof Gawkowski warned that social platforms could face multimillion-euro fines if they do not improve content moderation. He called for Polish-language moderation teams and faster responses to harmful-content complaints, while sharply criticising X for what he described as unwillingness to cooperate with the state.[4]"
+    }
+  ],
+  "editorial_overview": "The week’s coverage shows European authorities using several routes to control or challenge political speech online. Germany’s constitutional court ordered the removal of a ministerial video because official government communication could affect fair political competition, while France’s prosecution of Rima Hassan shows that deleted posts can remain legally consequential. Governments are also increasing pressure on platforms to remove or moderate content linked to unrest and harmful material, with France and Poland combining political demands with potential sanctions. The cases highlight the tension between combating incitement or alleged extremism and protecting political expression from state or institutional overreach.",
+  "topic": "European press review: political speech, content removal and platform moderation",
+  "date": "2026-10-22",
+  "citations": [
+    "https://brusselssignal.eu/2026/10/french-prosecutors-seek-suspended-sentence-and-public-office-ban-for-mep-rima-hassan/",
+    "https://www.middleeastmonitor.com/20261020-french-prosecutors-seek-suspended-prison-sentence-ban-on-office-for-mep-rima-hassan/",
+    "https://cybernews.com/news/france-meeting-meta-tiktok-riot-content-looted-goods/",
+    "https://ua.news/en/she-jiao-wang-luo/ministr-tsifrovizatsiyi-polshchi-gavkovskii-prigroziv-sotsplatformam-shtrafami-rmf24",
+    "https://ua.news/en/world/prokurori-prosiat-zaboroniti-ievrodeputattsi-khassan-obiimati-posadi-anadolu-agency",
+    "https://f.aa.com.tr/en/europe/top-german-court-orders-cabinet-minister-to-delete-video-accusing-left-party-of-antisemitism/4091037",
+    "https://ppc.land/european-commission-readies-study-on-5-dsa-dispute-settlement-challenges/",
+    "https://en.yenisafak.com/technology/german-court-orders-minister-to-delete-antisemitism-video-3724521",
+    "https://asthingsstand.co.uk/musk-x-election-interference/",
+    "https://ua.news/en/world/sud-nimechchini-zoboviazav-ministerku-raikhe-pribrati-video-anadolu-agency"
+  ]
+}
