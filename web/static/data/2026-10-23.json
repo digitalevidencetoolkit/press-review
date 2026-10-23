@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "headline_en": "French prosecutors seek suspended prison sentence and ban on office for MEP Rima Hassan",
+      "significance": "The case tests the boundary between criminal restrictions on political expression and prosecution of alleged glorification of terrorism.",
+      "source": "Anadolu Agency — Turkey",
+      "summary_en": "French prosecutors sought a 10-month suspended prison sentence and a two-year ban on holding public office for European Parliament member Rima Hassan. The case concerns a deleted post on X in which Hassan quoted Kozo Okamoto, a participant in the 1972 Lod Airport attack; prosecutors argued that the post glorified terrorism, while Hassan described the proceedings as an attempt to intimidate and silence an opposition lawmaker. No court decision had been issued at the time of reporting."
+    },
+    {
+      "headline_en": "France’s Gabriel Attal proposes a social-media blackout after riots",
+      "significance": "The proposal would give the government power to restrict access to social-media platforms during unrest, raising significant questions about digital speech and public-order powers.",
+      "source": "POLITICO Europe — European Union",
+      "summary_en": "French presidential candidate Gabriel Attal reiterated his call for the government to be able to selectively block access to social-media platforms during riots. The proposal followed unrest in France and was framed as a temporary, targeted measure intended to disrupt the organisation of violence."
+    },
+    {
+      "headline_en": "Could suspending social media stop vandalism? A divisive proposal in France",
+      "significance": "The debate shows how political actors are considering access restrictions as a response to unrest, even before any suspension has been ordered.",
+      "source": "Le Dauphiné Libéré — France",
+      "summary_en": "Gabriel Attal again proposed temporarily and selectively blocking certain platforms during riots, arguing that this could stop the ‘mob effect’. The article reports that politicians blamed TikTok, X and Instagram for helping organise looting and gatherings, while images of the unrest circulated online."
+    },
+    {
+      "headline_en": "Poland says social-media firms are Russia’s ‘silent ally’ and threatens fines",
+      "significance": "The Polish government is linking platform moderation failures to national security and threatening financial penalties for companies that do not comply with state requests.",
+      "source": "TBS News — Bangladesh",
+      "summary_en": "Polish Digital Affairs Minister Krzysztof Gawkowski said social-media platforms were a ‘silent ally’ of Russia in a digital war and accused them of failing to curb disinformation. He threatened fines for firms that ignore requests from the Polish state."
+    }
+  ],
+  "editorial_overview": "The week’s coverage centres on France, where a deleted post by MEP Rima Hassan has led to a prosecution seeking both a suspended sentence and exclusion from public office. Separately, French political figures have revived proposals for temporary or targeted social-media blocking during riots, alongside pressure for stronger platform moderation. Poland is taking a national-security approach, warning platforms over alleged Russian disinformation and threatening fines. Across these cases, political speech is increasingly being treated through criminal law, access restrictions and regulatory pressure, although the reported French proposals had not yet resulted in a shutdown and the Hassan case had no ruling.",
+  "topic": "European press review: political speech, social-media removals and digital censorship",
+  "date": "2026-10-23",
+  "citations": [
+    "https://www.naturalnews.com/2026-10-22-eu-allocates-736m-for-online-censorship-programs.html",
+    "https://aa.com.tr/en/europe/french-prosecutors-seek-suspended-prison-sentence-ban-on-office-for-mep-rima-hassan/4094847",
+    "https://brusselssignal.eu/2026/10/french-prosecutors-seek-suspended-sentence-and-public-office-ban-for-mep-rima-hassan/",
+    "https://www.sgtreport.com/2026/10/european-regimes-renew-their-attacks-on-free-speech/",
+    "https://www.naiz.eus/eu/info/noticia/20261023/suspender-las-redes-sociales-para-frenar-el-vandalismo-una-idea-que-polariza-en-francia",
+    "https://www.politico.eu/article/france-gabriel-attal-social-media-blackout-riot/",
+    "https://ua.news/en/world/prokurori-prosiat-zaboroniti-ievrodeputattsi-khassan-obiimati-posadi-anadolu-agency",
+    "https://www.fire.org/news/blogs/free-speech-dispatch/silencing-social-media-wont-stop-unrest-france",
+    "https://www.ledauphine.com/social/2026/10/20/violences-du-17-octobre-la-suspension-des-reseaux-sociaux-en-cas-d-emeutes-est-elle-envisageable",
+    "https://www.tbsnews.net/worldbiz/europe/poland-says-social-media-firms-are-silent-ally-russia-threatens-fines-1579421"
+  ]
+}
