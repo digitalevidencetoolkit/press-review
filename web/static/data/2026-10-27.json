@@ -1,0 +1,55 @@
+{
+  "articles": [
+    {
+      "headline_en": "French prosecutors seek suspended sentence and public-office ban for MEP Rima Hassan",
+      "significance": "The case illustrates how a deleted social-media post by an elected European politician can lead to criminal proceedings and potential restrictions on holding office.",
+      "source": "Brussels Signal — Belgium",
+      "summary_en": "French prosecutors requested a 10-month suspended prison sentence and a two-year ban from public office for MEP Rima Hassan. The case concerns a March 2026 post on X, later deleted, that quoted Kozo Okamoto, a former Japanese Red Army militant involved in the 1972 Lod Airport attack; Hassan is accused of glorifying terrorism, and the court was expected to rule on 30 November.[3]"
+    },
+    {
+      "headline_en": "French prosecutors seek two-year election ban for Rima Hassan",
+      "significance": "The proceedings raise questions about the criminal and electoral consequences of political speech posted online, even after the content has been removed.",
+      "source": "Gazatte.co — United Kingdom",
+      "summary_en": "Prosecutors sought a two-year election ban and a 10-month suspended sentence for French-Palestinian MEP Rima Hassan over a deleted X post. The prosecution argued that the post’s quotation of Kozo Okamoto amounted to glorification of terrorism; Hassan later removed it after investigators contacted her.[4]"
+    },
+    {
+      "headline_en": "Germany’s Constitutional Court orders minister to remove Instagram video attacking Die Linke",
+      "significance": "The interim order is a direct judicial restriction on political online speech by a government minister during political competition.",
+      "source": "I·CONnect — United States",
+      "summary_en": "Germany’s Federal Constitutional Court ordered the Federal Minister for Economic Affairs and Energy to remove an Instagram video accusing Die Linke of antisemitism and welcoming organised crime. The court said continued circulation could seriously and irreparably harm the party’s equal opportunity in political competition, while leaving the statements’ constitutionality for the main proceedings.[5]"
+    },
+    {
+      "headline_en": "Poland grants regulators power to block political speech without court orders",
+      "significance": "The reported law would create a rapid administrative route for removing or blocking online political content without prior judicial approval, prompting press-freedom concerns.",
+      "source": "TechTimes — United States",
+      "summary_en": "Poland’s parliament approved an amendment allowing the Office of Electronic Communications and the National Broadcasting Council to order platforms to block or remove content promoting violence on political, ethnic, racial or religious grounds. Orders could reportedly be issued within 48 hours without a court ruling, while critics and Poland’s Supreme Court warned of risks to press freedom.[2]"
+    },
+    {
+      "headline_en": "Telecoms regulator says no formal complaint received over satirical Facebook-page removals",
+      "significance": "The episode highlights uncertainty over whether politically sensitive platform removals were connected to state authorities during an election period.",
+      "source": "Bulgarian News Agency (BTA) — Bulgaria",
+      "summary_en": "Bulgaria’s Communications Regulation Commission said it had received no formal notification about the reported removal of several satirical Facebook pages, including “Kopeykin”, “Puylo” and “BG Elves”. The prime minister, interior minister and Interior Ministry cybercrime directorate denied involvement, while the regulator said platforms should enforce election-protection policies against disinformation and unauthorised political advertising.[10]"
+    },
+    {
+      "headline_en": "Increasing censorship on Meta platforms: Who writes the rules of the digital space?",
+      "significance": "The report documents platform-account suspensions affecting German creators and reflects continuing disputes over opaque moderation decisions affecting public online speech.",
+      "source": "Die Tageszeitung (taz) — Germany",
+      "summary_en": "The article reports a new wave of account suspensions that reached Europe, including temporary restrictions on the German creator accounts @itsleonieida and @marieejoan. It presents the incidents as part of a wider debate over who sets the rules for content moderation on Meta platforms.[1]"
+    }
+  ],
+  "editorial_overview": "The reported cases show several forms of pressure on political and public speech online: criminal prosecution after a deleted post, judicially ordered removal of a ministerial video, and new administrative powers to block content. Platform suspensions and disputed removals in Germany and Bulgaria add a separate layer of uncertainty because the basis for moderation or state involvement is contested. Across the cases, authorities and platforms cite terrorism, violence, election integrity or harmful content, while critics point to proportionality, transparency and safeguards for political expression.",
+  "topic": "European press review: political speech, content removal and platform moderation",
+  "date": "2026-10-27",
+  "citations": [
+    "https://taz.de/Zunehmende-Zensur-auf-Meta-Plattformen-Wer-schreibt-die-Regeln-des-digitalen-Raums/!6220962/",
+    "https://www.techtimes.com/articles/329422/20261023/poland-grants-regulators-power-block-political-speech-without-court-orders.htm",
+    "https://brusselssignal.eu/2026/10/french-prosecutors-seek-suspended-sentence-and-public-office-ban-for-mep-rima-hassan/",
+    "https://gazatte.co/europe/2026/10/21/rima-hassan-french-court-election-ban",
+    "https://www.iconnectblog.com/whats-new-week-of-october-26/",
+    "https://ground.news/article/i-ask-the-court-to-recall-the-republican-values-two-years-of-ineligibility-required-against-rima-hassan",
+    "https://www.cogwriter.com/news/prophecy/european-leaders-and-american-students-highly-supportive-of-censorship-for-what-they-define-as-hate-speech/",
+    "https://enlightentheday.substack.com/p/who-lit-the-match-frances-october",
+    "https://www.populismstudies.org/prof-mchangama-liberal-institutions-are-becoming-increasingly-illiberal-in-their-attempts-to-fight-populism/",
+    "https://www.bta.bg/en/news/bulgaria/1233090-telecoms-regulator-says-no-formal-complaint-received-over-satirical-facebook-pag"
+  ]
+}
