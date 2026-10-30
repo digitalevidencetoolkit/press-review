@@ -1,0 +1,55 @@
+{
+  "articles": [
+    {
+      "headline_en": "Top German court orders cabinet minister to delete video accusing Left Party of antisemitism",
+      "significance": "The case tests the limits of government communication in political competition and shows that courts may require removal of content posted through official state channels.",
+      "source": "Anadolu Agency — Germany",
+      "summary_en": "Germany’s Federal Constitutional Court ordered Economy Minister Katherina Reiche to remove an Instagram video from her ministry’s official account. The video accused the Left Party of openly embracing antisemitism; the court said publication through an official government account could infringe the party’s right to equal participation in political competition, pending a final ruling.[5]"
+    },
+    {
+      "headline_en": "German minister Reiche must delete Instagram post about the Left",
+      "significance": "A court-ordered deletion of a ministerial social-media post illustrates the legal distinction between a politician’s personal speech and political messaging issued through government accounts.",
+      "source": "Tagesschau — Germany",
+      "summary_en": "Tagesschau reported that Economy Minister Katherina Reiche was required to delete an Instagram post concerning the Left Party. The report covered the Federal Constitutional Court’s interim order involving the minister’s video.[7]"
+    },
+    {
+      "headline_en": "French prosecutors seek suspended prison sentence and two-year ban on office for MEP Rima Hassan",
+      "significance": "The prosecution over a deleted post raises questions about the criminal limits placed on political expression online and the potential effect on an elected opposition politician.",
+      "source": "Middle East Monitor — United Kingdom",
+      "summary_en": "French prosecutors sought a 10-month suspended prison sentence and a two-year ban on holding public office for European Parliament member Rima Hassan. The case concerns a deleted post on X quoting Kozo Okamoto, a participant in the 1972 attack at Lod Airport; prosecutors alleged that the post glorified terrorism, while Hassan described the proceedings as an attempt to silence her.[1]"
+    },
+    {
+      "headline_en": "France puts Meta and TikTok on notice over riot content",
+      "significance": "The episode shows governments pressuring platforms to remove or moderate politically consequential content during civil unrest, while proposals for temporary platform blackouts raise broader free-speech concerns.",
+      "source": "Cybernews — Cyprus",
+      "summary_en": "French officials called an emergency meeting with Meta and TikTok after several days of unrest and urged action against posts encouraging looting, arson and violations of curfews. Presidential candidate Gabriel Attal also called for temporary social-media blackouts in areas affected by riots.[8]"
+    },
+    {
+      "headline_en": "France’s Attal proposes social-media blackout amid riots",
+      "significance": "The proposal would expand government power to restrict access to major platforms during unrest, making it a significant debate over censorship and public-order measures.",
+      "source": "POLITICO Europe — European Union",
+      "summary_en": "French presidential candidate Gabriel Attal reiterated his call to give the government power to selectively block social-media platforms after widespread unrest. His proposal focused on restricting access as a means of preventing online coordination and escalation during riots.[9]"
+    },
+    {
+      "headline_en": "Man fined €2,500 for defaming German President Steinmeier",
+      "significance": "The conviction demonstrates that threatening or abusive political speech posted on social media can lead to criminal penalties, even when directed at a public figure.",
+      "source": "Newsworm — Germany",
+      "summary_en": "A man in Rhineland-Palatinate was fined €2,500 after commenting on a social-media post by President Frank-Walter Steinmeier with a death-related statement and approving emojis. The Zweibrücken Regional Court found him guilty of defaming the federal president and condoning criminal offences.[4]"
+    }
+  ],
+  "editorial_overview": "The week’s coverage shows several forms of state intervention in political online speech. In Germany, a constitutional court ordered the removal of content published through a ministerial account, while a separate case resulted in a fine for a threatening comment directed at the president. In France, a deleted post by an elected MEP led to a terrorism-related prosecution, and officials pressed platforms to remove riot-related content while a presidential candidate advocated selective blackouts. The cases collectively highlight the tension between public-order or anti-extremism measures and the protection of political expression online.",
+  "topic": "European press review: political speech removal, censorship and platform moderation",
+  "date": "2026-10-21",
+  "citations": [
+    "https://www.middleeastmonitor.com/20261020-french-prosecutors-seek-suspended-prison-sentence-ban-on-office-for-mep-rima-hassan/?amp",
+    "https://www.algemeiner.com/2026/10/20/french-authorities-seek-suspended-sentence-two-year-office-ban-eu-lawmaker-rima-hassan-terrorism-case/",
+    "https://ua.news/en/world/prokurori-prosiat-zaboroniti-ievrodeputattsi-khassan-obiimati-posadi-anadolu-agency",
+    "https://www.newsworm.de/news/man-fined-2-500-euros-for-defaming-german-president-steinmeier",
+    "https://u.aa.com.tr/en/europe/top-german-court-orders-cabinet-minister-to-delete-video-accusing-left-party-of-antisemitism/4091037",
+    "https://x.com/i/article/2112599951608033536",
+    "https://www.tagesschau.de/tagesschau_20_uhr/video-1667002.html",
+    "https://cybernews.com/news/france-meeting-meta-tiktok-riot-content-looted-goods/",
+    "https://www.politico.eu/article/france-gabriel-attal-social-media-blackout-riot/",
+    "https://lak24.de/en/nachrichten/bundeswirtschaftsministerin-reiche-muss-umstrittenes-video-loeschen-8664"
+  ]
+}

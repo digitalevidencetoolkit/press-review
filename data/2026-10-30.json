@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "headline_en": "Electoral Commission Opens Proceedings Against Sánchez over ‘Guernica’ Video",
+      "significance": "A national electoral authority ordered a serving prime minister to remove election-period social-media content, raising questions about the use of public resources and campaign communication online.",
+      "source": "Russpain — Spain",
+      "summary_en": "Spain’s Central Electoral Commission opened disciplinary proceedings against Prime Minister Pedro Sánchez over a video filmed at Madrid’s Reina Sofía Museum in front of Picasso’s Guernica. The commission said the video may breach rules on government campaigning and public resources and ordered its removal from the social-media profiles where it appeared; the proceedings are not a final finding of liability.[1]"
+    },
+    {
+      "headline_en": "Macron Accuses Social Media of Sowing Discord Ahead of Election",
+      "significance": "The French president publicly framed major social platforms as a threat to democratic stability amid protests and an approaching election, adding political pressure to the debate over platform governance.",
+      "source": "France 24 — France",
+      "summary_en": "President Emmanuel Macron said social media was damaging democracies and described platforms as tools for mobilising what he called the worst impulses. His remarks came during unrest linked to cost-of-living protests in France ahead of an election to choose his successor.[2]"
+    },
+    {
+      "headline_en": "France Proposes One-Hour Removal of Online Calls for Insurrection or Violence",
+      "significance": "The proposed measure would expand administrative powers to compel rapid content removal and potentially block or delist non-compliant platforms without prior judicial authorisation.",
+      "source": "DiploFoundation / Digital Watch Observatory — Switzerland",
+      "summary_en": "The French government introduced a Senate amendment proposing that platforms remove content calling for insurrection or violence within one hour. The proposal would allow authorities to seek temporary network-level blocking and search-engine delisting against non-compliant services, including TikTok, Instagram, Snapchat and X.[6]"
+    },
+    {
+      "headline_en": "European Governments Turn to Platforms to Curb Online Incitement and Disinformation",
+      "significance": "The report indicates a broader European shift toward using platform cooperation and state intervention to respond to unrest and politically sensitive online content.",
+      "source": "EFE — Spain",
+      "summary_en": "European governments are turning to social-media platforms to limit online incitement and disinformation amid rising unrest. The article presents these measures as part of a wider effort to address harmful digital speech without necessarily imposing outright platform bans.[8]"
+    },
+    {
+      "headline_en": "European Court of Justice to Rule in False-Quotation Dispute Between Renate Künast and Meta",
+      "significance": "The case could determine whether platforms must proactively identify and remove copies of unlawful political misinformation after removing an original post.",
+      "source": "Ground News — Germany",
+      "summary_en": "Germany’s Federal Court of Justice referred a dispute involving Green politician Renate Künast and Meta to the European Court of Justice. A user had circulated a fabricated quotation attributed to Künast; although Meta removed the original post, the legal question is whether it must actively locate and delete further copies.[10]"
+    }
+  ],
+  "editorial_overview": "The articles point to increasing state and regulatory involvement in political online speech across Europe. Authorities are using both individual removal orders, as in Spain, and proposed or existing rapid-takedown powers, as in France. Political leaders are also portraying social platforms as drivers of unrest and democratic harm. The Künast case could establish whether platforms’ responsibilities extend beyond removing a reported post to proactively finding identical or modified copies.",
+  "topic": "European press review: political speech, social-media moderation and online content removal",
+  "date": "2026-10-30",
+  "citations": [
+    "https://russpain.com/news/jec-opens-case-over-sanchez-s-guernica-video-113915/",
+    "https://www.france24.com/en/live-news/20261026-france-s-macron-to-visit-marseille-after-protest-violence",
+    "https://jen.jiji.com/jc/eng_agt?g=adnkronos&c=italy&k=20261027KRONOS-202610121564091357_eng",
+    "https://www.democrata.es/en/general-elections-spain/the-most-viral-politician-of-the-day-irene-montero-leads-tiktok-and-sanchez-turns-brazil-and-the-pp-vox-pact-into-campaign-messages/",
+    "https://countercurrents.org/2026/10/unmasked-agendas-macron-youth-protests-and-blocking-social-media/",
+    "https://dig.watch/updates/french-amendment-proposes-one-hour-removal",
+    "https://factcheck.afp.com/doc.afp.com.D4UC99G",
+    "https://efe.com/english/other-news/2026-10-28/europe-online-unrest-social-media/",
+    "https://ground.news/article/the-security-forces-will-call-for-social-media-not-to-erase-messages-from-riots-and-looting",
+    "https://ground.news/article/does-facebook-need-to-track-down-illegal-memes"
+  ]
+}

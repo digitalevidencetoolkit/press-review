@@ -1,0 +1,61 @@
+{
+  "articles": [
+    {
+      "headline_en": "Reform MS deletes ‘Rule, Britannia!’ post celebrating London as ‘our nation's capital’",
+      "significance": "The deletion followed criticism of a social-media post that mocked a statue of a Black woman and used patriotic imagery, illustrating how controversial political posts can be withdrawn after publication.",
+      "source": "Nation.Cymru — United Kingdom",
+      "summary_en": "Welsh Reform politician Joe Martin removed a Facebook post less than a day after publishing it. The post showed statues in Trafalgar Square, described one as “the odd one out,” and was accompanied by “Rule, Britannia!”; the reason for deletion was not confirmed."
+    },
+    {
+      "headline_en": "Meta’s arbitrariness: Account bans on Instagram and Facebook",
+      "significance": "The case raises concerns about politically consequential platform moderation and the treatment of progressive, journalistic and activist speech in a European country.",
+      "source": "netzpolitik.org — Germany",
+      "summary_en": "The article reports allegations that Meta suspended numerous activist, journalist and politician accounts connected to Albania’s Flamingo Revolution. NGOs and politicians, including European Parliament member Alexandra Geese, accused the company of censorship, while more than 30 MEPs asked the European Commission to examine the matter."
+    },
+    {
+      "headline_en": "French prosecutors seek suspended sentence and public-office ban for MEP Rima Hassan",
+      "significance": "The prosecution illustrates the use of criminal law against political expression on social media and the potential consequences of a deleted post by an elected European politician.",
+      "source": "Brussels Signal — Belgium",
+      "summary_en": "French prosecutors requested a ten-month suspended prison sentence and a two-year ban on public office for MEP Rima Hassan over a deleted post on X. Prosecutors argued that the post, which quoted a former militant regarding resistance, glorified or justified terrorism; Hassan denied wrongdoing."
+    },
+    {
+      "headline_en": "The government wants an emergency procedure to remove social-media content calling for insurrection",
+      "significance": "The proposal would accelerate administrative removal of political content and expand the state’s role in deciding when online speech threatens public order.",
+      "source": "Le Figaro — France",
+      "summary_en": "France’s interior minister confirmed that the government wants an emergency procedure to seek rapid removal of social-media posts calling for insurrection or arming against the state. The proposal was discussed amid protests and concerns about violence and disorder."
+    },
+    {
+      "headline_en": "French government seeks power to block content calling for looting during demonstrations",
+      "significance": "The measure would allow administrative authorities to request removal or blocking of political and protest-related content without a prior court order, raising free-expression concerns.",
+      "source": "Sudinfo — Belgium",
+      "summary_en": "The French Senate adopted a measure enabling authorities to seek the blocking of online content inciting violence, damage or insurrection. Platforms would have 24 hours to remove content deemed likely to cause a serious disturbance of public order, or risk blocking or delisting."
+    },
+    {
+      "headline_en": "Poland grants regulators power to block political speech without court orders",
+      "significance": "The reported amendment would give regulators a rapid administrative route to remove or block content, prompting concerns about judicial oversight and press freedom.",
+      "source": "TechTimes — United States",
+      "summary_en": "Poland’s parliament approved an amendment allowing regulators to order platforms to block or remove content promoting violence on ethnic, racial, political or religious grounds. The procedure would not require prior court authorization, and critics cited concerns that it exceeds EU requirements and threatens press freedom."
+    },
+    {
+      "headline_en": "European Parliament Left bloc communications chief deported from Israel",
+      "significance": "The episode highlights claims that political social-media activity can affect border and entry decisions, even when individuals report deleting relevant posts beforehand.",
+      "source": "The Yeshiva World — United States",
+      "summary_en": "Manus Carlisle, communications director of the European Parliament’s Left bloc, said Israeli officials questioned him about his political activities and social-media posts before deporting him. He said he and another activist had deleted Israel-related content about a month earlier in an effort to avoid delays."
+    }
+  ],
+  "editorial_overview": "The week’s coverage shows several European governments seeking faster administrative mechanisms to remove or block online content linked to violence, insurrection or serious public disorder. At the same time, platform bans in Albania and criminal proceedings in France demonstrate that moderation and legal enforcement affect both political actors and civil-society voices. Individual politicians also deleted controversial posts after publication, while one European political official claimed that online activity influenced an entry decision. The central tension is between rapid intervention against harmful content and safeguards for political expression, judicial oversight and platform accountability.",
+  "topic": "European press review: political social-media deletions, censorship and online content removal",
+  "date": "2026-10-28",
+  "citations": [
+    "https://netzpolitik.org/2026/account-sperren-auf-instagram-und-facebook-metas-willkuer-unterworfen/",
+    "https://nation.cymru/news/reform-ms-deletes-rule-britannia-post-celebrating-london-as-our-nations-capital/",
+    "https://brusselssignal.eu/2026/10/french-prosecutors-seek-suspended-sentence-and-public-office-ban-for-mep-rima-hassan/",
+    "https://www.techtimes.com/articles/329422/20261023/poland-grants-regulators-power-block-political-speech-without-court-orders.htm",
+    "https://www.theyeshivaworld.com/news/israel-news/2615691/entry-denied-european-parliament-left-wing-blocs-communications-chief-deported-from-israel.html",
+    "https://video.lefigaro.fr/figaro/actualite-france/le-gouvernement-veut-une-procedure-d-urgence-pour-retirer-les-contenus-appelant-a-l-insurrection-sur-les-reseaux-sociaux-20261027",
+    "https://hotair.com/david-strom/2026/10/27/macron-censorship-is-the-answer-to-riots-n3820371",
+    "https://www.sudinfo.be/id1216956/article/2026-10-28/manifestations-en-france-le-gouvernement-francais-veut-permettre-le-blocage-de",
+    "https://francais.news-pravda.com/russia/2026/10/27/1046734.html",
+    "https://ground.news/article/tokic-kartelo-leaves-politics"
+  ]
+}

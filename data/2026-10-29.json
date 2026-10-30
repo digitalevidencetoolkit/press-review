@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "headline_en": "Reform MS deletes ‘Rule, Britannia!’ post celebrating London as ‘our nation’s capital’",
+      "significance": "The post was removed less than a day after publication following criticism of its caption and imagery, though the reason for deletion was not confirmed.",
+      "source": "Nation.Cymru — United Kingdom",
+      "summary_en": "Reform Wales politician Joe Martin deleted a Facebook post featuring Trafalgar Square statues and the caption “Our nation’s capital. Spot the odd one out.” The post used ‘Rule, Britannia!’ and appeared to single out a statue of a Black woman; the publication reported that the reason for removal was unclear.[1]"
+    },
+    {
+      "headline_en": "Poland gives regulators power to block political speech without court orders",
+      "significance": "The reported legislation would expand executive administrative powers over online political content and has been criticised as a potential threat to press freedom.",
+      "source": "Tech Times — Poland",
+      "summary_en": "Poland’s parliament reportedly approved an amendment allowing the Office of Electronic Communications and the National Broadcasting Council to order platforms to block or remove content promoting violence on political, ethnic, racial or religious grounds. The orders could reportedly be issued within 48 hours without prior court authorisation, while critics argued the measure exceeds EU Digital Services Act requirements.[2]"
+    },
+    {
+      "headline_en": "Macron accuses social media of sowing discord ahead of election",
+      "significance": "The French president’s remarks link platform activity to democratic stability amid political unrest and an approaching presidential succession contest.",
+      "source": "France 24 / AFP — France",
+      "summary_en": "Emmanuel Macron accused social media of damaging democracies as France faced nationwide cost-of-living protests that had escalated into violence. He made the comments ahead of an election to choose his successor, while authorities dealt with unrest in Marseille and elsewhere.[3]"
+    },
+    {
+      "headline_en": "German court asks EU court who must find copies of defamatory posts",
+      "significance": "The case could clarify how broadly platforms must act when courts order the removal of unlawful user-generated content involving political figures.",
+      "source": "LHR Lawyers — Germany",
+      "summary_en": "Germany’s Federal Court of Justice referred six questions to the Court of Justice of the European Union in Green politician Renate Künast’s case against Meta. The dispute concerns whether a person seeking removal must identify every copy of allegedly unlawful content or whether the platform must locate identical or equivalent copies itself.[9]"
+    }
+  ],
+  "editorial_overview": "The coverage shows several overlapping pressures on political speech online. Individual politicians are deleting posts after controversy, while governments and regulators are seeking broader powers to remove or block content without prior judicial approval. Courts are simultaneously being asked to define how far platform-removal duties extend, particularly when unlawful political content is replicated. The overall picture is a widening dispute over the boundary between moderation, public-order regulation and censorship.",
+  "topic": "European press review: political speech, content removal and platform moderation",
+  "date": "2026-10-29",
+  "citations": [
+    "https://nation.cymru/news/reform-ms-deletes-rule-britannia-post-celebrating-london-as-our-nations-capital/",
+    "https://www.techtimes.com/articles/329422/20261023/poland-grants-regulators-power-block-political-speech-without-court-orders.htm",
+    "https://www.france24.com/en/live-news/20261026-france-s-macron-to-visit-marseille-after-protest-violence",
+    "https://ground.news/article/the-french-presidential-candidate-called-the-eu-flag-a-rag",
+    "https://www.theyeshivaworld.com/news/israel-news/2615691/entry-denied-european-parliament-left-wing-blocs-communications-chief-deported-from-israel.html",
+    "https://jen-k.jiji.com/jc/eng_agt?g=adnkronos&c=italy&k=20261027KRONOS-202610121564091357_eng",
+    "https://www.euronews.com/2026/10/23/late-invitations-and-spats-leave-hungarys-1956-commemoration-with-modest-guest-list",
+    "https://edmo.eu/publications/the-far-right-is-capitalising-on-the-unrest-in-france-and-italy/",
+    "https://www.lhr-law.de/en/magazine-en/data-protection-law/federal-court-kuenast-meta-cjeu-referral/amp/",
+    "https://24tv.ua/en/combating-pogroms-or-the-internet-how-information-networks-of_n3169130"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "headline_en": "French prosecutors seek suspended prison sentence and public-office ban for MEP Rima Hassan",
+      "significance": "The case illustrates how a deleted post by a serving politician can lead to criminal proceedings and potential restrictions on holding office.",
+      "source": "Anadolu Agency, Turkey",
+      "summary_en": "French prosecutors requested a 10-month suspended prison sentence and a two-year ban on holding public office for European Parliament member Rima Hassan. The case concerns a deleted post on X quoting Kozo Okamoto, a participant in the 1972 attack at Lod Airport; prosecutors argued that the post glorified or trivialised terrorism, while Hassan described the proceedings as an attempt to intimidate and silence her."
+    },
+    {
+      "headline_en": "Poland grants regulators power to block political speech without court orders",
+      "significance": "The reported measure would expand the executive’s ability to remove politically sensitive online content through an expedited administrative process without prior judicial authorisation.",
+      "source": "The Tech Times, United States",
+      "summary_en": "Poland’s parliament reportedly gave government officials power to order platforms to remove content promoting political violence without first obtaining a court ruling. The reported 48-hour procedure has drawn criticism that it exceeds the EU Digital Services Act framework and threatens press freedom."
+    },
+    {
+      "headline_en": "Germany’s Constitutional Court orders removal of minister’s Instagram video pending main proceedings",
+      "significance": "The interim order demonstrates that political speech posted by government officials can be subject to judicial removal orders when courts find a risk to fair political competition.",
+      "source": "I·CONnect, United States",
+      "summary_en": "Germany’s Federal Constitutional Court reportedly ordered the Federal Minister for Economic Affairs and Energy to remove an Instagram video accusing Die Linke of antisemitism and welcoming organised crime. The court found that continued circulation could cause serious and irreparable harm to the party’s right to equal opportunity, while leaving the underlying constitutional questions for later proceedings."
+    },
+    {
+      "headline_en": "Hennig-Kloski made a mistake: she commented on Gazeta.pl’s post on X",
+      "significance": "The incident is a recent example of a public figure deleting a politically related social-media message after publication and facing public reaction.",
+      "source": "Gazeta.pl, Poland",
+      "summary_en": "Former Poland 2050 politician Jadwiga Emilewicz reportedly published and deleted a post concerning Katarzyna Pełczyńska-Nałęcz on X. The deleted message was subsequently mocked by users of the platform."
+    }
+  ],
+  "editorial_overview": "The reported cases show several forms of conflict over political speech online: criminal prosecution following a deleted post, administrative powers to remove content, judicial orders directed at ministerial speech, and reputational consequences after deletion. The matters involve both private platforms and state action, with disputes focusing on terrorism-related expression, political violence, and equal treatment in political competition. Together, they indicate continued tension between content moderation, public-order restrictions, and protections for political speech.",
+  "topic": "European press review: political social-media deletions, content removal and digital speech restrictions",
+  "date": "2026-10-26",
+  "citations": [
+    "https://taz.de/Zunehmende-Zensur-auf-Meta-Plattformen-Wer-schreibt-die-Regeln-des-digitalen-Raums/!6220962/",
+    "https://u.aa.com.tr/en/europe/french-prosecutors-seek-suspended-prison-sentence-ban-on-office-for-mep-rima-hassan/4094847",
+    "https://ground.news/article/i-ask-the-court-to-recall-the-republican-values-two-years-of-ineligibility-required-against-rima-hassan",
+    "https://brusselssignal.eu/2026/10/french-prosecutors-seek-suspended-sentence-and-public-office-ban-for-mep-rima-hassan/",
+    "https://gazatte.co/europe/2026/10/21/rima-hassan-french-court-election-ban",
+    "https://ground.news/article/hennig-kloski-made-a-mistake-she-commented-on-gazetapls-post-on-the-x-portal",
+    "https://ua.news/en/world/prokurori-prosiat-zaboroniti-ievrodeputattsi-khassan-obiimati-posadi-anadolu-agency",
+    "https://www.techtimes.com/articles/329422/20261023/poland-grants-regulators-power-block-political-speech-without-court-orders.htm",
+    "https://www.algemeiner.com/2026/10/20/french-authorities-seek-suspended-sentence-two-year-office-ban-eu-lawmaker-rima-hassan-terrorism-case/",
+    "https://www.iconnectblog.com/whats-new-week-of-october-26/"
+  ]
+}

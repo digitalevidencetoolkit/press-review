@@ -1,0 +1,61 @@
+{
+  "articles": [
+    {
+      "headline_en": "AfD youth leader posts scandalous Greater Germany map, prompting angry reactions from neighbours",
+      "significance": "The episode illustrates how territorial nationalist content by a political figure can trigger international backlash and political consequences, including deletion of the post and resignation from a party leadership role.",
+      "source": "Večernji list — Croatia",
+      "summary_en": "Luca Moritz Strauß, a senior figure in the AfD’s youth organisation, posted an X map depicting Germany incorporating territory from several neighbouring countries. After criticism, he deleted the post, made his account private, and later stepped down from his leadership position.[1]"
+    },
+    {
+      "headline_en": "French foreign minister accuses Elon Musk of online harassment of European leaders",
+      "significance": "The dispute highlights concerns that platform owners or influential political users can shape national debates through targeted amplification and harassment campaigns.",
+      "source": "Irish Examiner — Ireland",
+      "summary_en": "French Foreign Minister Jean-Noël Barrot accused Elon Musk of using X to organise mass online harassment campaigns against European leaders. Barrot said France was responding to the use of paid or commissioned influencers to exploit the viral reach of digital platforms ahead of the 2027 presidential election.[2]"
+    },
+    {
+      "headline_en": "French minister accuses Musk of online harassment campaigns against European leaders",
+      "significance": "The allegations connect platform governance and political influence to concerns about foreign interference and the integrity of future elections.",
+      "source": "UNN — Ukraine",
+      "summary_en": "Barrot said Musk had used X to target European leaders and influence political debate through the platform’s virality. He also warned about foreign efforts to destabilise France before its next presidential election.[3]"
+    },
+    {
+      "headline_en": "Reiche must remove Instagram video",
+      "significance": "Germany’s constitutional court imposed an interim removal order on content published through a government ministry’s official account, directly restricting political speech pending a final ruling.",
+      "source": "Beck-aktuell — Germany",
+      "summary_en": "Germany’s Federal Constitutional Court ordered Economy Minister Katherina Reiche to remove an Instagram video containing sharp attacks on Die Linke from her ministry’s official account. The order applies until the main proceedings are decided, for a maximum of six months; the court has not yet ruled on whether the statements were unconstitutional.[4]"
+    },
+    {
+      "headline_en": "Reiche must delete Instagram reel about Die Linke",
+      "significance": "The case tests the limits on government ministers using official communication channels for partisan attacks and shows how courts can order temporary removal of political content.",
+      "source": "taz — Germany",
+      "summary_en": "The court required Reiche to delete the video while Die Linke’s constitutional complaint is considered. The removal may remain in force for up to six months pending the substantive decision.[6]"
+    },
+    {
+      "headline_en": "‘Sopron is Hungary. Period.’ TISZA MP demands answers from Fidesz after German far-right map prompts controversy",
+      "significance": "The deleted post generated cross-border political repercussions, with Hungarian opposition figures demanding that governing-party allies distance themselves from the AfD.",
+      "source": "Daily News Hungary — Hungary",
+      "summary_en": "A map shared by AfD youth leader Luca Moritz Strauß depicted Sopron and other territories in neighbouring countries as part of Germany. After the post was deleted, TISZA MP Anikó Hallerné Nagy criticised Fidesz and Mi Hazánk for their links with the AfD and called for public disassociation.[9]"
+    },
+    {
+      "headline_en": "France accuses Musk of online harassment of European leaders",
+      "significance": "The controversy reflects growing political concern over the role of major social-media owners in national political debates and possible election interference.",
+      "source": "The Star — Malaysia, reporting from France",
+      "summary_en": "France’s foreign minister accused Musk of running mass online harassment campaigns against European leaders through X. He said the campaigns sought to influence national debates by exploiting the platform’s viral distribution.[10]"
+    }
+  ],
+  "editorial_overview": "The week’s reporting centres on two forms of political speech controversy: officials or political figures withdrawing inflammatory online material, and governments or courts challenging the use of platforms for partisan influence. The AfD map controversy shows how a deleted post can continue to generate international and domestic political consequences. In Germany, a constitutional court temporarily ordered the removal of a ministerial Instagram video, creating a direct legal constraint on government communications. Separately, France’s accusations against Elon Musk underline broader European anxiety about platform power, harassment and possible interference in electoral debate.",
+  "topic": "European press review: political speech, content removal and social-media moderation",
+  "date": "2026-10-16",
+  "citations": [
+    "https://www.vecernji.hr/vijesti/celnik-afd-ove-mladezi-objavio-skandaloznu-kartu-velike-njemacke-uslijedile-burne-reakcije-susjeda-2003597",
+    "https://www.irishexaminer.com/world/arid-41924098.html",
+    "https://unn.ua/en/news/french-minister-accused-musk-of-online-harassment-campaigns-against-european-leaders",
+    "https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/bverfg-2BvE526-katharina-reiche-instagram-video-die-linke-2026-10-15",
+    "https://russianbots.america2.news/",
+    "https://taz.de/Antisemitismus-Vorwurf/!6222126/",
+    "https://www.afp.com/en/lula-bolsonaro-ordered-call-attempts-online-censorship",
+    "https://www.fire.org/news/blogs/free-speech-dispatch/uk-teen-mocked-local-politician-then-police-showed",
+    "https://dailynewshungary.com/sopron-is-hungary-tisza-mp-fidesz-afd/",
+    "https://www.nst.com.my/world/world/2026/10/1554787/france-accuses-musk-online-harassment-europe-leaders"
+  ]
+}
