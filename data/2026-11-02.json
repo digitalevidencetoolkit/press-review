@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "headline_en": "Sinn Féin TD says he deleted social media post about Dublin Rape Crisis Centre due to ‘pile on’",
+      "significance": "The case illustrates how online backlash can lead an elected politician to remove a public statement, while the underlying criticism of taxpayer-funded advertising remains unresolved.",
+      "source": "The Journal, Ireland",
+      "summary_en": "A Sinn Féin member of the Irish parliament said he deleted a social-media post concerning the Dublin Rape Crisis Centre after facing what he described as a “pile on”. He said he still wanted a review of how taxpayer-funded advertising campaigns are authorised.[1]"
+    },
+    {
+      "headline_en": "German court again suspends Renate Künast’s case against Meta",
+      "significance": "The referral could shape how European platforms must respond to unlawful political memes and whether victims can obtain information about the spread of defamatory content.",
+      "source": "Der Spiegel, Germany",
+      "summary_en": "Germany’s Federal Court of Justice suspended Green politician Renate Künast’s proceedings against Meta and referred legal questions to the Court of Justice of the European Union. The case concerns a fabricated quote attributed to Künast that circulated on Facebook; the original meme has since been removed.[2]"
+    },
+    {
+      "headline_en": "Spain’s election commission opens proceedings over Sánchez’s ‘Guernica’ video",
+      "significance": "The order represents direct regulatory intervention in a political leader’s social-media campaign material during an election period.",
+      "source": "RUSSPAIN, Spain",
+      "summary_en": "Spain’s election commission opened disciplinary proceedings against Prime Minister Pedro Sánchez over a video recorded at Madrid’s Reina Sofía Museum during the election period. It ordered the video removed from the social-media profiles where it had been posted, while stating that the proceedings did not yet establish liability.[4]"
+    },
+    {
+      "headline_en": "France proposes one-hour social-media removal rule",
+      "significance": "The proposal would expand administrative powers to demand rapid removal of political content, with possible website blocking and search-engine delisting without prior judicial authorisation.",
+      "source": "CircleID, France",
+      "summary_en": "The French government proposed legislation requiring platforms and hosting providers to remove content calling for insurrection, attacks or taking up arms within one hour. Failure to comply could lead to procedures blocking the website or removing it from search results.[8]"
+    },
+    {
+      "headline_en": "European Parliament communications chief deported from Israel after entry was denied",
+      "significance": "The account raises concerns about whether officials’ political activity and online speech can affect border treatment, and reports that travellers deleted Israel-related posts before arrival.",
+      "source": "The Yeshiva World, Israel",
+      "summary_en": "Manus Carlisle, communications director of the European Parliament’s Left group, said he was denied entry to Israel and deported after officials questioned him about his political activities. He said he and another traveller had deleted Israel-related social-media content about a month earlier to avoid delays, and claimed officials knew about posts he had published.[7]"
+    }
+  ],
+  "editorial_overview": "The week’s coverage shows several forms of pressure on political speech online, ranging from self-censorship after public backlash to formal removal orders by election authorities. Courts are also reassessing platforms’ responsibilities when fabricated political content circulates, while France is considering faster administrative takedown powers for material deemed to incite serious offences. The reported Israeli border case adds a cross-border dimension, with online political activity allegedly affecting entry decisions.",
+  "topic": "European press review: political speech, content removal and platform moderation",
+  "date": "2026-11-02",
+  "citations": [
+    "https://euagenda.eu/news/944309",
+    "https://ua.news/en/sotsyalnye-sety/federalnii-sud-nimechchini-znovu-prizupiniv-spravu-kiunast-proti-meta-der-spiegel",
+    "https://identrics.ai/sitreps/presidential-election-observatory-week-5-october-19-25",
+    "https://russpain.com/news/jec-opens-case-over-sanchez-s-guernica-video-113915/",
+    "https://www.thelocal.fr/20261028/two-thirds-of-fake-news-about-french-riots-came-from-abroad-says-minister",
+    "https://www.lhr-law.de/en/magazine-en/data-protection-law/federal-court-kuenast-meta-cjeu-referral/",
+    "https://www.theyeshivaworld.com/news/israel-news/2615691/entry-denied-european-parliament-left-wing-blocs-communications-chief-deported-from-israel.html",
+    "https://circleid.com/posts/france-proposes-one-hour-social-media-removal-rule-after-secret-dns-blocking-plans",
+    "https://x.com/ADFIntl/status/2115442369940398119",
+    "https://www.cbc.ca/news/politics/european-union-canada-associate-member-9.7399578"
+  ]
+}
