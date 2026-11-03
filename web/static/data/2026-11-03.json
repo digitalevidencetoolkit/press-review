@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "headline_en": "The Electoral Board opens proceedings against Sánchez and orders him to withdraw the video recorded in front of Guernica",
+      "significance": "Spain’s Central Electoral Board ordered the removal of a video from Pedro Sánchez’s social-media profiles, alleging that its recording in the Reina Sofía Museum may have breached electoral-law restrictions on institutional resources and political messaging. The proceedings were still ongoing and did not yet establish a violation or impose a fine.",
+      "source": "Demócrata — Spain",
+      "summary_en": "Spain’s Central Electoral Board opened sanctioning proceedings against Prime Minister Pedro Sánchez over a video recorded at Madrid’s Reina Sofía Museum in which he promoted a “no to war” message. It required the video to be removed from the social-media accounts where it had been published and instructed the government to avoid similar actions during the electoral period."
+    },
+    {
+      "headline_en": "Germany’s Federal Court again suspends Künast’s case against Meta",
+      "significance": "The case tests how far platforms can be required to identify and remove copies of allegedly unlawful political content without receiving individual notices for each post. It also places the dispute before the EU Court of Justice for guidance on platform obligations.",
+      "source": "UA.NEWS, reporting Der Spiegel — Ukraine/Germany",
+      "summary_en": "Germany’s Federal Court of Justice suspended proceedings in Green politician Renate Künast’s lawsuit against Meta and referred questions to the Court of Justice of the European Union. Künast has sought the removal of a false Facebook meme attributed to her, including materially similar versions; the original meme has already been deleted."
+    },
+    {
+      "headline_en": "Social networks: The government wants to be able to block content calling for looting",
+      "significance": "The proposed Spanish rules would create a rapid-removal obligation for posts calling for violence or looting, backed by possible blocking or delisting sanctions against platforms. The measure illustrates the tension between preventing riot-related incitement and preserving online political speech.",
+      "source": "Ground News, reporting Spanish coverage — Spain",
+      "summary_en": "The Spanish government proposed requiring platforms to remove content calling for violence within 24 hours. Failure to comply could expose platforms to blocking or delisting, while the Senate was reported to have adopted a related amendment concerning violent content."
+    }
+  ],
+  "editorial_overview": "The week’s clearest developments involved formal intervention by public authorities rather than prominent politicians deleting posts themselves. Spain’s electoral authority directly ordered the removal of a prime ministerial video, while proposed rules would impose rapid takedown duties on platforms for content linked to violence or looting. In Germany, litigation by a politician is testing whether Meta must proactively identify copies of defamatory political material. Together, the cases show European disputes shifting toward institutional control over political online speech, platform liability, and the limits of automated or broad removal duties.",
+  "topic": "European press review: political online speech, content removal and platform moderation",
+  "date": "2026-11-03",
+  "citations": [
+    "https://identrics.ai/sitreps/presidential-election-observatory-week-5-october-19-25",
+    "https://www.washingtonexaminer.com/news/world/4786945/polish-president-forces-way-into-high-court-dramatic-return/",
+    "https://countercurrents.org/2026/10/unmasked-agendas-macron-youth-protests-and-blocking-social-media/",
+    "https://www.thejc.com/news/uk/bbc-bushra-shaikh-israel-october-humiliation-sunday-ujeis6xh",
+    "https://x.com/YourAnonCentral/status/2116874723737165978",
+    "https://www.thelocal.fr/20261031/inside-france-fake-news-and-avocado-sandwiches",
+    "https://ua.news/en/sotsyalnye-sety/federalnii-sud-nimechchini-znovu-prizupiniv-spravu-kiunast-proti-meta-der-spiegel",
+    "https://www.yahoo.com/news/politics/articles/police-deployed-during-stand-off-205207095.html",
+    "https://ground.news/article/the-security-forces-will-call-for-social-media-not-to-erase-messages-from-riots-and-looting",
+    "https://www.democrata.es/en/general-elections-spain/the-electoral-board-opens-proceedings-against-sanchez-and-orders-him-to-withdraw-the-video-recorded-in-front-of-the-guernica/"
+  ]
+}
