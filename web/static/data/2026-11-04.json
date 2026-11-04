@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "headline_en": "Social networks’ liability shields face Court of Justice scrutiny after German referral",
+      "significance": "The case could clarify platforms’ legal responsibility for political content and the scope of their liability protections in the EU.",
+      "source": "LexisNexis, United Kingdom",
+      "summary_en": "Germany’s highest civil court referred questions to the Court of Justice of the European Union concerning Meta’s obligations over user-generated content. The referral stems from politician Renate Künast’s lawsuit over falsely attributed quotations published on Facebook.[3]"
+    },
+    {
+      "headline_en": "EU plans to let Frontex monitor social media and flag posts",
+      "significance": "The proposal would expand an EU border agency’s role into monitoring public online speech and alerting platforms about allegedly illegal content.",
+      "source": "The Next Web, Netherlands",
+      "summary_en": "The European Commission reportedly wants Frontex to monitor public social-media posts concerning migration. The agency would also flag content it considers illegal to online platforms.[8]"
+    },
+    {
+      "headline_en": "Macron echoes the EU ‘party line’ on censorship",
+      "significance": "The post illustrates continuing political controversy over whether platforms should be required to remove illegal content and how such duties are characterised by critics.",
+      "source": "X post by Mario Nawfal, France-related",
+      "summary_en": "A post published on X on 29 October quoted French President Emmanuel Macron as saying that platforms must remove substantial amounts of illegal content under their terms of service. The author criticised Macron’s position as censorship and authoritarianism.[4]"
+    },
+    {
+      "headline_en": "Far-Left Mayor Calls for Le Pen and RN to Be Censored",
+      "significance": "The remarks show a political call to restrict media exposure for opposing politicians on the grounds of alleged racist speech.",
+      "source": "Hungarian Conservative, Hungary",
+      "summary_en": "Saint-Denis mayor Bally Bagayoko called for Marine Le Pen and other Rassemblement National politicians to be denied airtime when they make racist remarks. He also supported stronger punishment for media and others accused of spreading hatred.[10]"
+    },
+    {
+      "headline_en": "My Experience as an American Censored by French Authorities",
+      "significance": "The episode concerns state restrictions on a political event and the subsequent use of online livestreams to bypass the ban.",
+      "source": "The Daily Signal, United States, reporting on France",
+      "summary_en": "French authorities banned a political conference organised by Polémia, citing risks to public order and describing its subject as xenophobic and racist. An administrative court rejected an emergency appeal, while the event was subsequently broadcast on X and YouTube; activist Martin Sellner was also barred from entering France.[7]"
+    }
+  ],
+  "editorial_overview": "The articles point to a widening European dispute over how political speech should be handled online and in connected media environments. One legal case may establish stronger platform obligations, while the Frontex proposal would extend institutional monitoring of public social-media content. Political figures are also openly calling for restrictions on opponents’ airtime, and contested events are increasingly moving online when authorities impose bans. The available coverage includes both mainstream legal reporting and strongly partisan commentary, so claims about censorship should be distinguished from verified court, regulatory, or governmental actions.",
+  "topic": "European press review: political speech, censorship and platform moderation",
+  "date": "2026-11-04",
+  "citations": [
+    "https://globalvoices.org/2026/11/02/brazilian-lefts-quest-to-tame-meta-a-narrative-of-denouncement-and-resistance/",
+    "https://the-european.eu/story-68586/trump-europe-and-the-battle-over-who-controls-free-speech.html",
+    "https://www.lexisnexis.co.uk/legal/news/social-networks-liability-shields-face-court-of-justice-scrutiny-after-german-referral",
+    "https://x.com/MarioNawfal/status/2115774397868921216/video/1",
+    "https://www.dw.com/en/berlins-elif-eralp-under-fire-over-der-spiegel-interview/a-79799766",
+    "https://countercurrents.org/2026/10/unmasked-agendas-macron-youth-protests-and-blocking-social-media/",
+    "https://www.dailysignal.com/2026/11/02/my-experience-as-an-american-censored-by-french-authorities/",
+    "https://thenextweb.com/news/frontex-social-media-monitoring-eu-proposal",
+    "https://corporateeurope.org/en/2026/11/podcast-triangle-madness",
+    "https://www.hungarianconservative.com/articles/current/far-left-mayor-france-le-pen-rn-censored/"
+  ]
+}
