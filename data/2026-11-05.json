@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "headline_en": "Councillor sacked after posting sexualised AI image of colleague",
+      "significance": "The case illustrates how a political figure’s controversial social-media post can trigger disciplinary action after public criticism and subsequent deletion.",
+      "source": "BBC News, United Kingdom",
+      "summary_en": "Suffolk Reform councillor Chris Hudson was removed from his senior council position after posting a sexualised AI-generated image of fellow councillor June Mummery on X. The post was later deleted, but screenshots continued circulating; Hudson apologised while saying he had intended the image positively."
+    },
+    {
+      "headline_en": "Polish officials shared an AI-generated fake image; Foreign Minister later deleted his post",
+      "significance": "The incident raises concerns about officials responsible for combating disinformation amplifying synthetic content without clear labelling.",
+      "source": "Logos Press, Moldova (reporting on Poland)",
+      "summary_en": "Several Polish politicians, including Foreign Minister Radosław Sikorski and the head of the government’s Centre for Combating Disinformation, shared an AI-generated image without a clear disclaimer. Sikorski subsequently deleted his post, although the image had already spread widely."
+    },
+    {
+      "headline_en": "Meta’s algorithm blocks promotion of Gramsci museum event",
+      "significance": "The episode shows how automated political-content controls can restrict legitimate cultural speech when platforms classify references to political figures as political advertising.",
+      "source": "L’Unione Sarda, Italy",
+      "summary_en": "Facebook and Instagram rejected paid promotion for a theatrical event at the Gramsci House Museum in Sardinia after classifying it as politics or social issues. Organisers said the system confused a cultural event about Antonio Gramsci with political propaganda; the report noted that Meta’s advertising restrictions were a commercial policy rather than a general EU ban."
+    },
+    {
+      "headline_en": "Meta, TikTok and X lose legal challenge against UK watchdog",
+      "significance": "The ruling supports regulatory scrutiny of platform moderation and data practices, including demands for information about how political and other content is handled.",
+      "source": "Ground News, United Kingdom",
+      "summary_en": "The High Court in London rejected a legal challenge by Meta, TikTok and X against Ofcom. The decision affirmed the UK regulator’s authority to demand extensive data on content moderation under the Online Safety Act."
+    }
+  ],
+  "editorial_overview": "The week’s coverage centres on accountability for political social-media activity and the unintended effects of platform moderation. Two cases involved deleted posts by public officials, but deletion did not prevent wider circulation or institutional consequences. Automated systems also blocked cultural content because of its association with a political figure, while the UK court ruling reinforced regulators’ ability to inspect moderation practices. The available reports show both concerns about harmful or misleading political content and concerns that moderation systems may suppress legitimate public speech.",
+  "topic": "European press review: political social-media deletions, controversial posts, content removal and moderation controversies",
+  "date": "2026-11-05",
+  "citations": [
+    "https://www.bbc.co.uk/news/articles/c39wz04jrd2no",
+    "https://logos-pres.md/en/news/scandal-in-poland-head-of-the-centre-for-combating-disinformation-spreads-ai-generated-fake-news/",
+    "https://nexuswild.com/news/who-controls-social-media-meta-tiktok-and-x-face-a-new-era-of-regulatory-pressure/",
+    "https://www.euronews.com/2026/11/05/ban-it-or-build-it-europe-considers-how-to-regulate-social-media",
+    "https://korybko.substack.com/p/the-polish-general-staff-seemed-to",
+    "https://ground.news/article/meta-tiktok-x-lose-legal-challenge-against-uk-watchdog-over-online-safety-data-demands",
+    "https://www.unionesarda.it/en/sardinia/meta39-s-algorithm-blocks-gramsci-the-ghilarza-house-museum-event-is-censored-on-social-media-au9qp1uk",
+    "https://economictimes.indiatimes.com/tech/technology/twitter-research-group-stall-complicates-compliance-with-new-eu-law/printarticle/97399344.cms",
+    "https://www.aol.co.uk/articles/ban-build-europe-considers-regulate-070054000.html",
+    "https://thenextweb.com/news/eu-pauses-national-social-media-bans-austria"
+  ]
+}
