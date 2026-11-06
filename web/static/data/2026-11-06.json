@@ -1,0 +1,55 @@
+{
+  "articles": [
+    {
+      "headline_en": "Scandal in Poland: Head of the Centre for Combating Disinformation Spreads AI-Generated Fake News",
+      "significance": "Poland",
+      "source": "Logos Press, Moldova",
+      "summary_en": "Polish politicians and journalists shared an AI-generated image depicting President Karol Nawrocki allegedly grabbing a Constitutional Tribunal judge. Foreign Minister Radosław Sikorski shared the image on X and later deleted his post, while the head of the government’s Centre for Combating Disinformation was also among those who circulated it.[2]"
+    },
+    {
+      "headline_en": "Minister Pentz Deletes Comment After Racism Accusation",
+      "significance": "Germany",
+      "source": "Ground News, United States (aggregating German reporting)",
+      "summary_en": "Hesse minister Manfred Pentz deleted an Instagram comment after an exchange with a user of Afghan migrant background, following his description of unrest in Frankfurt as “migrant violence.” Pentz later apologised, while critics called for his resignation.[7]"
+    },
+    {
+      "headline_en": "Success for FPÖ at the Constitutional Court: Social-Media Rules for Parties Violate the Constitution",
+      "significance": "Austria",
+      "source": "Ground News, United States (aggregating Austrian reporting)",
+      "summary_en": "Austria’s Constitutional Court struck down rules governing social-media activity by government officials and cabinet staff. The court found that the rules were unconstitutional because they favoured governing parties over opposition parties.[8]"
+    },
+    {
+      "headline_en": "AfD Leader Draws Backlash Over Remarks About Romanian Migrants in Germany",
+      "significance": "Romania",
+      "source": "Romania Insider, Romania",
+      "summary_en": "AfD leader Alice Weidel wrote on X that Romanian migrants were increasingly exploiting Germany’s welfare system. Romanian politicians Ilie Bolojan and Dominic Fritz condemned the generalisation and called for respect and an apology.[1]"
+    },
+    {
+      "headline_en": "German-Born Romanian Politician Turns the Tables on AfD’s Weidel",
+      "significance": "Romania",
+      "source": "EUalive.net, Romania",
+      "summary_en": "USR leader Dominic Fritz criticised Alice Weidel in a German-language social-media video after she accused Romanian migrants of exploiting Germany’s welfare system. Fritz said Weidel had insulted Romania and urged her to apologise.[3]"
+    },
+    {
+      "headline_en": "Janusz Korwin-Mikke Attended a Conference in Minsk",
+      "significance": "Poland",
+      "source": "Interia, Poland",
+      "summary_en": "Polish politician Janusz Korwin-Mikke posted a photograph from Minsk and wrote that he had arrived to “save what can still be saved” ahead of Poland’s next elections. Politicians from the governing camp criticised the post and his visit, while Korwin-Mikke defended his position.[4]"
+    }
+  ],
+  "editorial_overview": "The week’s coverage centres on political figures using social media to circulate inflammatory, misleading, or controversial material. One notable deletion involved Poland’s foreign minister, who removed an AI-generated image after sharing it, while a German minister deleted a comment following accusations of racism. Austria’s constitutional ruling also highlights a broader institutional concern: rules governing political actors’ online communication may advantage incumbents over opposition parties.",
+  "topic": "European press review: political speech, social-media deletions, and online moderation controversies",
+  "date": "2026-11-06",
+  "citations": [
+    "https://www.romania-insider.com/society/afd-leader-draws-backlash-remarks-about-romanian-migrants",
+    "https://logos-pres.md/en/news/scandal-in-poland-head-of-the-centre-for-combating-disinformation-spreads-ai-generated-fake-news/",
+    "https://eualive.net/german-born-romanian-politician-turns-the-tables-on-afds-weidel/",
+    "https://ua.news/en/world/ianush-korvin-mikke-vidvidav-konferentsiiu-v-minsku-interia",
+    "https://www.euronews.com/2026/11/05/ban-it-or-build-it-europe-considers-how-to-regulate-social-media",
+    "https://thenextweb.com/news/eu-pauses-national-social-media-bans-austria",
+    "https://ground.news/article/why-do-you-speak-like-that-hessian-minister-irritates-with-racist-comment-on-instagram",
+    "https://ground.news/article/rule-for-policy-accounts-on-social-media-tilted",
+    "https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html",
+    "https://metro.co.uk/2026/11/02/bizarre-vegetable-musings-filling-nigel-farages-facebook-comments-29757839/"
+  ]
+}
