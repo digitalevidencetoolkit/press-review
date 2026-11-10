@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "headline_en": "Bonaccini deletes post showing Tajani in a MAGA cap: “Ironic meme”, controversy erupts",
+      "significance": "The episode illustrates how manipulated or misleading political imagery can trigger party pressure, government criticism and the removal of a politician’s social-media post.",
+      "source": "la Repubblica — Italy",
+      "summary_en": "Democratic Party president Stefano Bonaccini removed a social-media post showing Foreign Minister Antonio Tajani wearing a MAGA cap. He said it was an ironic meme and that he deleted it after a request from Forza Italia to avoid misunderstandings; Prime Minister Giorgia Meloni criticised the circulation of false images, including by opposition figures.[1][2]"
+    },
+    {
+      "headline_en": "AfD leader draws backlash over remarks about Romanian migrants in Germany",
+      "significance": "The dispute shows how social-media statements by senior politicians can provoke cross-border political condemnation and accusations of xenophobia.",
+      "source": "Romania Insider — Romania",
+      "summary_en": "AfD leader Alice Weidel wrote on X that Romanian migrants were exploiting Germany’s welfare system and cited alleged increases in spending. Romanian politicians Ilie Bolojan and Dominic Fritz condemned the remarks, with Fritz calling for an apology.[3]"
+    },
+    {
+      "headline_en": "Minister Pentz deletes comment after racism accusation",
+      "significance": "The case highlights the rapid political and reputational consequences of inflammatory social-media language concerning crime and migration.",
+      "source": "Ground News, citing Hessenschau — Germany",
+      "summary_en": "Hesse minister Manfred Pentz faced criticism over an Instagram comment describing unrest in Frankfurt as “migrant violence.” The report says he deleted the comment and apologised after accusations that the wording was racist.[10]"
+    }
+  ],
+  "editorial_overview": "The reporting this week centres on political figures facing backlash for social-media content involving migration, ethnicity or manipulated imagery. One politician deleted a post after opposition-party pressure, while another deleted a comment and apologised following accusations of racism. The cases show that moderation is occurring primarily through political and reputational pressure rather than reported court or regulatory orders. The available coverage did not establish a new European government or court order requiring removal of political speech online.",
+  "topic": "European press review: political social-media controversies and content removal",
+  "date": "2026-11-10",
+  "citations": [
+    "https://www.repubblica.it/en/politics/2026/11/07/news/photo_of_tajani_wearing_a_maga_cap_is_fake_fi_and_meloni_against_bonaccini_and_he_deletes_the_post-425706522/",
+    "https://jen-k.jiji.com/jc/eng_agt?g=adnkronos&c=italy&k=20261107KRONOS-202611121626916109_eng",
+    "https://www.romania-insider.com/society/afd-leader-draws-backlash-remarks-about-romanian-migrants",
+    "https://apnews.com/article/italy-minister-tajani-cyberattack-41b956d638e95528bef84fd856d5b5d6",
+    "https://polanddaily24.com/kierwinski-rushed-to-blame-the-far-right-for-krakow-massacre-now-his-unjustified-claims-are-spreading-worldwide/poland-today/76439",
+    "https://x.com/vonderleyen/status/2119377467236589735",
+    "https://x.com/EvaVlaar/status/2118456477514133834",
+    "https://jen.jiji.com/jc/eng_agt?g=adnkronos&c=italy&k=20261107KRONOS-202611121627342158_eng",
+    "https://eualive.net/german-born-romanian-politician-turns-the-tables-on-afds-weidel/",
+    "https://ground.news/article/why-do-you-speak-like-that-hessian-minister-irritates-with-racist-comment-on-instagram"
+  ]
+}
