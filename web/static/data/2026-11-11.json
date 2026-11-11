@@ -1,0 +1,55 @@
+{
+  "articles": [
+    {
+      "headline_en": "Photo of Tajani wearing a MAGA cap is fake, and Bonaccini deletes the post after controversy",
+      "significance": "The episode illustrates how AI-generated or manipulated political imagery can trigger demands for removal and accusations of disinformation.",
+      "source": "La Repubblica (Italy)",
+      "summary_en": "Democratic Party president Stefano Bonaccini removed a social-media post showing Foreign Minister Antonio Tajani wearing a MAGA cap after Forza Italia objected. Prime Minister Giorgia Meloni criticised the circulation of false images, while Bonaccini described the image as an ironic meme and said he removed it to avoid misunderstanding."
+    },
+    {
+      "headline_en": "Are social media platforms censoring France’s protest movement?",
+      "significance": "The article examines claims that platform moderation and possible government pressure are suppressing protest-related political speech in France.",
+      "source": "Le Monde (France)",
+      "summary_en": "Users and political activists said videos had been removed or received fewer views, alleging deliberate suppression linked to political pressure. Platforms said removals were based on rules against dangerous misinformation, threats, incitement and glorification of violence; the article also reports a French Senate amendment that could permit blocking a social network without a court order if it failed to remove violent-incitement messages quickly."
+    },
+    {
+      "headline_en": "Bonaccini publishes photo of Tajani with MAGA cap, then removes it: ‘Ironic meme’; controversy erupts",
+      "significance": "The report provides additional Italian coverage of a political figure deleting an allegedly AI-generated image after pressure from governing-party politicians.",
+      "source": "Adnkronos (Italy)",
+      "summary_en": "Stefano Bonaccini published and later deleted an image depicting Antonio Tajani wearing a MAGA cap. Forza Italia politicians called the image fake and demanded its removal, while Meloni described the spread of false images by opposition figures as worrying; Bonaccini said he had removed the post after the party’s request."
+    },
+    {
+      "headline_en": "From pirates to protesters, France keeps reaching for the internet’s choke points",
+      "significance": "The report describes proposed French powers to order content takedowns and potentially block platforms without prior judicial review.",
+      "source": "Techdirt (United States, covering France)",
+      "summary_en": "The article reports that the French prime minister’s office asked mobile operators to prepare for possible blocking of TikTok, Instagram, Snapchat and X during protests. It also describes a Senate proposal allowing officials to order removal of content allegedly inciting violence or destruction and, in some circumstances, block a site without judicial review."
+    },
+    {
+      "headline_en": "European Union regulators tell TikTok to plug ‘rabbit holes’ or else",
+      "significance": "The reported EU finding raises a major platform-moderation issue involving algorithmic amplification and regulatory obligations under the Digital Services Act.",
+      "source": "Gizmodo (United States, covering the European Union)",
+      "summary_en": "The European Commission reportedly concluded that TikTok’s recommendation algorithm violates obligations under the Digital Services Act. Regulators said the platform must address risks associated with recommendation systems, including potentially harmful content pathways."
+    },
+    {
+      "headline_en": "The government asks Spain’s data-protection agency to suspend TikTok over controversy surrounding paedophilia content",
+      "significance": "The case shows a European government seeking regulatory suspension of a major platform after concerns about illegal and harmful material.",
+      "source": "El Constitucional (Spain)",
+      "summary_en": "Spain’s minister Sira Rego asked the Spanish Data Protection Agency to order TikTok’s activity suspended. The request followed an investigation that reportedly identified more than 1,000 items of content involving sexual violence against minors."
+    }
+  ],
+  "editorial_overview": "The week’s coverage centred on two linked tensions: political figures’ use of manipulated or controversial imagery, and governments’ expanding demands on platforms to remove harmful or allegedly unlawful content. In Italy, a politician deleted an AI-generated image after objections from the governing camp, while in France activists questioned whether moderation was suppressing protest speech. French proposals for non-judicial takedown and blocking powers, alongside EU scrutiny of TikTok’s recommendation system and Spain’s request to suspend the platform, show increasing regulatory pressure on online services. The reported measures also raise recurring questions about proportionality, transparency and judicial oversight.",
+  "topic": "European press review: political social-media controversies, content removal and platform moderation (4–11 November 2026)",
+  "date": "2026-11-11",
+  "citations": [
+    "https://www.repubblica.it/en/politics/2026/11/07/news/photo_of_tajani_wearing_a_maga_cap_is_fake_fi_and_meloni_against_bonaccini_and_he_deletes_the_post-425706522/",
+    "https://www.lemonde.fr/en/pixels/article/2026/11/07/are-social-media-platforms-censoring-france-s-protest-movement_6774253_13.html",
+    "https://jen-k.jiji.com/jc/eng_agt?g=adnkronos&c=italy&k=20261107KRONOS-202611121626916109_eng",
+    "https://www.techdirt.com/2026/11/10/from-pirates-to-protesters-france-keeps-reaching-for-the-internets-choke-points/",
+    "https://gizmodo.com/european-union-regulators-tell-tiktok-to-plug-rabbit-holes-or-else-2000836702",
+    "https://euperspectives.eu/2026/11/trump-vowed-to-punish-brussels-over-google-fine-his-probe-never-started/",
+    "https://www.euronews.com/2026/11/05/ban-it-or-build-it-europe-considers-how-to-regulate-social-media",
+    "https://jen.jiji.com/jc/eng_agt?g=adnkronos&c=italy&k=20261107KRONOS-202611121627342158_eng",
+    "https://economictimes.indiatimes.com/news/international/world-news/eus-dangerous-censorship-house-exposes-europes-threat-to-us-free-speech-at-fiery-hearing/videoshow/135638639.cms",
+    "https://www.elconstitucional.es/en/national/the-government-asks-the-spanish-data-protection-agency-to-suspend-tiktok-in-spain-due-to-the-controversy-over-pedophilia-content_10000_102.html"
+  ]
+}
