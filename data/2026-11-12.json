@@ -1,0 +1,55 @@
+{
+  "articles": [
+    {
+      "headline_en": "Bonaccini deletes post showing Tajani in a MAGA cap after controversy",
+      "significance": "The episode illustrates how political memes, alleged manipulated imagery and pressure from governing-party figures can lead to the removal of political speech from social media.",
+      "source": "la Repubblica, Italy",
+      "summary_en": "Democratic Party president Stefano Bonaccini deleted a post depicting Foreign Minister Antonio Tajani wearing a MAGA cap after criticism from Forza Italia and intervention by Prime Minister Giorgia Meloni. Bonaccini described it as an ironic meme and said he removed it to avoid misunderstanding, while Meloni warned that false images circulated by opposition politicians could spread disinformation.[1]"
+    },
+    {
+      "headline_en": "Are social media platforms censoring France’s protest movement?",
+      "significance": "The report highlights allegations that platforms removed protest-related content while French authorities considered stronger powers to block networks or require rapid takedowns.",
+      "source": "Le Monde, France",
+      "summary_en": "Le Monde reported allegations that TikTok and other platforms removed videos or accounts connected to protests, citing misinformation, threats or incitement to violence. The article also examined government proposals that could permit authorities to block a social network without a court order if it failed to remove messages quickly.[6]"
+    },
+    {
+      "headline_en": "Tusk seeks internet crackdown after Kraków massacre",
+      "significance": "The case shows how a violent incident can prompt political calls for expanded control over online content.",
+      "source": "Nordic Times, Denmark",
+      "summary_en": "Polish Prime Minister Donald Tusk was reported to be using a mass killing in Kraków as grounds to resume efforts to tighten regulation of online content. The report links the proposed internet measures with a wider review of firearms legislation.[7]"
+    },
+    {
+      "headline_en": "Hesse European Affairs minister faces resignation calls after social-media controversy",
+      "significance": "The incident demonstrates how inflammatory comments by public officials on social media can trigger political pressure and demands for resignation.",
+      "source": "Alpine Weekly, United Kingdom",
+      "summary_en": "Hesse minister Manfred Pentz faced calls to resign after comments on Instagram about unrest in Frankfurt, including a reference to migrant violence and mocking broken-German phrasing directed at a Volt politician. Pentz deleted the messages the following day and apologised for the wording.[8]"
+    },
+    {
+      "headline_en": "Minister Pentz deletes comment after racism accusation",
+      "significance": "The removal and apology followed accusations that a senior regional politician had used racist language in an online discussion about civil unrest.",
+      "source": "Frankfurter Allgemeine Zeitung, Germany",
+      "summary_en": "A report reproduced by Ground News said Manfred Pentz criticised Instagram comments about riots in Frankfurt and described the unrest as migrant violence. Pentz subsequently apologised and deleted the disputed comment after it was accused of being racist.[5]"
+    },
+    {
+      "headline_en": "Germany’s top civil court asks for more EU views on host-provider liability",
+      "significance": "The case could affect whether platforms must proactively identify and remove political defamation, rather than acting only after receiving individual notifications.",
+      "source": "Platform Economy Insights, United Kingdom, reporting Der Spiegel",
+      "summary_en": "Germany’s Federal Court of Justice again suspended Green politician Renate Künast’s lawsuit against Meta and referred unresolved legal questions to the Court of Justice of the European Union. Künast seeks removal of all memes containing her image and a fabricated statement, while the case examines Meta’s possible duty to detect such content proactively.[10]"
+    }
+  ],
+  "editorial_overview": "The articles portray a week in which political speech online was contested at several levels: politicians deleted disputed posts, public officials apologised for inflammatory comments, and governments considered stronger powers over platforms. France and Poland were associated with proposals to accelerate or broaden state intervention in online content, particularly where authorities cite violence or public disorder. Germany’s court proceedings show that the boundary between platform liability and proactive political-content removal remains unsettled. Much of the controversy turns on the tension between combating disinformation or incitement and avoiding politically driven suppression of lawful speech.",
+  "topic": "European press review: political social-media controversies, content removal and online censorship",
+  "date": "2026-11-12",
+  "citations": [
+    "https://www.repubblica.it/en/politics/2026/11/07/news/photo_of_tajani_wearing_a_maga_cap_is_fake_fi_and_meloni_against_bonaccini_and_he_deletes_the_post-425706522/",
+    "https://jen.jiji.com/jc/eng_agt?g=adnkronos&c=italy&k=20261107KRONOS-202611121626916109_eng",
+    "https://www.kompas.id/artikel/the-state-is-firm-in-eradicating-buzzers-and-influencers?open_from=English_Page",
+    "https://www.techdirt.com/2026/11/10/from-pirates-to-protesters-france-keeps-reaching-for-the-internets-choke-points/",
+    "https://ground.news/article/why-do-you-speak-like-that-hessian-minister-irritates-with-racist-comment-on-instagram",
+    "https://www.lemonde.fr/en/pixels/article/2026/11/07/are-social-media-platforms-censoring-france-s-protest-movement_6774253_13.html",
+    "https://nordictimes.com/world/after-the-massacre-tusk-seeks-internet-crackdown-and-review-of-gun-laws/",
+    "https://alpineweekly.com/politics/hesse-european-affairs-minister-faces-resignation-calls-after-social-media-controversy",
+    "https://unherd.com/newsroom/michel-houellebecq-is-a-victim-of-europes-hate-speech-regime/",
+    "https://platformeconomyinsights.com/germanys-top-civil-court-asks-for-more-eu-views-on-host-provider-liability/"
+  ]
+}
