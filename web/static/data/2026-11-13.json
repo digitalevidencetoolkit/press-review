@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "headline_en": "Bonaccini publishes photo of Tajani with MAGA cap, then removes it: “Ironic meme”, controversy erupts",
+      "significance": "The episode illustrates how political figures’ use of allegedly false or AI-created imagery can trigger demands for removal and accusations of disinformation.",
+      "source": "La Repubblica — Italy",
+      "summary_en": "Democratic Party president Stefano Bonaccini posted a meme showing Foreign Minister Antonio Tajani wearing a MAGA cap, then deleted it after criticism from Forza Italia and comments by Prime Minister Giorgia Meloni. Bonaccini said he removed the post to avoid misunderstanding and described it as an ironic meme; opponents called the image false and politically denigrating.[1][2]"
+    },
+    {
+      "headline_en": "Hesse European Affairs Minister faces resignation calls after social-media controversy",
+      "significance": "The case shows how inflammatory comments by public officials on social media can lead to deletion, apology and demands for resignation.",
+      "source": "Alpine Weekly — Germany",
+      "summary_en": "Hesse European Affairs Minister Manfred Pentz faced calls to resign after posting comments directed at Volt politician Sahak Ibrahimkhil during an online debate about unrest in Frankfurt. Pentz deleted the messages the following day, apologised for the wording and said he had also apologised personally to Ibrahimkhil.[5]"
+    },
+    {
+      "headline_en": "Are social-media platforms censoring France’s protest movement?",
+      "significance": "The report raises questions about whether platform moderation and possible algorithmic restrictions are suppressing protest-related political speech in France.",
+      "source": "Le Monde — France",
+      "summary_en": "Le Monde reported claims that videos connected to France’s protest movement were being deleted by platforms, including TikTok, even when users said they did not breach stated rules. MP Louis Boyard accused the government of censoring social media, while a media coordinator said there was evidence raising questions about algorithmic throttling but no formal proof.[6]"
+    }
+  ],
+  "editorial_overview": "The week’s coverage centres on the boundary between political expression, misinformation and platform enforcement. Two cases involved politicians deleting their own posts after public criticism, while the French protest-movement report focused on alleged platform removals and possible opacity in moderation. The available reporting does not establish a confirmed government order to remove political speech, but it shows continuing concern about whether moderation decisions are transparent, proportionate and politically neutral.",
+  "topic": "European press review: political social-media controversies, content removal and censorship (7–13 November 2026)",
+  "date": "2026-11-13",
+  "citations": [
+    "https://www.repubblica.it/en/politics/2026/11/07/news/photo_of_tajani_wearing_a_maga_cap_is_fake_fi_and_meloni_against_bonaccini_and_he_deletes_the_post-425706522/",
+    "https://jen-k.jiji.com/jc/eng_agt?g=adnkronos&c=italy&k=20261107KRONOS-202611121626916109_eng",
+    "https://www.politico.eu/article/prince-harry-doesnt-want-a-social-media-world/",
+    "https://www.lemonde.fr/en/politics/article/2026/11/12/melenchon-accuses-media-of-distorting-his-words-after-criticism-of-ukraine-remarks_6778708_5.html",
+    "https://alpineweekly.com/politics/hesse-european-affairs-minister-faces-resignation-calls-after-social-media-controversy",
+    "https://www.lemonde.fr/en/pixels/article/2026/11/07/are-social-media-platforms-censoring-france-s-protest-movement_6774253_13.html",
+    "https://ground.news/article/social-mobilization-and-threats-of-censorship-of-social-networks",
+    "https://www.euronews.com/2026/11/10/prince-harry-and-meghan-back-eu-campaign-against-online-bullying",
+    "https://www.aa.com.tr/en/europe/spain-s-prime-minister-hails-probe-into-child-sexual-abuse-material-on-tiktok-as-great-news-/4121555",
+    "https://expression.fire.org/p/prosecuting-michel-houellebecq-will?r=d1aai&triedRedirect=true"
+  ]
+}
