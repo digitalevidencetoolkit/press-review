@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "headline_en": "Polish president vetoes law on removing harmful online content, warning of “censorship”",
+      "significance": "The veto blocks legislation that would have expanded regulators’ power to order the blocking of online content, raising questions about safeguards for political speech and judicial oversight.",
+      "source": "Notes from Poland — Poland",
+      "summary_en": "President Karol Nawrocki vetoed a government bill that would have authorised regulators to block content involving violence or threats based on characteristics including political affiliation. Nawrocki argued that the powers could give the government arbitrary control over what people publish, while the government said the bill targeted illegal content and included appeals and judicial review.[1]"
+    },
+    {
+      "headline_en": "Poland’s President Nawrocki blocks government legislation to censor the Internet",
+      "significance": "The decision is a direct conflict between Poland’s president and government over the scope of state authority to restrict online content.",
+      "source": "Brussels Signal — Belgium",
+      "summary_en": "President Karol Nawrocki vetoed legislation passed by parliament that would have allowed authorities to order the blocking of online content, including criminal threats and incitement to violence. The bill provided for appeals through the courts, but critics described the proposed powers as a potential censorship mechanism.[3]"
+    },
+    {
+      "headline_en": "Poland’s online takedown powers hit a veto",
+      "significance": "The proposed system could have enabled some online removal orders to take effect before a judge reviewed them, creating concerns about political speech being removed first and challenged later.",
+      "source": "To Brief — European Union",
+      "summary_en": "Nawrocki vetoed a bill that would have allowed officials to issue immediate online removal orders before judicial review. The legislation covered threats and violence, including cases involving political affiliation, and allowed challenges in court within 14 days.[4]"
+    },
+    {
+      "headline_en": "Ahead of Spanish election, Sánchez takes aim at TikTok",
+      "significance": "The episode illustrates how concerns about platform safety can intersect with election politics and government proposals to restrict access to a major social-media platform.",
+      "source": "POLITICO Europe — European Union",
+      "summary_en": "Spain’s government pursued a possible TikTok ban after an investigation alleged that the platform had allowed child sexual-abuse material. Prime Minister Pedro Sánchez welcomed the opening of a preliminary inquiry on X, while opposition leader Alberto Núñez Feijóo also publicly called for action.[2]"
+    },
+    {
+      "headline_en": "UK police review politician’s repost of guillotine art on a T-shirt",
+      "significance": "The police review highlights the potential criminalisation or official scrutiny of political expression shared online, while a separate EU proposal could give Frontex a formal role in flagging social-media content.",
+      "source": "Foundation for Individual Rights and Expression — United Kingdom",
+      "summary_en": "UK police were reported to be reviewing a politician’s repost of artwork showing a guillotine on a T-shirt. The article also discusses a European Commission proposal that would allow Frontex to monitor social media and report content allegedly facilitating illegal entry to platforms under the Digital Services Act.[10]"
+    }
+  ],
+  "editorial_overview": "The week’s coverage centres on the tension between online safety measures and safeguards against political censorship. Poland provides the clearest case: presidential vetoes stopped proposed rapid takedown powers that critics said could remove speech before judicial review. In Spain, a proposed TikTok ban was linked to child-safety allegations but also unfolded in the run-up to a national election. Other reporting shows continued concern about authorities and platforms becoming formal or informal gatekeepers of political expression online.",
+  "topic": "European press review: political speech, online takedowns and platform moderation",
+  "date": "2026-11-16",
+  "citations": [
+    "https://notesfrompoland.com/2026/11/14/polish-president-vetoes-law-on-removing-harmful-online-content-warning-of-censorship/",
+    "https://www.politico.eu/article/ahead-of-spanish-election-pedro-sanchez-takes-aim-at-tiktok/",
+    "https://brusselssignal.eu/2026/11/polands-president-nawrocki-blocks-government-legislation-to-censor-the-internet/",
+    "https://tobrief.eu/en/article/poland-s-online-takedown-powers-hit-veto?tab=story",
+    "https://freerepublic.com/focus/f-news/4403157/posts",
+    "https://economictimes.indiatimes.com/topic/free-speech-Europe",
+    "https://www.huffpost.com/entry/katie-zacharia-melania-trump-post_n_6afaa9b2e4b0e2644ec88bf9/amp",
+    "http://www.europe-solidaire.org/spip.php?article80295",
+    "https://braveneweurope.com/media/jan-ralske-europe-erects-a-twilight-zone-for-journalism/",
+    "https://www.fire.org/news/blogs/free-speech-dispatch/uk-police-arrest-hundreds-more-peaceful-protesters-under-anti"
+  ]
+}
