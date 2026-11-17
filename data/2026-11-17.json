@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "headline_en": "Poland’s president vetoes law on removing harmful online content, warning of censorship",
+      "significance": "The veto highlights a conflict between implementing EU platform rules and protecting political expression from potentially broad state takedown powers.",
+      "source": "Notes from Poland — Poland",
+      "summary_en": "President Karol Nawrocki vetoed a government bill that would have empowered Polish regulators to order the blocking of online content, including material involving threats or incitement linked to political affiliation. Nawrocki said the provisions could create a “censorship official,” while the government argued that the bill targeted illegal content and included appeals and judicial review."
+    },
+    {
+      "headline_en": "Poland’s president vetoes internet bill, warns of state censorship",
+      "significance": "The case shows how national legislation implementing digital-content rules can become a political dispute over who controls online speech and when courts intervene.",
+      "source": "Nordic Times — Denmark",
+      "summary_en": "Karol Nawrocki vetoed legislation that would have given Polish officials powers to block online content, potentially including entire websites. The government said the measure concerned illegal content rather than opinions and that decisions could be challenged in court; the veto does not remove the EU Digital Services Act’s application in Poland."
+    },
+    {
+      "headline_en": "Poland’s online takedown powers hit a veto",
+      "significance": "The proposed system could have allowed some content to disappear before judicial review, raising concerns about the effect of rapid administrative takedowns on political speech.",
+      "source": "ToBrief — European Union",
+      "summary_en": "The bill would have allowed Poland’s communications and broadcasting regulators to order platforms to remove or block content linked to specified offences, with some orders taking effect immediately. President Nawrocki rejected it on 13 November, arguing that the mechanism could be used to censor political speech, while EU-level rules remained unaffected."
+    },
+    {
+      "headline_en": "European Commission plan to give Frontex trusted-flagger status is a threat to free speech",
+      "significance": "The proposal illustrates concern among civil-society groups that state agencies could gain enhanced influence over platform moderation and content-removal procedures.",
+      "source": "Electronic Frontier Foundation — United States / Europe",
+      "summary_en": "The Electronic Frontier Foundation and 27 other human-rights organisations called on the European Commission to withdraw a proposal that would give Frontex “trusted flagger” status. They said the arrangement could enable the border agency to request national authorities to issue takedown orders for social-media content under the Digital Services Act."
+    },
+    {
+      "headline_en": "Ahead of Spanish election, Sánchez takes aim at TikTok",
+      "significance": "The episode shows a political leader publicly supporting possible restrictions on a major platform after allegations about unlawful content, while EU rules limit unilateral national action.",
+      "source": "POLITICO Europe — European Union",
+      "summary_en": "The Spanish government pursued possible action against TikTok after an investigation alleged that the platform had allowed child sexual-abuse material. Prime Minister Pedro Sánchez posted positively on X after prosecutors opened a preliminary inquiry, while TikTok said it had acted quickly to identify and remove the content; the European Commission retains oversight of major platforms under the Digital Services Act."
+    }
+  ],
+  "editorial_overview": "The reporting is dominated by disputes over government authority to restrict or remove online content rather than by individual politicians deleting posts. Poland’s presidential veto is the clearest case, with the government presenting the bill as a response to illegal content and the president warning about censorship and political misuse. At EU level, civil-society organisations are challenging proposals that could give public agencies greater influence over takedown processes. The Spanish TikTok case adds a platform-specific example in which allegations about illegal content prompted political pressure for possible restrictions.",
+  "topic": "European press review: political speech, content removal and platform moderation",
+  "date": "2026-11-17",
+  "citations": [
+    "https://alliance4europe.eu/report/state-of-manipulation-a-threat-to-europes-security",
+    "https://gerador.eu/en/como-as-grandes-tecnologicas-se-tornaram-praticamente-intocaveis-na-europa/",
+    "https://www.eff.org/deeplinks/2026/11/european-commission-plan-give-frontex-trusted-flagger-status-threat-free-speech",
+    "https://notesfrompoland.com/2026/11/14/polish-president-vetoes-law-on-removing-harmful-online-content-warning-of-censorship/",
+    "https://nordictimes.com/europe/poland-s-president-blocks-internet-bill-warns-of-state-censorship/",
+    "http://www.economictimes.indiatimes.com/tech/technology/social-media-companies-face-global-tug-of-war-over-free-speech/articleshow/116869912.cms",
+    "https://www.politico.eu/article/ahead-of-spanish-election-pedro-sanchez-takes-aim-at-tiktok/",
+    "https://brusselssignal.eu/2026/11/polands-president-nawrocki-blocks-government-legislation-to-censor-the-internet/",
+    "https://tobrief.eu/en/article/poland-s-online-takedown-powers-hit-veto?tab=timeline",
+    "https://www.europarl.europa.eu/meps/el/indexsearch?query=can%20over"
+  ]
+}
