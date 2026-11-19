@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "headline_en": "Polish president vetoes law on removing harmful online content, warning of “censorship”",
+      "significance": "The veto blocks legislation that would have expanded regulators’ powers to order the removal or blocking of online content, leaving Poland’s implementation of the EU Digital Services Act incomplete.",
+      "source": "Notes from Poland — Poland",
+      "summary_en": "President Karol Nawrocki vetoed a government bill that would have authorised regulators to block content involving threats, incitement to violence, and other illegal material. Nawrocki said the powers were disproportionate and could give the government arbitrary control over online speech, while the government argued that the measures would protect users and include appeals and judicial review.[2]"
+    },
+    {
+      "headline_en": "Poland’s President Nawrocki blocks government legislation to censor the Internet",
+      "significance": "The decision highlights a political dispute in Poland over whether administrative authorities or courts should decide when online political and other content must be blocked.",
+      "source": "Brussels Signal — Belgium",
+      "summary_en": "President Karol Nawrocki vetoed legislation passed by parliament that would have allowed authorities to order the blocking of online content, including criminal threats and incitement to violence. Prime Minister Donald Tusk defended the bill in a post on X; the proposed decisions would have been subject to court appeals.[3]"
+    },
+    {
+      "headline_en": "In Munich, Vance accuses European politicians of censoring free speech",
+      "significance": "The intervention placed European online-speech restrictions, election-related decisions, and enforcement against controversial expression at the centre of a transatlantic political dispute.",
+      "source": "The Economic Times — India",
+      "summary_en": "US Vice-President JD Vance accused European governments of censoring free speech and political opponents during remarks at the Munich Security Conference. He criticised EU action against hateful content, Germany’s response to online anti-feminist comments, Sweden’s treatment of a Christian activist, the UK’s alleged retreat on religious rights, and Romania’s annulled election.[1]"
+    },
+    {
+      "headline_en": "Disinfo Update: Member States take on platforms, lessons from Brazil, what’s new in Brussels and a meetup in Madrid",
+      "significance": "The report records allegations that platform moderation in France may have been influenced by political pressure, while noting that the claims were difficult to verify.",
+      "source": "EU DisinfoLab — Belgium",
+      "summary_en": "French users, activists, and independent media accused platforms of hiding or removing protest-related content under political pressure. The report said the allegations were not easily substantiated, but that platform opacity and heightened government attention to social media had contributed to the suspicion.[6]"
+    }
+  ],
+  "editorial_overview": "The week’s coverage focused most clearly on Poland, where the president’s veto of online-content legislation exposed competing claims about censorship, user protection, and judicial oversight. A separate US intervention criticised several European governments for restricting or sanctioning controversial speech, extending the debate beyond platform moderation into elections and public-order enforcement. In France, allegations of politically pressured content removal remained unproven but underscored concerns about opaque platform decisions. The available reporting shows a continuing tension between efforts to restrict harmful online material and fears that political authorities could suppress lawful expression.",
+  "topic": "European press review: political speech, online content removal and censorship",
+  "date": "2026-11-19",
+  "citations": [
+    "http://economictimes.indiatimes.com/news/international/global-trends/in-munich-vance-accuses-european-politicians-of-censoring-free-speech/printarticle/118255447.cms",
+    "https://notesfrompoland.com/2026/11/14/polish-president-vetoes-law-on-removing-harmful-online-content-warning-of-censorship/",
+    "https://brusselssignal.eu/2026/11/polands-president-nawrocki-blocks-government-legislation-to-censor-the-internet/",
+    "https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-11-23/8/les-discours-de-haine-alimentent-le-racisme-et-la-violence-en-europe",
+    "https://www.europarl.europa.eu/news/el/agenda/plenary-news/2026-11-23/8/political-and-media-hate-speech-fuelling-racism-and-violence-in-europe",
+    "https://www.disinfo.eu/disinfo-update-18-11-2026/",
+    "https://www.europarl.europa.eu/news/pt/agenda/plenary-news/2026-11-23/8/les-discours-de-haine-alimentent-le-racisme-et-la-violence-en-europe",
+    "https://www.europarl.europa.eu/news/it/agenda/plenary-news/2026-11-23/8/eu-emissionshandel-grossere-reserve-soll-co2-markt-stabilisieren",
+    "https://www.eurotopics.net/en/367265/houellebecq-under-investigation-censorship?zitat=367220&pk_campaign=rss-en&pk_kwd=2026-11-16",
+    "https://www.europarl.europa.eu/news/cs/agenda/plenary-news/2026-11-23/8/eu-emissionshandel-grossere-reserve-soll-co2-markt-stabilisieren"
+  ]
+}
