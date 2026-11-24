@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "headline_en": "Downing Street brands Max Balegde’s No 10 TikTok ‘unacceptable’ as he deletes video",
+      "significance": "The episode illustrates how political backlash can lead public figures or creators to remove content filmed in politically sensitive settings.",
+      "source": "PinkNews — United Kingdom",
+      "summary_en": "TikTok creator Max Balegde posted a video filmed outside 10 Downing Street featuring a song with explicit lyrics. The video was later deleted after criticism from politicians, while Prime Minister Andy Burnham’s spokesman called it “clearly not acceptable” and said the creator was responsible for removing it.[7]"
+    },
+    {
+      "headline_en": "PSOE official calls Urda crash victim’s partner a ‘fucking troll’",
+      "significance": "The incident shows how inflammatory political replies on social media can target bereaved members of the public and subsequently disappear from the record.",
+      "source": "Russpain — Spain",
+      "summary_en": "PSOE official Andrés Perelló replied on X to a woman whose partner had died in the Urda crash, questioning whether she was a victim’s relative and calling her a “fucking troll.” The exchange, posted on 20 November, was later deleted.[9]"
+    },
+    {
+      "headline_en": "Information official: ‘Content manipulation threatens democracy and electoral results’",
+      "significance": "The statement reflects growing European political pressure on platforms to address disinformation and moderation risks affecting elections and civic debate.",
+      "source": "Adnkronos/Jiji Press — Italy",
+      "summary_en": "Italian undersecretary Alberto Barachini said disinformation and manipulated content distributed through international platforms threatened democracy and could influence political orientation and electoral results. He also warned that insufficient social-network content moderation could contribute to social division and violence, and called for stronger European intervention tools.[1]"
+    },
+    {
+      "headline_en": "Political and media hate speech fuelling racism and violence in Europe",
+      "significance": "The European Parliament’s debate highlights the tension between combating harmful political speech online and protecting freedom of expression.",
+      "source": "European Parliament — European Union",
+      "summary_en": "Parliament materials said political and media hate speech, including speech on social media, could fuel racism and violence. They described calls for stronger enforcement of media regulations and urged public figures to lead by example, while stressing that freedom of expression should not be used to justify hate.[2][5]"
+    },
+    {
+      "headline_en": "Christian freedoms ‘under attack in Europe’, US Congress hears",
+      "significance": "The testimony presents European content-removal and speech restrictions as a broader censorship dispute involving laws on hate speech, disinformation, offence and insult.",
+      "source": "Christian Today — United Kingdom",
+      "summary_en": "Jeremy Tedesco of the Alliance Defending Freedom told a US congressional hearing that European states had increased censorship proceedings under laws using terms such as “hate,” “disinformation,” “offense” and “insult.” He cited Finland’s conviction of former minister Päivi Räsänen and an order requiring passages from an online publication to be removed.[10]"
+    }
+  ],
+  "editorial_overview": "The week’s coverage centres on the boundary between political accountability and digital censorship. Several incidents involved social-media posts that were deleted after backlash, including an official’s hostile reply to a crash victim’s partner and an influencer’s video filmed at Downing Street. European officials and institutions also stressed the risks of disinformation, hate speech and inadequate moderation, while critics argued that content-removal powers can suppress lawful political or religious expression. The material reflects a continuing dispute over who should define harmful speech and when removal is justified.",
+  "topic": "European press review: political speech, content removal and platform moderation",
+  "date": "2026-11-24",
+  "citations": [
+    "https://jen.jiji.com/information-barachini-content-manipulation-threatens-democracy-and-electoral-results/",
+    "https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-11-23/8/gaza-plimmures-kai-periorismoi-stin-anthropistiki-voitheia",
+    "https://www.dailyfreeman.com/2026/11/23/charles-sauer-europe-treating-big-tech-like-its-own-piggy-bank/",
+    "https://euperspectives.eu/2026/11/can-europe-stop-bots-from-hijacking-democracy-without-ending-anonymity/",
+    "https://www.europarl.europa.eu/pdfs/news/expert/2026/11/briefing/20261113BRI48810/20261113BRI48810_en.pdf",
+    "https://www.europarl.europa.eu/news/hu/agenda/plenary-news/2026-11-23/8/political-and-media-hate-speech-fuelling-racism-and-violence-in-europe",
+    "https://www.thepinknews.com/2026/11/24/max-balegde-tiktok-downing-street-andy-burnham/",
+    "https://humanrightscommission.house.gov/sites/evo-subsites/humanrightscommission.house.gov/files/evo-media-document/testimony-tedesco.pdf",
+    "https://russpain.com/news/psoe-official-calls-urda-crash-victim-s-partner-a-puto-troll-123412/",
+    "https://www.christiantoday.com/news/christian-freedoms-under-attack-in-europe-us-congress-hears"
+  ]
+}
