@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "headline_en": "Burnham refuses to apologise for engaging with social media influencers",
+      "significance": "The episode shows how political outreach to influencers can create reputational and accountability issues when offensive content is produced at politically hosted events.",
+      "source": "Cambridge Independent, United Kingdom [1]",
+      "summary_en": "Andy Burnham defended engaging with online influencers after a TikTok video filmed outside 10 Downing Street was criticised as lewd and inappropriate. The video was deleted, and its creator apologised; Burnham said the content was wrong but declined to apologise for working with influencers."
+    },
+    {
+      "headline_en": "Phillipson backs Burnham engaging with social media influencers",
+      "significance": "The incident prompted ministerial scrutiny of political engagement with social-media personalities and the handling of offensive content associated with government premises.",
+      "source": "ITV News, United Kingdom [2]",
+      "summary_en": "Bridget Phillipson defended Andy Burnham’s engagement with online influencers after a TikTok creator posted an offensive video outside 10 Downing Street. She described the video as unacceptable and welcomed its removal."
+    },
+    {
+      "headline_en": "MP Nasima Razmyar considers legal action over MEP Tynkkynen’s social media post",
+      "significance": "The case illustrates how political posts targeting elected opponents can move from online controversy toward possible legal proceedings.",
+      "source": "Yle News, Finland [5]",
+      "summary_en": "Finnish Social Democratic MP Nasima Razmyar said she may take legal action over an X post by Finns Party MEP Sebastian Tynkkynen. Tynkkynen criticised her position on Finland’s border law and urged users to like the post if they wanted Razmyar to leave Finland."
+    },
+    {
+      "headline_en": "Chay Bowes: The Russian propaganda and disinformation that landed an Irish man on an EU blacklist",
+      "significance": "The EU sanctions raise questions about the boundary between countering foreign information manipulation and restricting politically controversial online speech.",
+      "source": "The Journal, Ireland [6]",
+      "summary_en": "The article examines EU sanctions against Irish media figure Chay Bowes and others described by the Council as propagandists involved in information manipulation supporting Russia’s war. It reports that Bowes had deleted some misinformation-related posts and characterised the sanctions as censorship and an attack on fundamental rights."
+    }
+  ],
+  "editorial_overview": "The week’s coverage centres on accountability for offensive or controversial political content circulated through social-media platforms. One UK controversy concerned the deletion of an influencer’s video filmed at a politically hosted event, while a Finnish case involved a politician considering legal action over a hostile post by an MEP. The EU sanctions case presents the strongest suppression issue, with authorities treating online activity as part of foreign information manipulation and the targeted individual disputing the measure as censorship. Overall, the articles show tension between political outreach, platform accountability, legal remedies and the protection of political expression.",
+  "topic": "European press review: political social-media controversies, content removal and digital speech suppression",
+  "date": "2026-11-25",
+  "citations": [
+    "https://www.cambridgeindependent.co.uk/national/burnham-refuses-to-apologise-for-engaging-with-social-media-influencers-174740/",
+    "https://www.itv.com/news/2026-11-25/phillipson-backs-burnham-engaging-with-social-media-influencers",
+    "https://www.europarl.europa.eu/news/hu/agenda/plenary-news/2026-11-23/8/political-and-media-hate-speech-fuelling-racism-and-violence-in-europe",
+    "https://www.europarl.europa.eu/news/el/agenda/plenary-news/2026-11-23/8/political-and-media-hate-speech-fuelling-racism-and-violence-in-europe",
+    "https://yle.fi/a/74-20257983",
+    "https://www.thejournal.ie/chay-bowes-eu-sanctions-misinformation-7229080-Nov2026/",
+    "https://euperspectives.eu/2026/11/can-europe-stop-bots-from-hijacking-democracy-without-ending-anonymity/",
+    "https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-11-23/8/political-and-media-hate-speech-fuelling-racism-and-violence-in-europe",
+    "https://morningstarsecurity.com/item/476510/new-eu-court-of-justice-ruling-on-platform-liability-could-cause-collateral-damage-to-freedom-of-expression",
+    "https://www.thescottishsun.co.uk/news/17108301/kemi-badenoch-andy-burnham-tiktok-influencer-drive/"
+  ]
+}
