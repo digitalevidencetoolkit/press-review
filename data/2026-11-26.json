@@ -1,0 +1,55 @@
+{
+  "articles": [
+    {
+      "headline_en": "Mecklenburg-Vorpommern Justice Minister Apparently Deletes Antifa Reel – CDU and AfD Demand Clarification",
+      "significance": "The case concerns a newly appointed justice minister removing a social-media video that opponents interpreted as expressing sympathy for Antifa, raising questions about political impartiality and transparency.",
+      "source": "Welt, Germany (reported via Ground News)",
+      "summary_en": "Michael Noetzel of Germany’s Left party reportedly deleted a social-media post showing him wearing a historical Antifa-logo shirt and raising his fist. Opposition politicians from the CDU and AfD called for clarification over the post and its removal.[1][5]"
+    },
+    {
+      "headline_en": "Chay Bowes: The Russian Propaganda and Disinformation That Landed an Irish Man on an EU Blacklist",
+      "significance": "The EU’s use of sanctions against a journalist accused of spreading Russian disinformation has prompted claims that political dissent and online speech are being suppressed.",
+      "source": "TheJournal.ie, Ireland",
+      "summary_en": "Irish journalist Chay Bowes was among people sanctioned by the EU over alleged links to Russian destabilisation activities. The article notes that he had previously deleted posts containing misinformation and that he described the sanctions on X as censorship.[4]"
+    },
+    {
+      "headline_en": "Provocative EU Intervention: Unprecedented Silencing of a Journalist with Athens’s Backing",
+      "significance": "The case illustrates the continuing dispute in Europe over whether sanctions aimed at foreign information operations constitute legitimate counter-disinformation measures or censorship of political speech.",
+      "source": "BankingNews.gr, Greece",
+      "summary_en": "The article discusses the EU’s November 16 sanctions against Irish journalist Chay Bowes and Norwegian academic Glenn Diesen. It presents the measures as an unprecedented silencing of journalists and links them to wider concerns about restrictions on dissenting views.[6]"
+    },
+    {
+      "headline_en": "Burnham Refuses to Apologise for Engaging with Social Media Influencers",
+      "significance": "The controversy highlights the political risks of government outreach to online influencers when offensive content is produced or circulated after official access.",
+      "source": "ITV News, United Kingdom",
+      "summary_en": "A TikTok video filmed outside Downing Street by Max Balegde was deleted after criticism over its offensive language. Mayor Andy Burnham said the video was inappropriate but defended engaging with influencers used by young people for information.[2]"
+    },
+    {
+      "headline_en": "Phillipson Speaks Out on Burnham Meeting Social Media Stars Amid Row",
+      "significance": "The episode has become a platform-moderation and political-accountability controversy because a government-linked influencer event was followed by the removal of offensive online content.",
+      "source": "The Independent, United Kingdom",
+      "summary_en": "Education Secretary Bridget Phillipson defended Andy Burnham’s outreach to digital influencers while calling a deleted TikTok video filmed outside Downing Street unacceptable. The video was made by Max Balegde after attending an influencer reception connected with the prime minister.[7]"
+    },
+    {
+      "headline_en": "Row Over ‘Grotesque’ Influencer Erupts in UK Parliament",
+      "significance": "The dispute shows how deleted online speech can become a parliamentary issue when it involves access to government premises and politically sponsored influencer engagement.",
+      "source": "Gulf News, United Arab Emirates",
+      "summary_en": "Opposition leader Kemi Badenoch criticised Prime Minister Andy Burnham after Max Balegde posted a now-deleted video outside Downing Street using offensive song lyrics. The post followed an influencer reception hosted at Downing Street.[10]"
+    }
+  ],
+  "editorial_overview": "The week’s coverage centres on two recurring patterns: politicians or influencers deleting controversial posts, and governments or political institutions restricting or sanctioning contentious online speech. In Germany and the United Kingdom, deleted material triggered questions about political judgement, transparency and official access. The EU-related reports present a sharper censorship dispute, with sanctions against an Irish journalist portrayed either as counter-disinformation policy or as suppression of dissent. The available reporting is concentrated in a small number of cases rather than indicating a single Europe-wide policy shift.",
+  "topic": "European press review: political social-media controversies, content removal and digital speech restrictions",
+  "date": "2026-11-26",
+  "citations": [
+    "https://worldattention.com/wire/4503599627407932",
+    "https://www.itv.com/news/2026-11-25/burnham-refuses-to-apologise-for-engaging-with-social-media-influencers",
+    "https://ambrusbela.substack.com/p/europes-democratic-paradox-defending",
+    "https://www.thejournal.ie/chay-bowes-eu-sanctions-misinformation-7229080-Nov2026/",
+    "https://ground.news/article/deleted-antifa-reel-how-much-attitude-can-a-minister-of-justice-show",
+    "https://new.bankingnews.gr/apopseis-arthra/articles/912472/provocative-eu-intervention-unprecedented-silencing-of-a-journalist-with-athens-s-backing",
+    "https://www.the-independent.com/news/uk/politics/tiktok-max-balegde-bridget-phillipson-andy-burnham-b3091258.html",
+    "https://lysanderspooneruniversity.com/2026/11/dissidents-in-the-eu-now-find-themselves-deplatformed-debanked-and-silenced/",
+    "https://www.globealert.ai/news/minister-of-justice-apparently-deletes-antifa-reel-cdu-and-afd-demand-e8c93a91",
+    "https://gulfnews.com/world/europe/row-over-grotesque-influencer-erupts-in-uk-parliament-1.500761015"
+  ]
+}
